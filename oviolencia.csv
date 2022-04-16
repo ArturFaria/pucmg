@@ -1,0 +1,5022 @@
+"cidade","autoprovocada_sim","autoprovocada_não","autoprovocada_ignorado","autoprovocada_branco","violencia"
+"110001 Alta Floresta D'Oeste",24,79,9,5,117
+"110037 Alto Alegre dos Parecis",1,3,-,-,4
+"110040 Alto Paraíso",-,9,1,-,10
+"110034 Alvorada D'Oeste",26,24,1,-,51
+"110002 Ariquemes",146,250,36,12,444
+"110045 Buritis",31,90,3,-,124
+"110003 Cabixi",-,1,-,-,1
+"110060 Cacaulândia",1,2,-,-,3
+"110004 Cacoal",184,132,-,-,316
+"110070 Campo Novo de Rondônia",4,13,-,-,17
+"110080 Candeias do Jamari",1,8,-,-,9
+"110090 Castanheiras",2,6,-,-,8
+"110005 Cerejeiras",2,3,1,1,7
+"110006 Colorado do Oeste",1,-,-,-,1
+"110007 Corumbiara",-,5,-,-,5
+"110008 Costa Marques",1,48,6,-,55
+"110094 Cujubim",-,33,3,3,39
+"110009 Espigão D'Oeste",-,2,-,-,2
+"110100 Governador Jorge Teixeira",5,3,-,-,8
+"110010 Guajará-Mirim",59,97,2,1,159
+"110110 Itapuã do Oeste",-,6,1,-,7
+"110011 Jaru",43,38,5,2,88
+"110012 Ji-Paraná",148,161,24,1,334
+"110013 Machadinho D'Oeste",5,10,1,-,16
+"110120 Ministro Andreazza",-,1,-,-,1
+"110130 Mirante da Serra",2,23,9,-,34
+"110140 Monte Negro",16,31,7,3,57
+"110014 Nova Brasilândia D'Oeste",3,10,-,-,13
+"110033 Nova Mamoré",9,8,-,-,17
+"110143 Nova União",16,5,5,-,26
+"110050 Novo Horizonte do Oeste",1,-,-,-,1
+"110015 Ouro Preto do Oeste",5,1,-,-,6
+"110145 Parecis",2,6,-,1,9
+"110018 Pimenta Bueno",19,133,-,-,152
+"110146 Pimenteiras do Oeste",-,1,-,-,1
+"110020 Porto Velho",469,1686,83,5,2243
+"110025 Presidente Médici",26,2,-,-,28
+"110147 Primavera de Rondônia",6,6,-,1,13
+"110026 Rio Crespo",1,-,-,-,1
+"110028 Rolim de Moura",73,147,3,1,224
+"110029 Santa Luzia D'Oeste",2,18,3,-,23
+"110148 São Felipe D'Oeste",-,-,1,-,1
+"110149 São Francisco do Guaporé",25,74,26,9,134
+"110032 São Miguel do Guaporé",6,8,3,-,17
+"110150 Seringueiras",-,2,-,-,2
+"110160 Theobroma",1,4,-,-,5
+"110170 Urupá",24,4,1,1,30
+"110175 Vale do Anari",2,8,-,-,10
+"110030 Vilhena",366,318,7,1,692
+"120001 Acrelândia",30,47,2,2,81
+"120005 Assis Brasil",1,34,-,3,38
+"120010 Brasiléia",191,1380,102,28,1701
+"120013 Bujari",1,8,-,-,9
+"120017 Capixaba",3,23,-,-,26
+"120020 Cruzeiro do Sul",159,353,99,-,611
+"120025 Epitaciolândia",-,6,1,-,7
+"120030 Feijó",8,39,3,-,50
+"120032 Jordão",43,94,1,-,138
+"120033 Mâncio Lima",3,14,5,-,22
+"120034 Manoel Urbano",2,18,3,1,24
+"120035 Marechal Thaumaturgo",21,9,1,-,31
+"120038 Plácido de Castro",5,112,20,9,146
+"120080 Porto Acre",-,3,-,1,4
+"120039 Porto Walter",2,15,-,-,17
+"120040 Rio Branco",1867,2700,84,6,4657
+"120042 Rodrigues Alves",18,12,2,2,34
+"120043 Santa Rosa do Purus",4,6,-,-,10
+"120050 Sena Madureira",3,28,4,3,38
+"120045 Senador Guiomard",6,30,1,1,38
+"120060 Tarauacá",7,409,16,8,440
+"120070 Xapuri",106,490,50,39,685
+"130002 Alvarães",15,231,8,13,267
+"130006 Amaturá",50,114,3,1,168
+"130008 Anamã",-,4,-,-,4
+"130010 Anori",-,3,1,-,4
+"130014 Apuí",15,164,44,7,230
+"130020 Atalaia do Norte",27,67,39,1,134
+"130030 Autazes",5,8,-,-,13
+"130040 Barcelos",7,45,5,-,57
+"130050 Barreirinha",3,124,8,1,136
+"130060 Benjamin Constant",189,701,40,4,934
+"130063 Beruri",1,18,-,-,19
+"130068 Boa Vista do Ramos",19,28,1,-,48
+"130070 Boca do Acre",-,10,-,2,12
+"130080 Borba",21,162,5,-,188
+"130083 Caapiranga",4,14,-,-,18
+"130090 Canutama",1,24,5,9,39
+"130100 Carauari",14,17,-,-,31
+"130110 Careiro",5,73,5,-,83
+"130115 Careiro da Várzea",4,10,-,-,14
+"130120 Coari",78,550,2,6,636
+"130130 Codajás",-,1,-,-,1
+"130140 Eirunepé",60,322,18,1,401
+"130150 Envira",16,219,2,-,237
+"130160 Fonte Boa",3,37,-,-,40
+"130165 Guajará",1,17,-,-,18
+"130170 Humaitá",86,581,-,-,667
+"130180 Ipixuna",19,20,38,-,77
+"130185 Iranduba",3,40,2,4,49
+"130190 Itacoatiara",34,514,585,-,1133
+"130195 Itamarati",-,4,-,-,4
+"130200 Itapiranga",4,24,1,-,29
+"130210 Japurá",-,5,-,1,6
+"130220 Juruá",1,40,-,-,41
+"130230 Jutaí",9,32,3,1,45
+"130240 Lábrea",2,16,1,2,21
+"130250 Manacapuru",44,594,606,71,1315
+"130255 Manaquiri",-,2,-,-,2
+"130260 Manaus",391,6875,1540,75,8881
+"130270 Manicoré",2,12,2,1,17
+"130280 Maraã",1,9,1,-,11
+"130290 Maués",45,42,9,-,96
+"130300 Nhamundá",2,-,-,-,2
+"130310 Nova Olinda do Norte",6,58,4,1,69
+"130320 Novo Airão",4,103,2,1,110
+"130330 Novo Aripuanã",1,17,-,-,18
+"130340 Parintins",39,326,22,2,389
+"130350 Pauini",8,91,-,-,99
+"130353 Presidente Figueiredo",26,91,2,7,126
+"130356 Rio Preto da Eva",49,74,22,3,148
+"130360 Santa Isabel do Rio Negro",10,95,9,3,117
+"130370 Santo Antônio do Içá",61,65,5,-,131
+"130380 São Gabriel da Cachoeira",41,319,22,1,383
+"130390 São Paulo de Olivença",71,198,3,3,275
+"130395 São Sebastião do Uatumã",-,1,-,-,1
+"130400 Silves",1,28,1,-,30
+"130406 Tabatinga",346,1835,193,11,2385
+"130410 Tapauá",6,76,4,1,87
+"130420 Tefé",134,1331,124,11,1600
+"130423 Tonantins",5,29,-,1,35
+"130426 Uarini",7,53,3,2,65
+"130430 Urucará",-,1,-,-,1
+"130440 Urucurituba",-,38,5,-,43
+"140005 Alto Alegre",12,64,17,4,97
+"140002 Amajari",32,25,7,-,64
+"140010 Boa Vista",1177,2589,215,21,4002
+"140015 Bonfim",20,69,20,5,114
+"140017 Cantá",3,4,1,1,9
+"140020 Caracaraí",94,418,62,3,577
+"140023 Caroebe",10,23,3,-,36
+"140028 Iracema",5,17,3,-,25
+"140030 Mucajaí",26,59,89,-,174
+"140040 Normandia",-,22,1,2,25
+"140045 Pacaraima",11,39,28,8,86
+"140047 Rorainópolis",89,103,79,17,288
+"140050 São João da Baliza",8,37,15,-,60
+"140060 São Luiz",6,18,-,9,33
+"140070 Uiramutã",10,13,1,2,26
+"150010 Abaetetuba",5,93,10,2,110
+"150013 Abel Figueiredo",-,1,-,-,1
+"150020 Acará",-,8,1,-,9
+"150030 Afuá",6,53,3,10,72
+"150034 Água Azul do Norte",1,4,1,-,6
+"150040 Alenquer",-,1,-,-,1
+"150050 Almeirim",-,20,-,5,25
+"150060 Altamira",126,2538,171,4,2839
+"150070 Anajás",3,1,-,-,4
+"150080 Ananindeua",86,865,144,15,1110
+"150085 Anapu",-,8,-,-,8
+"150090 Augusto Corrêa",2,24,23,1,50
+"150095 Aurora do Pará",4,20,-,-,24
+"150100 Aveiro",-,2,-,-,2
+"150110 Bagre",4,122,5,1,132
+"150120 Baião",4,156,2,7,169
+"150125 Bannach",-,5,-,-,5
+"150130 Barcarena",9,351,104,12,476
+"150140 Belém",455,9358,347,2,10162
+"150145 Belterra",-,6,-,-,6
+"150150 Benevides",-,6,-,-,6
+"150157 Bom Jesus do Tocantins",-,10,-,-,10
+"150160 Bonito",2,4,-,1,7
+"150170 Bragança",26,195,25,-,246
+"150172 Brasil Novo",50,90,11,2,153
+"150178 Breu Branco",-,1,-,-,1
+"150180 Breves",24,40,3,-,67
+"150190 Bujaru",3,9,1,-,13
+"150200 Cachoeira do Arari",-,-,1,-,1
+"150195 Cachoeira do Piriá",1,2,-,-,3
+"150210 Cametá",2,69,4,2,77
+"150215 Canaã dos Carajás",16,67,86,1,170
+"150220 Capanema",20,161,6,14,201
+"150230 Capitão Poço",1,1,-,-,2
+"150240 Castanhal",41,307,66,32,446
+"150250 Chaves",11,50,6,1,68
+"150260 Colares",1,4,-,-,5
+"150270 Conceição do Araguaia",11,125,8,6,150
+"150275 Concórdia do Pará",-,2,-,-,2
+"150276 Cumaru do Norte",1,-,-,-,1
+"150277 Curionópolis",2,10,-,-,12
+"150280 Curralinho",-,1,-,-,1
+"150285 Curuá",-,1,-,-,1
+"150290 Curuçá",5,54,1,1,61
+"150293 Dom Eliseu",-,12,-,-,12
+"150295 Eldorado do Carajás",4,4,3,-,11
+"150300 Faro",-,5,1,-,6
+"150307 Garrafão do Norte",-,11,2,1,14
+"150309 Goianésia do Pará",2,2,-,-,4
+"150310 Gurupá",-,15,-,-,15
+"150320 Igarapé-Açu",20,50,8,-,78
+"150330 Igarapé-Miri",8,36,1,-,45
+"150340 Inhangapi",1,3,-,3,7
+"150345 Ipixuna do Pará",-,9,-,-,9
+"150350 Irituia",5,20,-,2,27
+"150360 Itaituba",6,17,5,-,28
+"150370 Itupiranga",11,54,13,-,78
+"150375 Jacareacanga",12,63,2,1,78
+"150380 Jacundá",9,196,1,-,206
+"150390 Juruti",11,137,-,3,151
+"150400 Limoeiro do Ajuru",1,15,-,1,17
+"150405 Mãe do Rio",3,9,1,-,13
+"150410 Magalhães Barata",-,10,-,1,11
+"150420 Marabá",30,334,15,15,394
+"150430 Maracanã",-,1,1,-,2
+"150440 Marapanim",2,41,-,-,43
+"150442 Marituba",1,5,-,1,7
+"150445 Medicilândia",-,2,-,-,2
+"150450 Melgaço",-,1,-,-,1
+"150460 Mocajuba",1,1,-,-,2
+"150470 Moju",23,33,-,-,56
+"150475 Mojuí dos Campos",1,3,-,-,4
+"150480 Monte Alegre",-,2,-,-,2
+"150490 Muaná",4,16,2,-,22
+"150495 Nova Esperança do Piriá",1,51,4,11,67
+"150497 Nova Ipixuna",1,40,2,2,45
+"150503 Novo Progresso",23,97,2,1,123
+"150506 Novo Repartimento",1,12,1,-,14
+"150510 Óbidos",13,42,2,-,57
+"150520 Oeiras do Pará",1,25,1,-,27
+"150530 Oriximiná",15,132,6,2,155
+"150540 Ourém",-,3,-,-,3
+"150543 Ourilândia do Norte",1,20,-,-,21
+"150548 Pacajá",2,29,-,4,35
+"150549 Palestina do Pará",-,3,-,-,3
+"150550 Paragominas",78,131,11,8,228
+"150553 Parauapebas",129,881,240,2,1252
+"150555 Pau D'Arco",2,2,-,-,4
+"150563 Piçarra",1,5,-,-,6
+"150565 Placas",4,37,2,-,43
+"150580 Portel",-,-,1,-,1
+"150590 Porto de Moz",2,15,1,1,19
+"150600 Prainha",2,5,-,-,7
+"150610 Primavera",1,-,-,-,1
+"150611 Quatipuru",-,5,-,1,6
+"150613 Redenção",6,50,7,-,63
+"150616 Rio Maria",8,3,-,-,11
+"150618 Rondon do Pará",-,2,-,-,2
+"150619 Rurópolis",13,19,1,1,34
+"150620 Salinópolis",6,7,-,-,13
+"150630 Salvaterra",-,2,-,-,2
+"150640 Santa Cruz do Arari",-,1,-,1,2
+"150650 Santa Izabel do Pará",-,22,4,-,26
+"150655 Santa Luzia do Pará",-,3,4,-,7
+"150658 Santa Maria das Barreiras",-,1,-,-,1
+"150670 Santana do Araguaia",27,72,-,-,99
+"150680 Santarém",36,1576,22,12,1646
+"150690 Santarém Novo",-,-,1,-,1
+"150700 Santo Antônio do Tauá",-,3,-,-,3
+"150715 São Domingos do Araguaia",3,19,2,5,29
+"150720 São Domingos do Capim",7,103,4,1,115
+"150730 São Félix do Xingu",-,1,-,-,1
+"150740 São Francisco do Pará",3,7,6,-,16
+"150745 São Geraldo do Araguaia",11,25,3,3,42
+"150746 São João da Ponta",-,2,-,-,2
+"150747 São João de Pirabas",2,24,2,1,29
+"150760 São Miguel do Guamá",-,1,1,-,2
+"150770 São Sebastião da Boa Vista",-,6,-,-,6
+"150775 Sapucaia",-,1,4,-,5
+"150780 Senador José Porfírio",-,5,1,-,6
+"150795 Tailândia",97,844,10,3,954
+"150796 Terra Alta",2,13,1,-,16
+"150797 Terra Santa",1,4,1,-,6
+"150800 Tomé-Açu",-,17,-,1,18
+"150803 Tracuateua",1,9,2,-,12
+"150805 Trairão",1,8,1,-,10
+"150808 Tucumã",2,7,-,-,9
+"150810 Tucuruí",162,2224,29,5,2420
+"150812 Ulianópolis",13,89,6,5,113
+"150815 Uruará",4,7,-,-,11
+"150820 Vigia",15,56,2,4,77
+"150830 Viseu",-,5,-,-,5
+"150835 Vitória do Xingu",-,6,1,2,9
+"150840 Xinguara",-,13,-,1,14
+"160010 Amapá",4,25,3,-,32
+"160020 Calçoene",27,49,8,-,84
+"160021 Cutias",3,5,2,-,10
+"160023 Ferreira Gomes",1,8,1,1,11
+"160025 Itaubal",1,1,-,-,2
+"160027 Laranjal do Jari",49,389,13,3,454
+"160030 Macapá",259,857,56,6,1178
+"160040 Mazagão",7,32,4,5,48
+"160050 Oiapoque",38,160,5,1,204
+"160015 Pedra Branca do Amapari",18,21,1,2,42
+"160053 Porto Grande",35,318,25,-,378
+"160060 Santana",12,340,51,6,409
+"160005 Serra do Navio",-,-,2,-,2
+"160070 Tartarugalzinho",15,16,2,-,33
+"160080 Vitória do Jari",1,12,-,-,13
+"170025 Abreulândia",2,1,-,-,3
+"170030 Aguiarnópolis",-,8,-,-,8
+"170035 Aliança do Tocantins",13,21,1,2,37
+"170040 Almas",-,10,-,-,10
+"170070 Alvorada",4,5,2,-,11
+"170100 Ananás",21,21,1,-,43
+"170105 Angico",9,14,1,-,24
+"170110 Aparecida do Rio Negro",5,10,1,1,17
+"170130 Aragominas",8,18,2,-,28
+"170190 Araguacema",6,9,2,-,17
+"170200 Araguaçu",23,26,1,2,52
+"170210 Araguaína",839,2608,34,8,3489
+"170215 Araguanã",1,2,-,-,3
+"170220 Araguatins",9,76,15,-,100
+"170230 Arapoema",4,44,1,2,51
+"170240 Arraias",12,55,5,5,77
+"170255 Augustinópolis",41,240,91,1,373
+"170270 Aurora do Tocantins",-,1,-,-,1
+"170290 Axixá do Tocantins",-,1,-,-,1
+"170300 Babaçulândia",1,3,-,-,4
+"170305 Bandeirantes do Tocantins",9,11,2,1,23
+"170310 Barrolândia",-,4,1,1,6
+"170320 Bernardo Sayão",7,4,3,1,15
+"170330 Bom Jesus do Tocantins",4,17,1,-,22
+"170370 Brejinho de Nazaré",8,12,-,-,20
+"170380 Buriti do Tocantins",-,7,-,-,7
+"170382 Cachoeirinha",-,1,-,-,1
+"170384 Campos Lindos",1,4,3,1,9
+"170386 Cariri do Tocantins",15,38,-,-,53
+"170388 Carmolândia",3,10,-,-,13
+"170389 Carrasco Bonito",2,11,3,-,16
+"170390 Caseara",-,-,1,1,2
+"170410 Centenário",1,10,-,1,12
+"170510 Chapada da Natividade",-,-,1,-,1
+"170460 Chapada de Areia",1,4,-,-,5
+"170550 Colinas do Tocantins",51,249,2,5,307
+"171670 Colméia",1,15,-,-,16
+"170555 Combinado",5,3,-,-,8
+"170560 Conceição do Tocantins",11,39,-,1,51
+"170600 Couto Magalhães",-,2,-,-,2
+"170610 Cristalândia",12,36,2,-,50
+"170625 Crixás do Tocantins",3,3,-,-,6
+"170650 Darcinópolis",4,51,1,-,56
+"170700 Dianópolis",159,242,3,-,404
+"170710 Divinópolis do Tocantins",11,62,2,-,75
+"170720 Dois Irmãos do Tocantins",8,42,3,1,54
+"170730 Dueré",2,12,-,-,14
+"170740 Esperantina",-,2,-,-,2
+"170755 Fátima",2,7,1,-,10
+"170765 Figueirópolis",-,1,-,-,1
+"170770 Filadélfia",-,4,-,-,4
+"170820 Formoso do Araguaia",57,105,1,1,164
+"170825 Fortaleza do Tabocão",17,17,2,-,36
+"170830 Goianorte",3,-,1,2,6
+"170900 Goiatins",21,88,1,-,110
+"170930 Guaraí",147,297,19,6,469
+"170950 Gurupi",278,2861,8,1,3148
+"170980 Ipueiras",6,6,1,1,14
+"171050 Itacajá",2,13,1,-,16
+"171070 Itaguatins",2,9,-,1,12
+"171090 Itapiratins",2,14,-,-,16
+"171110 Itaporã do Tocantins",5,4,-,3,12
+"171150 Jaú do Tocantins",105,43,-,-,148
+"171190 Lagoa da Confusão",6,21,3,3,33
+"171195 Lagoa do Tocantins",2,14,-,1,17
+"171215 Lavandeira",-,3,-,-,3
+"171240 Lizarda",3,19,-,-,22
+"171245 Luzinópolis",5,20,1,-,26
+"171250 Marianópolis do Tocantins",-,2,-,-,2
+"171270 Mateiros",1,7,2,-,10
+"171280 Maurilândia do Tocantins",9,18,-,2,29
+"171320 Miracema do Tocantins",122,253,53,3,431
+"171330 Miranorte",2,17,1,-,20
+"171360 Monte do Carmo",5,44,3,-,52
+"171370 Monte Santo do Tocantins",2,4,3,-,9
+"171395 Muricilândia",7,20,3,-,30
+"171420 Natividade",13,44,-,1,58
+"171430 Nazaré",-,6,-,-,6
+"171488 Nova Olinda",4,3,-,-,7
+"171500 Nova Rosalândia",1,18,1,1,21
+"171510 Novo Acordo",2,12,1,-,15
+"171515 Novo Alegre",2,4,1,-,7
+"171525 Novo Jardim",1,2,-,-,3
+"171550 Oliveira de Fátima",1,-,-,-,1
+"172100 Palmas",1690,5480,144,34,7348
+"171570 Palmeirante",3,7,-,1,11
+"171380 Palmeiras do Tocantins",1,6,2,1,10
+"171575 Palmeirópolis",11,42,3,1,57
+"171610 Paraíso do Tocantins",114,244,28,2,388
+"171620 Paranã",5,17,6,3,31
+"171630 Pau D'Arco",-,3,-,-,3
+"171650 Pedro Afonso",20,71,11,2,104
+"171660 Peixe",7,53,1,-,61
+"171665 Pequizeiro",2,5,-,-,7
+"171700 Pindorama do Tocantins",-,2,-,-,2
+"171720 Piraquê",1,-,-,-,1
+"171750 Pium",21,42,1,-,64
+"171780 Ponte Alta do Bom Jesus",1,5,-,-,6
+"171790 Ponte Alta do Tocantins",-,17,2,1,20
+"171800 Porto Alegre do Tocantins",4,36,-,-,40
+"171820 Porto Nacional",335,641,77,4,1057
+"171830 Praia Norte",-,4,-,-,4
+"171840 Presidente Kennedy",5,42,-,-,47
+"171845 Pugmil",2,25,-,-,27
+"171850 Recursolândia",29,43,-,3,75
+"171855 Riachinho",2,11,3,-,16
+"171865 Rio da Conceição",1,9,-,-,10
+"171875 Rio Sono",7,7,-,-,14
+"171880 Sampaio",2,2,-,-,4
+"171884 Sandolândia",2,3,-,-,5
+"171886 Santa Fé do Araguaia",2,7,-,-,9
+"171888 Santa Maria do Tocantins",2,4,1,-,7
+"171889 Santa Rita do Tocantins",4,6,2,2,14
+"171890 Santa Rosa do Tocantins",2,8,2,1,13
+"171900 Santa Tereza do Tocantins",-,1,-,-,1
+"172000 Santa Terezinha do Tocantins",1,1,-,-,2
+"172010 São Bento do Tocantins",7,5,1,1,14
+"172015 São Félix do Tocantins",1,11,1,2,15
+"172020 São Miguel do Tocantins",-,19,-,-,19
+"172025 São Salvador do Tocantins",1,16,2,3,22
+"172030 São Sebastião do Tocantins",1,1,-,-,2
+"172049 São Valério",6,12,3,-,21
+"172065 Silvanópolis",11,68,-,5,84
+"172080 Sítio Novo do Tocantins",-,12,4,-,16
+"172085 Sucupira",7,9,-,-,16
+"172090 Taguatinga",3,6,-,-,9
+"172097 Talismã",1,12,-,-,13
+"172110 Tocantínia",-,1,-,-,1
+"172120 Tocantinópolis",126,373,4,7,510
+"172125 Tupirama",-,4,-,-,4
+"172130 Tupiratins",3,5,-,-,8
+"172208 Wanderlândia",-,1,-,-,1
+"172210 Xambioá",3,15,1,-,19
+"210005 Açailândia",3,12,1,4,20
+"210010 Afonso Cunha",1,14,-,2,17
+"210015 Água Doce do Maranhão",-,3,-,-,3
+"210020 Alcântara",3,1,1,-,5
+"210030 Aldeias Altas",3,27,-,-,30
+"210040 Altamira do Maranhão",-,3,-,-,3
+"210047 Alto Alegre do Pindaré",3,13,-,1,17
+"210050 Alto Parnaíba",3,8,-,-,11
+"210060 Amarante do Maranhão",6,145,-,-,151
+"210070 Anajatuba",5,10,-,2,17
+"210080 Anapurus",4,3,-,-,7
+"210083 Apicum-Açu",1,15,-,3,19
+"210090 Araioses",-,3,-,-,3
+"210095 Arame",4,6,-,-,10
+"210100 Arari",31,8,1,-,40
+"210110 Axixá",1,4,2,-,7
+"210120 Bacabal",16,96,2,9,123
+"210125 Bacabeira",-,5,-,-,5
+"210130 Bacuri",-,2,1,-,3
+"210135 Bacurituba",-,3,-,-,3
+"210140 Balsas",144,102,68,2,316
+"210150 Barão de Grajaú",5,11,-,-,16
+"210160 Barra do Corda",22,535,5,18,580
+"210170 Barreirinhas",4,97,4,4,109
+"210177 Bela Vista do Maranhão",2,5,-,-,7
+"210173 Belágua",1,3,-,-,4
+"210180 Benedito Leite",-,1,-,-,1
+"210190 Bequimão",2,1,-,-,3
+"210197 Boa Vista do Gurupi",1,1,-,-,2
+"210200 Bom Jardim",2,1,1,-,4
+"210203 Bom Jesus das Selvas",1,3,1,-,5
+"210207 Bom Lugar",3,2,-,-,5
+"210210 Brejo",2,1,-,-,3
+"210215 Brejo de Areia",-,3,-,-,3
+"210220 Buriti",1,1,-,1,3
+"210230 Buriti Bravo",1,2,1,-,4
+"210232 Buriticupu",-,10,5,-,15
+"210235 Buritirana",-,3,2,-,5
+"210237 Cachoeira Grande",-,2,2,-,4
+"210240 Cajapió",-,4,-,-,4
+"210250 Cajari",2,3,-,-,5
+"210255 Campestre do Maranhão",-,18,1,1,20
+"210260 Cândido Mendes",1,3,-,-,4
+"210270 Cantanhede",-,6,-,-,6
+"210275 Capinzal do Norte",1,5,-,-,6
+"210280 Carolina",-,-,1,2,3
+"210300 Caxias",382,1522,18,14,1936
+"210315 Centro do Guilherme",1,3,-,-,4
+"210317 Centro Novo do Maranhão",-,-,-,1,1
+"210320 Chapadinha",20,156,17,-,193
+"210325 Cidelândia",-,2,-,-,2
+"210330 Codó",72,155,9,3,239
+"210340 Coelho Neto",25,196,11,3,235
+"210350 Colinas",9,19,1,1,30
+"210355 Conceição do Lago-Açu",-,1,1,-,2
+"210360 Coroatá",9,77,4,1,91
+"210370 Cururupu",4,42,8,-,54
+"210375 Davinópolis",-,2,1,-,3
+"210380 Dom Pedro",1,4,-,-,5
+"210390 Duque Bacelar",5,37,-,1,43
+"210400 Esperantinópolis",1,9,-,-,10
+"210405 Estreito",11,23,-,-,34
+"210407 Feira Nova do Maranhão",5,8,-,-,13
+"210408 Fernando Falcão",-,1,-,-,1
+"210409 Formosa da Serra Negra",4,7,-,1,12
+"210410 Fortaleza dos Nogueiras",12,29,1,2,44
+"210420 Fortuna",2,5,2,-,9
+"210430 Godofredo Viana",-,2,-,-,2
+"210440 Gonçalves Dias",-,1,-,-,1
+"210455 Governador Edison Lobão",-,6,-,-,6
+"210460 Governador Eugênio Barros",-,6,-,-,6
+"210462 Governador Luiz Rocha",-,3,-,-,3
+"210467 Governador Nunes Freire",-,25,-,3,28
+"210480 Grajaú",7,7,1,-,15
+"210490 Guimarães",1,3,-,-,4
+"210500 Humberto de Campos",-,6,-,-,6
+"210510 Icatu",-,10,1,3,14
+"210515 Igarapé do Meio",2,14,-,-,16
+"210520 Igarapé Grande",1,8,-,-,9
+"210530 Imperatriz",438,695,50,66,1249
+"210535 Itaipava do Grajaú",4,6,-,-,10
+"210540 Itapecuru Mirim",1,14,1,3,19
+"210542 Itinga do Maranhão",4,14,1,1,20
+"210545 Jatobá",-,1,-,-,1
+"210547 Jenipapo dos Vieiras",2,3,-,1,6
+"210550 João Lisboa",1,15,-,-,16
+"210565 Junco do Maranhão",-,2,-,-,2
+"210570 Lago da Pedra",1,5,-,1,7
+"210580 Lago do Junco",7,10,1,1,19
+"210594 Lago dos Rodrigues",-,1,-,-,1
+"210590 Lago Verde",-,3,-,-,3
+"210592 Lagoa do Mato",-,8,-,1,9
+"210596 Lagoa Grande do Maranhão",-,6,1,2,9
+"210598 Lajeado Novo",1,5,-,-,6
+"210600 Lima Campos",1,12,2,1,16
+"210610 Loreto",5,2,1,-,8
+"210620 Luís Domingues",-,95,-,-,95
+"210630 Magalhães de Almeida",1,2,-,-,3
+"210632 Maracaçumé",2,10,-,-,12
+"210635 Marajá do Sena",4,1,-,1,6
+"210637 Maranhãozinho",-,1,-,-,1
+"210640 Mata Roma",1,6,1,-,8
+"210650 Matinha",4,2,-,1,7
+"210660 Matões",25,18,21,1,65
+"210663 Matões do Norte",-,6,-,1,7
+"210667 Milagres do Maranhão",-,-,-,5,5
+"210670 Mirador",-,1,2,-,3
+"210675 Miranda do Norte",1,1,-,1,3
+"210680 Mirinzal",-,13,-,7,20
+"210690 Monção",6,12,-,2,20
+"210700 Montes Altos",1,12,-,-,13
+"210710 Morros",2,2,-,1,5
+"210720 Nina Rodrigues",1,-,1,1,3
+"210725 Nova Colinas",-,3,-,-,3
+"210730 Nova Iorque",-,1,-,-,1
+"210735 Nova Olinda do Maranhão",-,13,2,-,15
+"210740 Olho d'Água das Cunhãs",2,6,-,3,11
+"210745 Olinda Nova do Maranhão",-,5,-,-,5
+"210750 Paço do Lumiar",12,40,4,-,56
+"210760 Palmeirândia",-,3,-,-,3
+"210770 Paraibano",1,9,-,-,10
+"210780 Parnarama",6,4,-,-,10
+"210790 Passagem Franca",-,7,2,-,9
+"210800 Pastos Bons",-,1,-,-,1
+"210805 Paulino Neves",1,6,-,1,8
+"210810 Paulo Ramos",-,2,-,-,2
+"210820 Pedreiras",5,80,6,5,96
+"210825 Pedro do Rosário",-,-,-,2,2
+"210830 Penalva",13,26,3,2,44
+"210840 Peri Mirim",1,-,-,-,1
+"210845 Peritoró",7,33,1,-,41
+"210850 Pindaré-Mirim",4,23,-,-,27
+"210860 Pinheiro",11,62,5,4,82
+"210870 Pio XII",1,15,-,-,16
+"210880 Pirapemas",6,71,8,-,85
+"210890 Poção de Pedras",1,-,-,-,1
+"210900 Porto Franco",4,5,-,-,9
+"210910 Presidente Dutra",7,282,17,3,309
+"210920 Presidente Juscelino",1,-,-,-,1
+"210927 Presidente Sarney",-,6,1,-,7
+"210930 Presidente Vargas",5,12,-,3,20
+"210940 Primeira Cruz",-,15,-,-,15
+"210945 Raposa",3,36,-,-,39
+"210950 Riachão",7,3,-,-,10
+"210955 Ribamar Fiquene",3,3,-,-,6
+"210960 Rosário",4,12,-,-,16
+"210970 Sambaíba",5,7,1,1,14
+"210975 Santa Filomena do Maranhão",1,-,-,-,1
+"210980 Santa Helena",-,3,2,-,5
+"210990 Santa Inês",11,113,2,-,126
+"211000 Santa Luzia",8,11,-,-,19
+"211003 Santa Luzia do Paruá",-,1,1,-,2
+"211010 Santa Quitéria do Maranhão",2,12,1,2,17
+"211020 Santa Rita",-,9,-,-,9
+"211023 Santana do Maranhão",-,2,-,-,2
+"211027 Santo Amaro do Maranhão",-,1,-,1,2
+"211030 Santo Antônio dos Lopes",1,1,1,-,3
+"211040 São Benedito do Rio Preto",4,5,-,-,9
+"211050 São Bento",-,3,-,-,3
+"211060 São Bernardo",-,6,-,-,6
+"211070 São Domingos do Maranhão",1,21,1,-,23
+"211080 São Félix de Balsas",7,10,-,-,17
+"211085 São Francisco do Brejão",2,5,-,-,7
+"211090 São Francisco do Maranhão",-,2,-,-,2
+"211100 São João Batista",1,3,-,-,4
+"211102 São João do Carú",-,4,-,-,4
+"211105 São João do Paraíso",-,2,-,-,2
+"211107 São João do Soter",-,6,1,-,7
+"211110 São João dos Patos",7,13,1,-,21
+"211120 São José de Ribamar",30,159,45,14,248
+"211130 São Luís",843,3766,229,38,4876
+"211140 São Luís Gonzaga do Maranhão",8,11,1,-,20
+"211150 São Mateus do Maranhão",8,158,17,16,199
+"211153 São Pedro da Água Branca",1,2,-,-,3
+"211157 São Pedro dos Crentes",3,-,-,-,3
+"211160 São Raimundo das Mangabeiras",17,30,-,-,47
+"211167 São Roberto",1,6,-,-,7
+"211170 São Vicente Ferrer",10,10,-,-,20
+"211174 Senador Alexandre Costa",-,1,-,-,1
+"211176 Senador La Rocque",1,3,-,-,4
+"211178 Serrano do Maranhão",1,1,1,-,3
+"211180 Sítio Novo",-,3,-,1,4
+"211190 Sucupira do Norte",1,-,-,-,1
+"211195 Sucupira do Riachão",1,2,-,-,3
+"211200 Tasso Fragoso",10,39,2,-,51
+"211210 Timbiras",-,2,2,-,4
+"211220 Timon",24,82,7,4,117
+"211223 Trizidela do Vale",8,18,-,4,30
+"211227 Tufilândia",1,1,-,1,3
+"211230 Tuntum",1,38,-,-,39
+"211240 Turiaçu",-,1,-,-,1
+"211250 Tutóia",3,6,-,1,10
+"211260 Urbano Santos",-,12,-,6,18
+"211270 Vargem Grande",2,57,2,3,64
+"211280 Viana",3,38,2,4,47
+"211285 Vila Nova dos Martírios",-,1,-,-,1
+"211290 Vitória do Mearim",1,21,-,-,22
+"211300 Vitorino Freire",-,4,-,-,4
+"211400 Zé Doca",16,347,3,9,375
+"220005 Acauã",3,8,-,-,11
+"220010 Agricolândia",1,-,-,-,1
+"220020 Água Branca",-,3,-,-,3
+"220025 Alagoinha do Piauí",-,1,-,-,1
+"220027 Alegrete do Piauí",-,1,-,-,1
+"220030 Alto Longá",-,1,-,-,1
+"220040 Altos",44,55,1,-,100
+"220045 Alvorada do Gurguéia",1,1,-,-,2
+"220050 Amarante",-,1,-,-,1
+"220060 Angical do Piauí",-,6,-,-,6
+"220090 Aroazes",2,11,1,-,14
+"220100 Arraial",-,2,1,-,3
+"220105 Assunção do Piauí",1,-,-,-,1
+"220115 Baixa Grande do Ribeiro",5,10,-,-,15
+"220117 Barra D'Alcântara",2,2,-,-,4
+"220120 Barras",2,15,2,-,19
+"220130 Barreiras do Piauí",-,1,-,-,1
+"220140 Barro Duro",-,2,-,-,2
+"220150 Batalha",7,8,-,-,15
+"220157 Belém do Piauí",4,7,-,-,11
+"220160 Beneditinos",10,16,4,-,30
+"220177 Boa Hora",-,11,-,-,11
+"220190 Bom Jesus",43,146,7,9,205
+"220192 Bonfim do Piauí",-,2,-,-,2
+"220194 Boqueirão do Piauí",1,-,-,-,1
+"220196 Brasileira",4,1,-,-,5
+"220200 Buriti dos Lopes",4,-,-,-,4
+"220202 Buriti dos Montes",4,-,-,-,4
+"220205 Cabeceiras do Piauí",-,16,-,-,16
+"220208 Cajueiro da Praia",-,3,8,1,12
+"220209 Caldeirão Grande do Piauí",5,10,-,-,15
+"220211 Campo Alegre do Fidalgo",-,6,-,-,6
+"220217 Campo Largo do Piauí",1,1,-,-,2
+"220220 Campo Maior",154,589,43,2,788
+"220225 Canavieira",2,19,2,1,24
+"220230 Canto do Buriti",43,20,1,1,65
+"220240 Capitão de Campos",7,18,-,-,25
+"220245 Capitão Gervásio Oliveira",1,-,-,-,1
+"220250 Caracol",2,2,-,-,4
+"220253 Caraúbas do Piauí",1,1,-,-,2
+"220255 Caridade do Piauí",2,-,-,-,2
+"220260 Castelo do Piauí",9,11,1,-,21
+"220265 Caxingó",-,1,-,-,1
+"220270 Cocal",-,7,-,1,8
+"220271 Cocal de Telha",1,-,-,-,1
+"220273 Coivaras",1,3,-,-,4
+"220280 Conceição do Canindé",-,2,-,-,2
+"220290 Corrente",6,9,-,-,15
+"220310 Cristino Castro",-,2,-,-,2
+"220320 Curimatá",1,2,-,-,3
+"220325 Curralinhos",-,1,-,-,1
+"220330 Demerval Lobão",-,2,2,-,4
+"220340 Dom Expedito Lopes",1,-,-,-,1
+"220345 Dom Inocêncio",8,17,1,-,26
+"220342 Domingos Mourão",5,9,-,-,14
+"220360 Eliseu Martins",1,1,1,-,3
+"220370 Esperantina",6,20,-,-,26
+"220375 Fartura do Piauí",-,3,1,-,4
+"220390 Floriano",276,1496,26,3,1801
+"220400 Francinópolis",-,1,-,-,1
+"220415 Francisco Macedo",-,1,-,-,1
+"220430 Fronteiras",-,2,-,-,2
+"220440 Gilbués",1,1,-,-,2
+"220450 Guadalupe",8,52,3,-,63
+"220455 Guaribas",3,3,-,-,6
+"220460 Hugo Napoleão",-,5,-,-,5
+"220465 Ilha Grande",1,-,-,-,1
+"220470 Inhuma",8,6,-,-,14
+"220480 Ipiranga do Piauí",-,11,-,-,11
+"220500 Itainópolis",2,12,-,-,14
+"220510 Itaueira",2,6,-,-,8
+"220520 Jaicós",2,7,-,1,10
+"220525 Jardim do Mulato",-,-,-,1,1
+"220527 Jatobá do Piauí",-,1,-,-,1
+"220530 Jerumenha",1,-,-,-,1
+"220540 Joaquim Pires",1,4,3,-,8
+"220545 Joca Marques",-,8,1,-,9
+"220550 José de Freitas",3,16,-,-,19
+"220551 Juazeiro do Piauí",1,2,-,-,3
+"220553 Jurema",7,2,-,-,9
+"220555 Lagoa Alegre",3,2,-,1,6
+"220556 Lagoa do Barro do Piauí",3,38,-,-,41
+"220559 Lagoa do Sítio",-,3,-,-,3
+"220554 Lagoinha do Piauí",-,1,-,-,1
+"220560 Landri Sales",-,7,-,-,7
+"220570 Luís Correia",11,12,-,-,23
+"220580 Luzilândia",-,-,-,1,1
+"220590 Manoel Emídio",1,9,-,-,10
+"220595 Marcolândia",8,4,-,-,12
+"220600 Marcos Parente",-,5,-,-,5
+"220605 Massapê do Piauí",-,1,-,-,1
+"220620 Miguel Alves",10,63,14,38,125
+"220630 Miguel Leão",-,1,1,-,2
+"220635 Milton Brandão",1,1,-,-,2
+"220640 Monsenhor Gil",10,13,-,-,23
+"220650 Monsenhor Hipólito",1,5,-,-,6
+"220665 Morro Cabeça no Tempo",-,3,-,-,3
+"220667 Morro do Chapéu do Piauí",6,13,-,-,19
+"220669 Murici dos Portelas",1,1,1,-,3
+"220672 Nazária",2,2,6,-,10
+"220675 Nossa Senhora de Nazaré",1,1,-,-,2
+"220680 Nossa Senhora dos Remédios",7,8,-,1,16
+"220690 Novo Oriente do Piauí",5,15,1,-,21
+"220695 Novo Santo Antônio",-,1,-,-,1
+"220700 Oeiras",173,463,13,10,659
+"220710 Olho D'Água do Piauí",-,1,-,-,1
+"220720 Padre Marcos",1,3,-,-,4
+"220735 Pajeú do Piauí",-,1,-,-,1
+"220750 Palmeirais",-,1,-,-,1
+"220760 Parnaguá",1,5,-,-,6
+"220770 Parnaíba",495,861,310,15,1681
+"220777 Patos do Piauí",-,3,-,1,4
+"220780 Paulistana",8,18,1,-,27
+"220785 Pavussu",6,-,-,-,6
+"220790 Pedro II",17,40,2,2,61
+"220793 Pedro Laurentino",1,2,-,-,3
+"220800 Picos",773,839,22,34,1668
+"220810 Pimenteiras",1,3,-,-,4
+"220820 Pio IX",29,31,1,2,63
+"220830 Piracuruca",16,17,-,-,33
+"220840 Piripiri",181,196,9,6,392
+"220850 Porto",-,1,-,-,1
+"220855 Porto Alegre do Piauí",2,17,-,1,20
+"220860 Prata do Piauí",-,1,-,-,1
+"220865 Queimada Nova",2,2,-,1,5
+"220880 Regeneração",13,12,-,-,25
+"220890 Ribeiro Gonçalves",-,1,-,-,1
+"220900 Rio Grande do Piauí",1,2,-,-,3
+"220937 Santa Rosa do Piauí",2,4,-,-,6
+"220955 São Braz do Piauí",1,3,-,-,4
+"220960 São Félix do Piauí",-,3,-,-,3
+"220970 São Francisco do Piauí",1,-,-,-,1
+"220975 São Gonçalo do Gurguéia",-,1,-,-,1
+"220980 São Gonçalo do Piauí",1,1,-,-,2
+"220987 São João da Fronteira",1,3,-,-,4
+"220990 São João da Serra",4,2,-,-,6
+"220997 São João do Arraial",5,13,1,-,19
+"221000 São João do Piauí",9,1,1,-,11
+"221005 São José do Divino",-,3,-,-,3
+"221020 São José do Piauí",2,-,-,-,2
+"221035 São Lourenço do Piauí",-,1,-,-,1
+"221040 São Miguel do Tapuio",8,37,3,2,50
+"221050 São Pedro do Piauí",40,67,-,-,107
+"221060 São Raimundo Nonato",35,324,5,-,364
+"221065 Sigefredo Pacheco",1,-,-,-,1
+"221070 Simões",11,12,-,-,23
+"221080 Simplício Mendes",1,2,-,-,3
+"221095 Tamboril do Piauí",-,1,-,-,1
+"221100 Teresina",3021,5025,233,30,8309
+"221110 União",9,14,-,3,26
+"221120 Uruçuí",24,21,3,2,50
+"221130 Valença do Piauí",3,5,-,-,8
+"221135 Várzea Branca",-,7,1,1,9
+"221140 Várzea Grande",3,10,-,-,13
+"221150 Vera Mendes",2,2,-,-,4
+"230010 Abaiara",1,3,-,-,4
+"230015 Acarape",2,3,-,-,5
+"230020 Acaraú",3,44,4,-,51
+"230030 Acopiara",35,49,-,-,84
+"230040 Aiuaba",10,4,-,1,15
+"230050 Alcântaras",6,2,-,-,8
+"230060 Altaneira",1,1,-,-,2
+"230070 Alto Santo",18,20,1,-,39
+"230075 Amontada",-,16,1,-,17
+"230080 Antonina do Norte",5,12,-,-,17
+"230090 Apuiarés",20,13,-,3,36
+"230100 Aquiraz",5,13,-,2,20
+"230110 Aracati",244,439,26,27,736
+"230120 Aracoiaba",-,22,-,-,22
+"230125 Ararendá",-,1,-,-,1
+"230130 Araripe",-,-,2,-,2
+"230140 Aratuba",-,5,-,-,5
+"230160 Assaré",1,3,-,-,4
+"230170 Aurora",11,6,1,-,18
+"230180 Baixio",-,5,-,-,5
+"230185 Banabuiú",6,11,1,1,19
+"230190 Barbalha",403,166,30,-,599
+"230195 Barreira",-,-,1,-,1
+"230200 Barro",-,8,-,-,8
+"230205 Barroquinha",4,3,-,-,7
+"230210 Baturité",-,4,-,1,5
+"230220 Beberibe",4,69,10,1,84
+"230230 Bela Cruz",10,50,-,-,60
+"230240 Boa Viagem",31,28,-,-,59
+"230250 Brejo Santo",243,134,18,11,406
+"230260 Camocim",48,30,4,-,82
+"230270 Campos Sales",1,30,-,-,31
+"230280 Canindé",125,160,9,16,310
+"230290 Capistrano",-,5,-,-,5
+"230300 Caridade",5,43,3,-,51
+"230310 Cariré",18,28,-,1,47
+"230320 Caririaçu",16,71,6,2,95
+"230330 Cariús",28,28,-,-,56
+"230340 Carnaubal",21,60,2,2,85
+"230350 Cascavel",21,100,6,-,127
+"230360 Catarina",5,5,-,-,10
+"230365 Catunda",2,-,-,-,2
+"230370 Caucaia",388,378,20,7,793
+"230380 Cedro",5,1,-,-,6
+"230390 Chaval",-,4,-,-,4
+"230393 Choró",14,3,2,-,19
+"230395 Chorozinho",5,1,-,-,6
+"230400 Coreaú",21,16,1,1,39
+"230410 Crateús",167,137,7,4,315
+"230420 Crato",59,85,153,2,299
+"230423 Croatá",3,41,5,-,49
+"230425 Cruz",31,94,3,1,129
+"230427 Ererê",8,-,-,-,8
+"230428 Eusébio",8,41,7,-,56
+"230430 Farias Brito",54,54,15,4,127
+"230435 Forquilha",4,5,-,-,9
+"230440 Fortaleza",3052,11479,1381,193,16105
+"230445 Fortim",10,14,1,1,26
+"230450 Frecheirinha",6,5,3,1,15
+"230460 General Sampaio",7,6,-,-,13
+"230465 Graça",1,1,-,-,2
+"230470 Granja",13,32,6,1,52
+"230480 Granjeiro",2,10,-,-,12
+"230490 Groaíras",-,6,-,1,7
+"230495 Guaiúba",23,17,2,-,42
+"230500 Guaraciaba do Norte",11,37,2,2,52
+"230510 Guaramiranga",6,3,-,-,9
+"230520 Hidrolândia",2,11,-,-,13
+"230523 Horizonte",160,283,10,6,459
+"230526 Ibaretama",1,3,-,-,4
+"230530 Ibiapina",11,80,6,1,98
+"230533 Ibicuitinga",1,5,1,-,7
+"230535 Icapuí",29,62,1,-,92
+"230540 Icó",7,34,1,-,42
+"230550 Iguatu",64,105,1,-,170
+"230560 Independência",11,5,-,-,16
+"230565 Ipaporanga",2,1,-,-,3
+"230570 Ipaumirim",7,-,-,-,7
+"230580 Ipu",7,13,1,-,21
+"230590 Ipueiras",-,9,-,-,9
+"230600 Iracema",29,8,-,-,37
+"230610 Irauçuba",1,3,-,-,4
+"230620 Itaiçaba",35,102,4,-,141
+"230625 Itaitinga",-,9,1,2,12
+"230630 Itapagé",5,6,-,-,11
+"230640 Itapipoca",13,61,3,2,79
+"230650 Itapiúna",5,5,-,-,10
+"230655 Itarema",18,103,3,2,126
+"230660 Itatira",2,7,1,-,10
+"230670 Jaguaretama",4,2,-,-,6
+"230680 Jaguaribara",4,9,-,-,13
+"230690 Jaguaribe",23,69,1,1,94
+"230700 Jaguaruana",82,35,4,-,121
+"230710 Jardim",-,13,-,2,15
+"230720 Jati",-,11,1,-,12
+"230725 Jijoca de Jericoacoara",4,45,4,-,53
+"230730 Juazeiro do Norte",557,502,41,9,1109
+"230740 Jucás",1,-,-,-,1
+"230750 Lavras da Mangabeira",-,-,-,1,1
+"230760 Limoeiro do Norte",165,196,4,5,370
+"230763 Madalena",4,16,-,-,20
+"230765 Maracanaú",137,176,44,8,365
+"230770 Maranguape",44,269,29,12,354
+"230780 Marco",7,16,-,1,24
+"230790 Martinópole",2,1,-,1,4
+"230800 Massapê",10,43,-,-,53
+"230810 Mauriti",2,30,1,1,34
+"230830 Milagres",36,34,13,5,88
+"230835 Milhã",-,2,-,-,2
+"230840 Missão Velha",-,4,-,1,5
+"230850 Mombaça",29,25,-,-,54
+"230860 Monsenhor Tabosa",15,6,2,1,24
+"230870 Morada Nova",46,8,-,-,54
+"230880 Moraújo",-,1,-,-,1
+"230890 Morrinhos",-,2,-,3,5
+"230900 Mucambo",10,30,2,-,42
+"230910 Mulungu",-,6,1,-,7
+"230920 Nova Olinda",1,2,-,-,3
+"230930 Nova Russas",39,78,1,1,119
+"230940 Novo Oriente",3,4,-,-,7
+"230945 Ocara",42,21,1,4,68
+"230950 Orós",9,51,5,6,71
+"230960 Pacajus",2,16,-,-,18
+"230970 Pacatuba",11,53,7,1,72
+"230980 Pacoti",-,3,-,2,5
+"230990 Pacujá",-,1,-,1,2
+"231000 Palhano",3,3,-,-,6
+"231010 Palmácia",13,5,-,-,18
+"231020 Paracuru",67,91,12,3,173
+"231025 Paraipaba",8,12,-,-,20
+"231030 Parambu",-,-,-,1,1
+"231040 Paramoti",2,3,-,-,5
+"231050 Pedra Branca",1,19,-,1,21
+"231060 Penaforte",2,23,8,-,33
+"231070 Pentecoste",1,17,2,1,21
+"231080 Pereiro",1,1,-,-,2
+"231085 Pindoretama",-,4,-,-,4
+"231090 Piquet Carneiro",11,34,-,-,45
+"231095 Pires Ferreira",-,1,1,-,2
+"231100 Poranga",1,6,-,-,7
+"231110 Porteiras",8,349,21,7,385
+"231120 Potengi",2,17,-,-,19
+"231123 Potiretama",-,2,-,-,2
+"231126 Quiterianópolis",11,2,3,-,16
+"231130 Quixadá",20,108,24,2,154
+"231135 Quixelô",7,-,-,1,8
+"231140 Quixeramobim",69,125,31,4,229
+"231150 Quixeré",53,117,20,11,201
+"231160 Redenção",5,-,-,-,5
+"231170 Reriutaba",4,9,-,-,13
+"231180 Russas",43,78,19,3,143
+"231190 Saboeiro",-,3,-,-,3
+"231195 Salitre",2,7,-,-,9
+"231220 Santa Quitéria",30,6,1,2,39
+"231200 Santana do Acaraú",5,-,-,2,7
+"231210 Santana do Cariri",10,18,1,-,29
+"231230 São Benedito",45,265,5,-,315
+"231240 São Gonçalo do Amarante",60,110,16,1,187
+"231250 São João do Jaguaribe",1,3,1,-,5
+"231270 Senador Pompeu",3,9,1,-,13
+"231290 Sobral",973,4469,106,13,5561
+"231300 Solonópole",2,3,-,-,5
+"231310 Tabuleiro do Norte",13,19,1,1,34
+"231320 Tamboril",9,12,-,2,23
+"231325 Tarrafas",-,3,-,-,3
+"231330 Tauá",238,114,8,6,366
+"231335 Tejuçuoca",3,5,-,-,8
+"231340 Tianguá",18,76,2,4,100
+"231350 Trairi",34,28,-,2,64
+"231355 Tururu",-,1,-,-,1
+"231360 Ubajara",6,3,1,-,10
+"231375 Umirim",2,3,-,-,5
+"231380 Uruburetama",5,10,-,-,15
+"231390 Uruoca",1,4,-,-,5
+"231395 Varjota",-,3,-,-,3
+"231400 Várzea Alegre",61,95,1,-,157
+"231410 Viçosa do Ceará",10,34,-,1,45
+"240010 Acari",7,8,1,-,16
+"240020 Açu",40,82,108,86,316
+"240030 Afonso Bezerra",1,7,-,-,8
+"240050 Alexandria",-,1,-,-,1
+"240070 Alto do Rodrigues",-,6,1,-,7
+"240080 Angicos",-,1,1,-,2
+"240090 Antônio Martins",-,1,-,-,1
+"240100 Apodi",18,9,12,1,40
+"240110 Areia Branca",23,138,6,-,167
+"240120 Arês",-,6,-,-,6
+"240140 Baía Formosa",3,27,4,-,34
+"240145 Baraúna",6,12,4,4,26
+"240150 Barcelona",1,5,-,-,6
+"240160 Bento Fernandes",-,7,-,-,7
+"240165 Bodó",-,13,-,-,13
+"240170 Bom Jesus",1,1,-,-,2
+"240180 Brejinho",5,15,1,-,21
+"240185 Caiçara do Norte",-,3,-,-,3
+"240190 Caiçara do Rio do Vento",-,11,6,1,18
+"240200 Caicó",215,124,46,16,401
+"240210 Campo Redondo",2,-,-,-,2
+"240220 Canguaretama",9,50,-,4,63
+"240230 Caraúbas",-,3,-,-,3
+"240240 Carnaúba dos Dantas",10,22,-,-,32
+"240250 Carnaubais",-,3,1,1,5
+"240260 Ceará-Mirim",45,124,22,3,194
+"240270 Cerro Corá",4,9,-,-,13
+"240300 Cruzeta",4,18,6,-,28
+"240310 Currais Novos",123,156,51,2,332
+"240340 Equador",13,5,-,-,18
+"240350 Espírito Santo",-,7,1,-,8
+"240360 Extremoz",43,61,6,1,111
+"240380 Florânia",1,7,1,-,9
+"240420 Goianinha",2,22,6,4,34
+"240430 Governador Dix-Sept Rosado",11,15,-,-,26
+"240440 Grossos",-,3,-,-,3
+"240450 Guamaré",7,68,8,-,83
+"240460 Ielmo Marinho",1,3,-,-,4
+"240480 Ipueira",-,1,-,-,1
+"240490 Itaú",1,-,-,-,1
+"240510 Jandaíra",-,1,-,-,1
+"240520 Janduís",1,2,-,-,3
+"240530 Januário Cicco",-,2,-,-,2
+"240540 Japi",3,-,1,-,4
+"240550 Jardim de Angicos",1,-,-,-,1
+"240560 Jardim de Piranhas",5,2,-,-,7
+"240570 Jardim do Seridó",35,36,2,-,73
+"240580 João Câmara",56,39,2,-,97
+"240610 Jucurutu",39,60,3,-,102
+"240620 Lagoa d'Anta",4,15,-,-,19
+"240630 Lagoa de Pedras",-,8,-,-,8
+"240640 Lagoa de Velhos",-,4,1,-,5
+"240650 Lagoa Nova",3,9,1,-,13
+"240670 Lajes",-,9,1,-,10
+"240680 Lajes Pintadas",2,3,-,-,5
+"240690 Lucrécia",-,2,-,-,2
+"240700 Luís Gomes",-,1,-,-,1
+"240710 Macaíba",177,230,25,7,439
+"240720 Macau",19,31,2,1,53
+"240725 Major Sales",-,3,-,-,3
+"240750 Maxaranguape",1,1,-,2,4
+"240760 Messias Targino",2,-,-,-,2
+"240770 Montanhas",1,3,-,-,4
+"240780 Monte Alegre",-,11,2,2,15
+"240800 Mossoró",619,625,214,7,1465
+"240810 Natal",2260,3997,304,39,6600
+"240820 Nísia Floresta",1,8,-,-,9
+"240830 Nova Cruz",19,64,3,4,90
+"240840 Olho-d'Água do Borges",1,-,-,-,1
+"240880 Parazinho",-,10,-,-,10
+"240890 Parelhas",18,65,24,37,144
+"240325 Parnamirim",337,744,135,2,1218
+"240920 Passagem",-,4,-,-,4
+"240930 Patu",6,3,2,-,11
+"240940 Pau dos Ferros",7,2,1,-,10
+"240950 Pedra Grande",-,4,-,-,4
+"240960 Pedra Preta",-,1,-,-,1
+"240970 Pedro Avelino",3,6,1,-,10
+"240980 Pedro Velho",-,1,-,2,3
+"240990 Pendências",1,14,3,-,18
+"241010 Poço Branco",-,7,-,-,7
+"241020 Portalegre",3,64,-,-,67
+"241025 Porto do Mangue",1,8,1,1,11
+"241040 Pureza",8,13,2,-,23
+"241060 Rafael Godeiro",3,2,-,-,5
+"240895 Rio do Fogo",-,1,-,-,1
+"241100 Rodolfo Fernandes",-,1,-,-,1
+"241110 Ruy Barbosa",1,1,1,-,3
+"241120 Santa Cruz",-,26,1,1,28
+"240933 Santa Maria",2,-,-,1,3
+"241140 Santana do Matos",7,2,1,-,10
+"241142 Santana do Seridó",1,1,-,-,2
+"241150 Santo Antônio",36,70,33,1,140
+"241160 São Bento do Norte",-,4,-,-,4
+"241180 São Fernando",10,5,2,-,17
+"241200 São Gonçalo do Amarante",6,12,-,-,18
+"241210 São João do Sabugi",8,4,3,-,15
+"241220 São José de Mipibu",27,73,6,-,106
+"241230 São José do Campestre",10,19,41,-,70
+"241240 São José do Seridó",3,5,-,-,8
+"241255 São Miguel do Gostoso",1,2,2,-,5
+"241260 São Paulo do Potengi",10,45,4,-,59
+"241280 São Rafael",1,12,9,-,22
+"241290 São Tomé",-,3,1,-,4
+"241300 São Vicente",2,10,-,-,12
+"241310 Senador Elói de Souza",-,13,9,-,22
+"241320 Senador Georgino Avelino",-,8,-,-,8
+"241030 Serra Caiada",1,2,-,1,4
+"241330 Serra de São Bento",5,6,-,-,11
+"241340 Serra Negra do Norte",1,5,-,-,6
+"241350 Serrinha",1,10,-,-,11
+"241355 Serrinha dos Pintos",9,3,-,-,12
+"241360 Severiano Melo",-,1,-,-,1
+"241370 Sítio Novo",6,4,-,-,10
+"241380 Taboleiro Grande",-,-,1,-,1
+"241390 Taipu",3,10,1,-,14
+"241400 Tangará",4,7,3,1,15
+"241415 Tenente Laurentino Cruz",-,2,-,-,2
+"241105 Tibau",4,4,-,-,8
+"241420 Tibau do Sul",3,18,3,-,24
+"241430 Timbaúba dos Batistas",-,1,-,-,1
+"241440 Touros",8,7,-,-,15
+"241445 Triunfo Potiguar",-,2,-,-,2
+"241460 Upanema",-,2,3,-,5
+"241480 Vera Cruz",2,3,-,1,6
+"241490 Viçosa",-,3,-,-,3
+"250010 Água Branca",1,12,1,-,14
+"250030 Alagoa Grande",10,54,5,-,69
+"250040 Alagoa Nova",2,7,3,-,12
+"250050 Alagoinha",5,-,-,-,5
+"250060 Alhandra",10,10,6,-,26
+"250080 Araçagi",1,7,-,-,8
+"250100 Araruna",-,8,-,-,8
+"250110 Areia",-,23,3,-,26
+"250135 Assunção",-,1,-,-,1
+"250140 Baía da Traição",11,42,21,-,74
+"250150 Bananeiras",-,11,-,1,12
+"250153 Baraúna",1,-,-,-,1
+"250160 Barra de Santa Rosa",-,1,-,-,1
+"250170 Barra de São Miguel",1,-,-,-,1
+"250180 Bayeux",-,3,-,-,3
+"250190 Belém",-,16,4,-,20
+"250200 Belém do Brejo do Cruz",1,-,-,-,1
+"250205 Bernardino Batista",-,2,-,-,2
+"250215 Boa Vista",-,1,-,-,1
+"250230 Bom Sucesso",2,-,-,-,2
+"250250 Boqueirão",-,1,-,-,1
+"250270 Borborema",1,2,-,-,3
+"250280 Brejo do Cruz",1,-,-,-,1
+"250300 Caaporã",1,2,-,-,3
+"250320 Cabedelo",96,137,27,17,277
+"250330 Cachoeira dos Índios",1,-,-,-,1
+"250350 Cacimba de Dentro",-,2,1,1,4
+"250370 Cajazeiras",224,319,89,11,643
+"250375 Cajazeirinhas",-,1,-,-,1
+"250380 Caldas Brandão",-,4,-,-,4
+"250400 Campina Grande",634,997,116,32,1779
+"250407 Caraúbas",-,1,-,-,1
+"250415 Casserengue",2,7,-,1,10
+"250430 Catolé do Rocha",13,26,2,1,42
+"250440 Conceição",-,-,1,1,2
+"250460 Conde",8,36,8,1,53
+"250480 Coremas",16,23,1,1,41
+"250490 Cruz do Espírito Santo",5,2,-,-,7
+"250500 Cubati",2,26,6,-,34
+"250510 Cuité",10,7,1,1,19
+"250523 Cuité de Mamanguape",-,1,-,-,1
+"250527 Curral de Cima",12,9,1,-,22
+"250535 Damião",-,1,-,-,1
+"250560 Diamante",1,-,-,-,1
+"250570 Dona Inês",2,39,7,-,48
+"250580 Duas Estradas",-,2,-,-,2
+"250600 Esperança",36,719,2,1,758
+"250620 Frei Martinho",-,1,-,-,1
+"250630 Guarabira",82,103,12,14,211
+"250640 Gurinhém",2,6,-,-,8
+"250650 Gurjão",-,1,-,-,1
+"250260 Igaracy",-,2,-,-,2
+"250670 Imaculada",-,-,1,-,1
+"250680 Ingá",-,2,-,1,3
+"250690 Itabaiana",11,39,112,-,162
+"250700 Itaporanga",40,35,3,13,91
+"250720 Itatuba",-,1,-,-,1
+"250740 Jericó",1,11,-,-,12
+"250750 João Pessoa",2039,4837,304,174,7354
+"250760 Juarez Távora",-,3,-,-,3
+"250770 Juazeirinho",-,1,-,-,1
+"250780 Junco do Seridó",2,1,1,-,4
+"250790 Juripiranga",-,1,1,-,2
+"250820 Lagoa de Dentro",1,2,-,-,3
+"250850 Livramento",7,17,1,-,25
+"250855 Logradouro",-,1,-,-,1
+"250860 Lucena",1,15,-,-,16
+"250880 Malta",1,1,-,-,2
+"250890 Mamanguape",30,62,9,1,102
+"250900 Manaíra",-,2,-,-,2
+"250905 Marcação",-,2,-,-,2
+"250940 Mogeiro",-,1,-,-,1
+"250970 Monteiro",80,325,17,1,423
+"250980 Mulungu",-,3,-,-,3
+"251010 Nova Floresta",3,3,-,-,6
+"251030 Nova Palmeira",-,1,2,-,3
+"251040 Olho d'Água",1,2,-,-,3
+"251080 Patos",22,569,25,5,621
+"251110 Pedra Lavrada",8,16,-,1,25
+"251120 Pedras de Fogo",6,21,-,-,27
+"251130 Piancó",60,77,1,2,140
+"251140 Picuí",47,50,9,1,107
+"251150 Pilar",6,9,2,-,17
+"251170 Pilõezinhos",1,2,-,-,3
+"251180 Pirpirituba",1,-,1,-,2
+"251190 Pitimbu",2,6,-,-,8
+"251200 Pocinhos",-,1,-,-,1
+"251210 Pombal",7,61,9,-,77
+"251230 Princesa Isabel",36,77,6,1,120
+"251250 Queimadas",9,7,-,-,16
+"251270 Remígio",-,11,1,-,12
+"251290 Rio Tinto",6,3,-,-,9
+"251310 Salgado de São Félix",-,4,-,-,4
+"251315 Santa Cecília",-,2,-,-,2
+"251340 Santa Luzia",17,31,16,4,68
+"251370 Santa Rita",62,145,4,13,224
+"251350 Santana de Mangueira",-,1,-,-,1
+"251385 Santo André",-,1,-,-,1
+"251390 São Bento",23,21,-,-,44
+"251396 São Domingos",-,1,-,-,1
+"251400 São João do Cariri",-,1,-,-,1
+"250070 São João do Rio do Peixe",-,1,-,-,1
+"251410 São João do Tigre",-,1,-,-,1
+"251430 São José de Caiana",-,1,-,-,1
+"251440 São José de Espinharas",1,1,1,-,3
+"251450 São José de Piranhas",-,1,-,-,1
+"251445 São José dos Ramos",-,3,-,-,3
+"251510 São Sebastião de Lagoa de Roça",1,1,-,-,2
+"251540 São Vicente do Seridó",8,1,-,-,9
+"251580 Serra Redonda",-,1,-,-,1
+"251590 Serraria",-,1,-,-,1
+"251593 Sertãozinho",1,4,-,-,5
+"251597 Sobrado",-,-,1,-,1
+"251600 Solânea",-,3,-,-,3
+"251615 Sossêgo",1,3,-,-,4
+"251620 Sousa",14,10,5,3,32
+"251630 Sumé",7,50,2,-,59
+"251640 Tacima",2,2,-,-,4
+"251650 Taperoá",-,6,2,2,10
+"251660 Tavares",1,7,-,-,8
+"251670 Teixeira",1,4,-,-,5
+"251680 Triunfo",4,1,-,-,5
+"251700 Umbuzeiro",-,3,-,-,3
+"251710 Várzea",2,2,-,-,4
+"251740 Zabelê",-,1,-,-,1
+"260005 Abreu e Lima",8,96,12,2,118
+"260010 Afogados da Ingazeira",207,384,78,4,673
+"260020 Afrânio",18,20,2,-,40
+"260030 Agrestina",-,7,1,1,9
+"260040 Água Preta",9,10,-,-,19
+"260050 Águas Belas",89,168,13,6,276
+"260060 Alagoinha",7,53,9,1,70
+"260070 Aliança",4,21,12,3,40
+"260080 Altinho",31,107,-,1,139
+"260090 Amaraji",4,7,-,-,11
+"260100 Angelim",6,3,-,-,9
+"260105 Araçoiaba",9,14,14,-,37
+"260110 Araripina",3,177,17,2,199
+"260120 Arcoverde",257,517,153,6,933
+"260130 Barra de Guabiraba",2,7,-,-,9
+"260140 Barreiros",3,3,4,3,13
+"260150 Belém de Maria",2,4,-,-,6
+"260160 Belém do São Francisco",30,34,5,-,69
+"260170 Belo Jardim",32,142,101,3,278
+"260180 Betânia",8,19,-,-,27
+"260190 Bezerros",4,47,22,2,75
+"260200 Bodocó",62,167,3,2,234
+"260210 Bom Conselho",16,15,-,-,31
+"260220 Bom Jardim",1,41,1,-,43
+"260230 Bonito",-,9,-,-,9
+"260240 Brejão",2,2,1,-,5
+"260250 Brejinho",-,9,7,-,16
+"260260 Brejo da Madre de Deus",16,12,3,1,32
+"260270 Buenos Aires",6,11,2,-,19
+"260280 Buíque",25,66,5,-,96
+"260290 Cabo de Santo Agostinho",414,1505,51,25,1995
+"260300 Cabrobó",162,87,1,-,250
+"260310 Cachoeirinha",23,51,-,-,74
+"260320 Caetés",2,11,13,1,27
+"260330 Calçado",20,12,-,-,32
+"260340 Calumbi",-,2,-,-,2
+"260345 Camaragibe",98,384,104,43,629
+"260350 Camocim de São Félix",3,33,2,-,38
+"260360 Camutanga",3,17,4,-,24
+"260370 Canhotinho",2,13,-,-,15
+"260380 Capoeiras",21,17,-,1,39
+"260390 Carnaíba",15,82,4,15,116
+"260392 Carnaubeira da Penha",13,17,1,-,31
+"260400 Carpina",19,44,209,38,310
+"260410 Caruaru",905,2071,105,2,3083
+"260415 Casinhas",10,28,-,-,38
+"260420 Catende",5,20,-,2,27
+"260430 Cedro",15,16,1,2,34
+"260440 Chã de Alegria",2,36,2,1,41
+"260450 Chã Grande",27,6,-,-,33
+"260460 Condado",4,18,4,-,26
+"260470 Correntes",1,1,-,-,2
+"260480 Cortês",2,16,2,1,21
+"260490 Cumaru",4,31,8,-,43
+"260500 Cupira",1,-,-,-,1
+"260510 Custódia",19,52,1,-,72
+"260515 Dormentes",18,50,2,2,72
+"260520 Escada",5,24,-,1,30
+"260530 Exu",13,80,3,-,96
+"260540 Feira Nova",8,33,11,1,53
+"260545 Fernando de Noronha",7,15,12,-,34
+"260550 Ferreiros",3,4,-,1,8
+"260560 Flores",6,7,1,-,14
+"260570 Floresta",57,42,3,1,103
+"260580 Frei Miguelinho",-,1,-,-,1
+"260590 Gameleira",17,29,3,-,49
+"260600 Garanhuns",787,2933,206,13,3939
+"260610 Glória do Goitá",1,6,-,-,7
+"260620 Goiana",266,1668,237,3,2174
+"260630 Granito",12,8,1,-,21
+"260640 Gravatá",18,14,28,-,60
+"260650 Iati",9,15,-,-,24
+"260660 Ibimirim",30,27,1,2,60
+"260670 Ibirajuba",-,2,-,-,2
+"260680 Igarassu",124,276,27,8,435
+"260690 Iguaracy",5,14,1,-,20
+"260760 Ilha de Itamaracá",18,43,3,5,69
+"260700 Inajá",3,4,1,-,8
+"260710 Ingazeira",-,2,-,-,2
+"260720 Ipojuca",95,957,108,23,1183
+"260730 Ipubi",8,40,10,1,59
+"260740 Itacuruba",3,5,1,-,9
+"260750 Itaíba",1,1,-,-,2
+"260765 Itambé",18,96,15,1,130
+"260770 Itapetim",6,13,3,3,25
+"260775 Itapissuma",5,22,3,-,30
+"260780 Itaquitinga",2,12,4,-,18
+"260790 Jaboatão dos Guararapes",927,2766,212,3,3908
+"260795 Jaqueira",14,67,6,1,88
+"260800 Jataúba",2,6,1,1,10
+"260805 Jatobá",4,15,-,-,19
+"260810 João Alfredo",19,74,11,2,106
+"260820 Joaquim Nabuco",-,12,1,-,13
+"260825 Jucati",5,12,-,1,18
+"260830 Jupi",6,2,-,-,8
+"260840 Jurema",2,5,-,-,7
+"260850 Lagoa de Itaenga",-,20,8,1,29
+"260845 Lagoa do Carro",2,4,-,1,7
+"260860 Lagoa do Ouro",26,91,2,-,119
+"260870 Lagoa dos Gatos",-,2,-,-,2
+"260875 Lagoa Grande",142,117,4,-,263
+"260880 Lajedo",3,11,30,1,45
+"260890 Limoeiro",42,71,589,391,1093
+"260900 Macaparana",2,25,4,-,31
+"260910 Machados",15,32,5,3,55
+"260915 Manari",7,22,-,-,29
+"260920 Maraial",-,4,-,-,4
+"260930 Mirandiba",22,69,1,1,93
+"261430 Moreilândia",1,19,3,-,23
+"260940 Moreno",-,7,-,8,15
+"260950 Nazaré da Mata",10,19,3,-,32
+"260960 Olinda",470,938,390,85,1883
+"260970 Orobó",2,3,1,1,7
+"260980 Orocó",46,47,-,2,95
+"260990 Ouricuri",420,1311,32,2,1765
+"261000 Palmares",186,528,15,-,729
+"261010 Palmeirina",1,-,-,-,1
+"261020 Panelas",10,23,1,-,34
+"261030 Paranatama",11,24,2,-,37
+"261040 Parnamirim",39,32,4,-,75
+"261050 Passira",18,25,27,3,73
+"261060 Paudalho",56,110,60,1,227
+"261070 Paulista",427,663,19,5,1114
+"261080 Pedra",36,91,-,-,127
+"261090 Pesqueira",122,154,3,1,280
+"261100 Petrolândia",14,51,3,2,70
+"261110 Petrolina",1113,10041,270,13,11437
+"261120 Poção",34,80,22,-,136
+"261130 Pombos",3,13,8,-,24
+"261150 Quipapá",1,10,4,-,15
+"261153 Quixaba",2,1,1,-,4
+"261160 Recife",2336,16411,2030,26,20803
+"261170 Riacho das Almas",-,2,-,-,2
+"261180 Ribeirão",-,5,-,-,5
+"261190 Rio Formoso",2,19,-,-,21
+"261200 Sairé",-,4,1,-,5
+"261210 Salgadinho",4,5,-,-,9
+"261220 Salgueiro",321,459,90,26,896
+"261230 Saloá",8,8,3,-,19
+"261240 Sanharó",2,28,1,3,34
+"261245 Santa Cruz",20,34,-,-,54
+"261247 Santa Cruz da Baixa Verde",9,7,3,-,19
+"261250 Santa Cruz do Capibaribe",90,275,20,2,387
+"261255 Santa Filomena",13,70,-,-,83
+"261260 Santa Maria da Boa Vista",147,205,5,6,363
+"261270 Santa Maria do Cambucá",-,3,-,-,3
+"261280 Santa Terezinha",4,8,-,2,14
+"261290 São Benedito do Sul",-,5,-,-,5
+"261300 São Bento do Una",9,44,53,1,107
+"261310 São Caitano",2,15,-,1,18
+"261320 São João",19,20,1,1,41
+"261330 São Joaquim do Monte",18,19,45,3,85
+"261350 São José do Belmonte",28,18,1,-,47
+"261360 São José do Egito",2,23,26,-,51
+"261370 São Lourenço da Mata",395,3510,99,13,4017
+"261380 São Vicente Ferrer",4,1,-,1,6
+"261390 Serra Talhada",353,963,7,-,1323
+"261400 Serrita",8,6,-,1,15
+"261410 Sertânia",25,173,6,3,207
+"261420 Sirinhaém",-,11,-,-,11
+"261440 Solidão",2,15,-,1,18
+"261450 Surubim",14,35,-,9,58
+"261460 Tabira",3,4,-,-,7
+"261470 Tacaimbó",2,-,2,1,5
+"261480 Tacaratu",1,2,-,-,3
+"261485 Tamandaré",-,1,-,-,1
+"261500 Taquaritinga do Norte",2,1,-,-,3
+"261510 Terezinha",13,21,1,1,36
+"261520 Terra Nova",9,17,-,-,26
+"261530 Timbaúba",65,78,39,8,190
+"261540 Toritama",3,10,3,2,18
+"261550 Tracunhaém",-,1,-,-,1
+"261560 Trindade",15,56,6,1,78
+"261570 Triunfo",8,11,-,2,21
+"261580 Tupanatinga",-,4,-,-,4
+"261590 Tuparetama",-,1,-,-,1
+"261600 Venturosa",16,74,-,1,91
+"261610 Verdejante",2,5,-,-,7
+"261618 Vertente do Lério",1,5,2,1,9
+"261620 Vertentes",1,9,-,-,10
+"261630 Vicência",5,15,5,4,29
+"261640 Vitória de Santo Antão",400,1946,35,29,2410
+"261650 Xexéu",-,1,1,-,2
+"270010 Água Branca",14,15,-,1,30
+"270020 Anadia",3,5,1,1,10
+"270030 Arapiraca",3111,2089,20,5,5225
+"270040 Atalaia",7,25,2,3,37
+"270060 Barra de São Miguel",-,4,-,-,4
+"270070 Batalha",9,11,-,-,20
+"270100 Boca da Mata",-,18,-,-,18
+"270110 Branquinha",6,25,-,-,31
+"270120 Cacimbinhas",-,14,-,-,14
+"270130 Cajueiro",1,16,-,-,17
+"270140 Campo Alegre",50,127,17,20,214
+"270150 Campo Grande",-,1,-,-,1
+"270160 Canapi",-,3,-,-,3
+"270170 Capela",9,28,4,1,42
+"270180 Carneiros",2,19,1,1,23
+"270190 Chã Preta",-,7,1,1,9
+"270200 Coité do Nóia",25,5,-,1,31
+"270210 Colônia Leopoldina",2,8,-,-,10
+"270220 Coqueiro Seco",4,7,-,1,12
+"270230 Coruripe",5,11,-,-,16
+"270235 Craíbas",19,14,1,-,34
+"270240 Delmiro Gouveia",146,335,12,1,494
+"270250 Dois Riachos",6,25,2,1,34
+"270255 Estrela de Alagoas",-,4,3,-,7
+"270260 Feira Grande",2,6,1,1,10
+"270270 Feliz Deserto",-,6,-,1,7
+"270280 Flexeiras",1,9,1,1,12
+"270290 Girau do Ponciano",101,117,5,1,224
+"270300 Ibateguara",2,4,-,-,6
+"270310 Igaci",1,2,-,1,4
+"270320 Igreja Nova",5,24,9,2,40
+"270330 Inhapi",1,7,1,-,9
+"270340 Jacaré dos Homens",7,6,-,-,13
+"270360 Japaratinga",-,1,-,-,1
+"270370 Jaramataia",3,20,1,-,24
+"270375 Jequiá da Praia",4,14,-,1,19
+"270380 Joaquim Gomes",8,29,15,1,53
+"270390 Jundiá",1,4,-,-,5
+"270400 Junqueiro",40,92,-,7,139
+"270410 Lagoa da Canoa",-,2,-,-,2
+"270430 Maceió",2181,6526,241,19,8967
+"270440 Major Isidoro",5,6,-,-,11
+"270450 Maragogi",5,37,1,3,46
+"270460 Maravilha",1,2,-,-,3
+"270470 Marechal Deodoro",32,130,10,9,181
+"270500 Mata Grande",17,63,-,-,80
+"270510 Matriz de Camaragibe",6,11,-,1,18
+"270520 Messias",1,7,-,1,9
+"270530 Minador do Negrão",1,2,-,-,3
+"270540 Monteirópolis",-,8,-,-,8
+"270550 Murici",1,18,4,-,23
+"270560 Novo Lino",3,-,-,-,3
+"270570 Olho d'Água das Flores",24,18,-,-,42
+"270580 Olho d'Água do Casado",4,2,-,-,6
+"270600 Olivença",-,1,-,-,1
+"270610 Ouro Branco",2,-,-,-,2
+"270620 Palestina",-,11,-,-,11
+"270630 Palmeira dos Índios",117,122,42,10,291
+"270640 Pão de Açúcar",44,181,1,1,227
+"270642 Pariconha",16,77,-,1,94
+"270644 Paripueira",5,5,-,1,11
+"270650 Passo de Camaragibe",3,6,-,3,12
+"270660 Paulo Jacinto",2,13,-,-,15
+"270670 Penedo",71,94,6,2,173
+"270680 Piaçabuçu",3,33,2,2,40
+"270690 Pilar",11,49,1,-,61
+"270700 Pindoba",1,4,-,-,5
+"270710 Piranhas",20,51,2,3,76
+"270720 Poço das Trincheiras",6,16,-,-,22
+"270730 Porto Calvo",3,6,-,-,9
+"270740 Porto de Pedras",7,4,1,-,12
+"270750 Porto Real do Colégio",11,10,-,2,23
+"270760 Quebrangulo",6,17,-,1,24
+"270770 Rio Largo",178,286,24,-,488
+"270780 Roteiro",2,3,-,-,5
+"270790 Santa Luzia do Norte",-,6,-,1,7
+"270800 Santana do Ipanema",244,323,73,10,650
+"270810 Santana do Mundaú",2,3,-,-,5
+"270820 São Brás",3,-,-,-,3
+"270830 São José da Laje",16,181,3,-,200
+"270840 São José da Tapera",20,34,-,-,54
+"270850 São Luís do Quitunde",2,15,-,-,17
+"270860 São Miguel dos Campos",24,93,-,-,117
+"270880 São Sebastião",5,15,-,-,20
+"270890 Satuba",17,47,-,1,65
+"270895 Senador Rui Palmeira",13,18,-,-,31
+"270900 Tanque d'Arca",-,1,-,-,1
+"270910 Taquarana",6,5,3,-,14
+"270915 Teotônio Vilela",112,161,5,7,285
+"270920 Traipu",13,21,-,-,34
+"270930 União dos Palmares",69,158,6,3,236
+"270940 Viçosa",10,57,11,3,81
+"280020 Aquidabã",-,1,-,-,1
+"280030 Aracaju",461,2704,783,12,3960
+"280060 Barra dos Coqueiros",8,17,1,1,27
+"280067 Boquim",30,110,3,5,148
+"280070 Brejo Grande",1,3,-,1,5
+"280100 Campo do Brito",-,1,-,-,1
+"280120 Canindé de São Francisco",2,26,-,-,28
+"280130 Capela",-,4,-,-,4
+"280140 Carira",-,3,-,-,3
+"280150 Carmópolis",-,2,-,-,2
+"280160 Cedro de São João",3,3,-,-,6
+"280170 Cristinápolis",-,4,1,-,5
+"280190 Cumbe",-,-,2,-,2
+"280200 Divina Pastora",-,11,-,1,12
+"280210 Estância",15,104,22,5,146
+"280220 Feira Nova",1,-,-,-,1
+"280230 Frei Paulo",-,8,-,1,9
+"280250 General Maynard",2,2,-,-,4
+"280270 Ilha das Flores",-,4,-,-,4
+"280280 Indiaroba",-,4,1,1,6
+"280290 Itabaiana",7,29,1,2,39
+"280300 Itabaianinha",24,5,-,-,29
+"280320 Itaporanga d'Ajuda",2,7,1,1,11
+"280330 Japaratuba",-,2,-,-,2
+"280340 Japoatã",1,-,-,-,1
+"280350 Lagarto",141,119,7,3,270
+"280360 Laranjeiras",1,2,-,-,3
+"280420 Monte Alegre de Sergipe",-,10,1,-,11
+"280430 Muribeca",-,1,-,-,1
+"280440 Neópolis",-,5,-,2,7
+"280450 Nossa Senhora da Glória",135,138,10,2,285
+"280480 Nossa Senhora do Socorro",44,96,7,1,148
+"280500 Pedra Mole",-,2,-,-,2
+"280510 Pedrinhas",-,1,-,-,1
+"280530 Pirambu",1,-,-,-,1
+"280540 Poço Redondo",-,1,-,-,1
+"280550 Poço Verde",2,5,-,-,7
+"280560 Porto da Folha",-,1,-,-,1
+"280570 Propriá",6,37,88,1,132
+"280580 Riachão do Dantas",1,5,-,-,6
+"280610 Rosário do Catete",3,22,1,-,26
+"280630 Santa Luzia do Itanhy",-,1,-,-,1
+"280660 Santo Amaro das Brotas",-,1,-,-,1
+"280670 São Cristóvão",8,7,1,-,16
+"280710 Simão Dias",17,66,7,3,93
+"280720 Siriri",1,5,-,-,6
+"280740 Tobias Barreto",-,2,-,-,2
+"280750 Tomar do Geru",-,3,1,-,4
+"280760 Umbaúba",-,2,-,-,2
+"290020 Abaré",34,94,5,2,135
+"290030 Acajutiba",-,1,-,-,1
+"290035 Adustina",-,3,1,-,4
+"290040 Água Fria",-,4,-,-,4
+"290060 Aiquara",-,3,-,-,3
+"290070 Alagoinhas",17,387,40,17,461
+"290080 Alcobaça",-,10,4,2,16
+"290090 Almadina",-,1,-,-,1
+"290100 Amargosa",40,214,103,10,367
+"290110 Amélia Rodrigues",4,-,3,-,7
+"290115 América Dourada",9,28,3,1,41
+"290120 Anagé",2,5,-,-,7
+"290130 Andaraí",5,34,23,2,64
+"290135 Andorinha",3,5,-,-,8
+"290140 Angical",-,-,1,-,1
+"290150 Anguera",2,2,-,-,4
+"290160 Antas",-,2,-,-,2
+"290170 Antônio Cardoso",-,6,1,-,7
+"290180 Antônio Gonçalves",3,5,1,2,11
+"290195 Apuarema",2,-,-,-,2
+"290205 Araças",-,1,-,-,1
+"290200 Aracatu",-,2,-,-,2
+"290210 Araci",11,82,4,-,97
+"290225 Arataca",-,2,-,-,2
+"290265 Banzaê",1,2,-,-,3
+"290270 Barra",6,95,1,5,107
+"290280 Barra da Estiva",-,1,-,-,1
+"290290 Barra do Choça",14,82,11,1,108
+"290300 Barra do Mendes",6,48,-,-,54
+"290310 Barra do Rocha",-,3,1,-,4
+"290320 Barreiras",214,1639,27,9,1889
+"290323 Barro Alto",-,3,-,-,3
+"290330 Barro Preto",-,19,-,-,19
+"290327 Barrocas",4,8,-,-,12
+"290340 Belmonte",6,68,4,-,78
+"290350 Belo Campo",-,10,-,-,10
+"290360 Biritinga",-,12,1,9,22
+"290370 Boa Nova",-,4,-,1,5
+"290380 Boa Vista do Tupim",-,4,-,-,4
+"290390 Bom Jesus da Lapa",25,32,-,3,60
+"290395 Bom Jesus da Serra",2,32,1,-,35
+"290405 Bonito",7,20,2,3,32
+"290410 Boquira",8,33,5,2,48
+"290420 Botuporã",-,31,6,-,37
+"290430 Brejões",3,40,3,1,47
+"290450 Brotas de Macaúbas",4,27,2,-,33
+"290460 Brumado",-,21,1,-,22
+"290470 Buerarema",-,3,1,1,5
+"290475 Buritirama",-,6,-,-,6
+"290485 Cabaceiras do Paraguaçu",-,6,1,-,7
+"290490 Cachoeira",-,4,-,-,4
+"290515 Caetanos",4,5,-,1,10
+"290530 Cafarnaum",6,32,2,1,41
+"290540 Cairu",4,26,1,1,32
+"290550 Caldeirão Grande",9,42,7,-,58
+"290560 Camacan",1,8,-,-,9
+"290570 Camaçari",57,273,62,10,402
+"290580 Camamu",-,26,1,-,27
+"290590 Campo Alegre de Lourdes",1,-,-,-,1
+"290600 Campo Formoso",14,130,7,6,157
+"290610 Canápolis",1,8,4,1,14
+"290620 Canarana",1,3,1,1,6
+"290630 Canavieiras",-,3,-,-,3
+"290640 Candeal",1,11,1,-,13
+"290650 Candeias",15,65,8,12,100
+"290670 Cândido Sales",1,17,8,1,27
+"290680 Cansanção",14,112,6,3,135
+"290682 Canudos",3,7,-,-,10
+"290685 Capela do Alto Alegre",-,2,1,-,3
+"290687 Capim Grosso",7,28,-,13,48
+"290689 Caraíbas",1,4,1,-,6
+"290690 Caravelas",-,1,1,-,2
+"290700 Cardeal da Silva",1,3,-,-,4
+"290710 Carinhanha",9,149,14,-,172
+"290720 Casa Nova",8,61,10,1,80
+"290730 Castro Alves",36,240,25,2,303
+"290740 Catolândia",1,4,-,-,5
+"290750 Catu",22,58,23,2,105
+"290760 Central",-,2,-,-,2
+"290770 Chorrochó",14,29,4,2,49
+"290780 Cícero Dantas",-,13,2,1,16
+"290790 Cipó",-,1,-,-,1
+"290800 Coaraci",-,3,-,1,4
+"290810 Cocos",-,1,-,-,1
+"290820 Conceição da Feira",2,54,-,-,56
+"290830 Conceição do Almeida",1,45,3,2,51
+"290840 Conceição do Coité",6,26,1,-,33
+"290850 Conceição do Jacuípe",1,17,1,-,19
+"290860 Conde",4,1,-,-,5
+"290870 Condeúba",6,86,19,9,120
+"290880 Contendas do Sincorá",-,4,-,-,4
+"290890 Coração de Maria",1,1,-,2,4
+"290900 Cordeiros",1,5,1,-,7
+"290910 Coribe",7,13,1,2,23
+"290920 Coronel João Sá",-,3,1,-,4
+"290930 Correntina",7,146,11,1,165
+"290940 Cotegipe",-,3,-,-,3
+"290950 Cravolândia",-,7,2,1,10
+"290960 Crisópolis",-,1,-,-,1
+"290970 Cristópolis",1,8,-,-,9
+"290980 Cruz das Almas",30,379,5,16,430
+"290990 Curaçá",14,74,2,-,90
+"291000 Dário Meira",-,11,-,-,11
+"291005 Dias d'Ávila",13,80,5,6,104
+"291010 Dom Basílio",3,12,-,-,15
+"291020 Dom Macedo Costa",-,13,-,-,13
+"291030 Elísio Medrado",-,21,-,-,21
+"291040 Encruzilhada",11,52,6,3,72
+"291050 Entre Rios",3,36,1,2,42
+"291060 Esplanada",1,1,-,-,2
+"291070 Euclides da Cunha",5,29,22,1,57
+"291072 Eunápolis",152,640,212,16,1020
+"291075 Fátima",1,19,1,1,22
+"291077 Feira da Mata",-,1,-,1,2
+"291080 Feira de Santana",409,3695,821,8,4933
+"291085 Filadélfia",7,53,4,5,69
+"291090 Firmino Alves",-,1,-,-,1
+"291110 Formosa do Rio Preto",1,16,-,-,17
+"291120 Gandu",3,146,3,1,153
+"291125 Gavião",-,1,-,-,1
+"291130 Gentio do Ouro",-,1,1,-,2
+"291140 Glória",20,227,57,3,307
+"291150 Gongogi",-,2,-,-,2
+"291160 Governador Mangabeira",-,8,2,-,10
+"291165 Guajeru",1,11,1,-,13
+"291170 Guanambi",90,410,137,33,670
+"291180 Guaratinga",-,-,1,-,1
+"291190 Iaçu",-,7,-,-,7
+"291210 Ibicaraí",2,10,2,-,14
+"291220 Ibicoara",5,46,-,2,53
+"291230 Ibicuí",4,15,2,1,22
+"291240 Ibipeba",1,1,-,-,2
+"291250 Ibipitanga",-,14,2,-,16
+"291260 Ibiquera",1,3,-,1,5
+"291270 Ibirapitanga",-,2,3,-,5
+"291280 Ibirapuã",-,3,-,-,3
+"291290 Ibirataia",1,10,2,-,13
+"291300 Ibitiara",1,5,-,-,6
+"291320 Ibotirama",23,29,1,5,58
+"291330 Ichu",-,-,-,1,1
+"291340 Igaporã",-,-,1,-,1
+"291345 Igrapiúna",-,1,-,-,1
+"291350 Iguaí",21,23,3,6,53
+"291360 Ilhéus",61,256,48,14,379
+"291370 Inhambupe",2,9,2,-,13
+"291380 Ipecaetá",-,3,-,-,3
+"291390 Ipiaú",97,558,39,20,714
+"291400 Ipirá",-,12,-,-,12
+"291410 Ipupiara",3,13,-,-,16
+"291430 Iramaia",1,-,-,-,1
+"291440 Iraquara",2,4,-,-,6
+"291450 Irará",10,11,-,-,21
+"291460 Irecê",23,321,167,2,513
+"291465 Itabela",2,43,-,2,47
+"291470 Itaberaba",67,394,172,16,649
+"291480 Itabuna",383,1466,67,11,1927
+"291500 Itaeté",2,13,16,3,34
+"291510 Itagi",2,10,-,-,12
+"291520 Itagibá",3,2,-,-,5
+"291530 Itagimirim",4,4,-,-,8
+"291550 Itajuípe",1,8,1,-,10
+"291560 Itamaraju",47,393,8,9,457
+"291570 Itamari",-,3,-,-,3
+"291580 Itambé",3,6,-,2,11
+"291600 Itanhém",5,-,-,1,6
+"291610 Itaparica",6,36,4,2,48
+"291620 Itapé",-,-,1,-,1
+"291630 Itapebi",4,15,-,-,19
+"291640 Itapetinga",5,108,4,-,117
+"291650 Itapicuru",4,15,-,1,20
+"291660 Itapitanga",-,1,-,-,1
+"291680 Itarantim",-,3,3,-,6
+"291685 Itatim",7,3,1,-,11
+"291690 Itiruçu",2,16,3,-,21
+"291700 Itiúba",1,41,3,1,46
+"291710 Itororó",10,8,1,-,19
+"291730 Ituberá",14,83,15,8,120
+"291735 Jaborandi",-,3,-,-,3
+"291740 Jacaraci",-,3,-,-,3
+"291750 Jacobina",62,270,26,26,384
+"291760 Jaguaquara",10,62,1,1,74
+"291770 Jaguarari",3,20,3,7,33
+"291780 Jaguaripe",-,8,-,-,8
+"291800 Jequié",98,860,135,8,1101
+"291810 Jeremoabo",-,26,1,2,29
+"291820 Jiquiriçá",1,1,-,-,2
+"291830 Jitaúna",-,9,1,-,10
+"291835 João Dourado",4,27,1,-,32
+"291840 Juazeiro",200,711,38,53,1002
+"291850 Jussara",-,2,-,-,2
+"291855 Jussari",-,2,-,-,2
+"291870 Lafaiete Coutinho",4,13,1,1,19
+"291875 Lagoa Real",-,3,-,-,3
+"291880 Laje",-,21,1,1,23
+"291890 Lajedão",-,12,-,-,12
+"291900 Lajedinho",-,-,1,1,2
+"291905 Lajedo do Tabocal",-,8,5,-,13
+"291910 Lamarão",1,-,-,-,1
+"291915 Lapão",7,2,-,-,9
+"291920 Lauro de Freitas",26,96,457,138,717
+"291930 Lençóis",-,6,2,-,8
+"291950 Livramento de Nossa Senhora",1,31,3,2,37
+"291955 Luís Eduardo Magalhães",102,675,38,10,825
+"291960 Macajuba",-,13,1,-,14
+"291970 Macarani",1,5,-,-,6
+"291980 Macaúbas",-,10,3,2,15
+"291990 Macururé",1,-,-,-,1
+"291992 Madre de Deus",24,50,21,2,97
+"291995 Maetinga",-,16,1,-,17
+"292000 Maiquinique",-,15,-,-,15
+"292010 Mairi",10,70,24,2,106
+"292020 Malhada",-,2,3,-,5
+"292040 Manoel Vitorino",1,-,-,-,1
+"292050 Maracás",1,47,15,3,66
+"292060 Maragogipe",-,11,1,-,12
+"292070 Maraú",1,4,-,-,5
+"292080 Marcionílio Souza",1,5,1,1,8
+"292100 Mata de São João",2,6,4,-,12
+"292105 Matina",12,12,7,1,32
+"292110 Medeiros Neto",10,78,1,-,89
+"292120 Miguel Calmon",13,77,20,5,115
+"292130 Milagres",-,3,-,-,3
+"292140 Mirangaba",-,4,-,-,4
+"292145 Mirante",2,10,-,1,13
+"292150 Monte Santo",5,35,1,2,43
+"292160 Morpará",-,2,-,-,2
+"292170 Morro do Chapéu",12,81,12,3,108
+"292190 Mucugê",-,6,2,-,8
+"292200 Mucuri",8,34,2,-,44
+"292210 Mundo Novo",-,7,-,-,7
+"292220 Muniz Ferreira",1,1,-,-,2
+"292225 Muquém de São Francisco",-,4,1,-,5
+"292230 Muritiba",2,31,3,1,37
+"292240 Mutuípe",-,14,-,-,14
+"292250 Nazaré",-,1,1,-,2
+"292260 Nilo Peçanha",1,8,-,-,9
+"292265 Nordestina",1,2,-,1,4
+"292270 Nova Canaã",4,22,-,-,26
+"292273 Nova Fátima",4,8,3,-,15
+"292280 Nova Itarana",1,1,-,-,2
+"292285 Nova Redenção",-,10,-,-,10
+"292290 Nova Soure",2,24,5,-,31
+"292300 Nova Viçosa",-,-,-,1,1
+"292303 Novo Horizonte",-,1,-,-,1
+"292305 Novo Triunfo",-,1,-,-,1
+"292320 Oliveira dos Brejinhos",1,4,-,-,5
+"292330 Ouriçangas",2,20,5,2,29
+"292335 Ourolândia",1,7,2,1,11
+"292340 Palmas de Monte Alto",-,2,1,-,3
+"292350 Palmeiras",-,1,-,-,1
+"292360 Paramirim",-,1,-,1,2
+"292370 Paratinga",2,-,-,-,2
+"292380 Paripiranga",-,2,-,-,2
+"292390 Pau Brasil",8,33,10,-,51
+"292400 Paulo Afonso",4,47,11,-,62
+"292405 Pé de Serra",5,29,1,1,36
+"292420 Pedro Alexandre",2,-,-,-,2
+"292430 Piatã",1,8,-,-,9
+"292440 Pilão Arcado",7,26,3,-,36
+"292450 Pindaí",1,-,-,-,1
+"292460 Pindobaçu",4,30,4,1,39
+"292465 Pintadas",1,9,8,-,18
+"292470 Piripá",-,14,-,-,14
+"292480 Piritiba",6,42,27,1,76
+"292490 Planaltino",1,-,-,-,1
+"292500 Planalto",-,5,-,1,6
+"292510 Poções",34,225,16,7,282
+"292520 Pojuca",4,25,2,1,32
+"292525 Ponto Novo",3,53,1,2,59
+"292530 Porto Seguro",58,477,48,63,646
+"292550 Prado",5,12,-,-,17
+"292560 Presidente Dutra",1,6,-,-,7
+"292570 Presidente Jânio Quadros",6,29,1,-,36
+"292575 Presidente Tancredo Neves",2,26,2,-,30
+"292580 Queimadas",4,28,-,-,32
+"292590 Quijingue",-,4,-,-,4
+"292593 Quixabeira",-,5,-,-,5
+"292595 Rafael Jambeiro",4,8,1,1,14
+"292600 Remanso",-,49,3,1,53
+"292610 Retirolândia",1,12,-,-,13
+"292620 Riachão das Neves",-,-,1,-,1
+"292630 Riachão do Jacuípe",16,113,29,26,184
+"292650 Ribeira do Amparo",1,7,1,-,9
+"292660 Ribeira do Pombal",-,4,-,-,4
+"292665 Ribeirão do Largo",2,6,-,-,8
+"292670 Rio de Contas",-,4,-,-,4
+"292700 Rio Real",10,164,9,-,183
+"292710 Rodelas",5,61,46,3,115
+"292720 Ruy Barbosa",2,172,9,7,190
+"292730 Salinas da Margarida",1,26,2,-,29
+"292740 Salvador",1393,9206,2478,112,13189
+"292750 Santa Bárbara",19,27,3,-,49
+"292760 Santa Brígida",-,1,-,-,1
+"292770 Santa Cruz Cabrália",-,9,-,1,10
+"292780 Santa Cruz da Vitória",-,4,1,-,5
+"292790 Santa Inês",1,8,-,1,10
+"292805 Santa Luzia",-,7,-,1,8
+"292810 Santa Maria da Vitória",16,45,23,4,88
+"292840 Santa Rita de Cássia",8,69,2,11,90
+"292850 Santa Teresinha",3,13,2,-,18
+"292800 Santaluz",8,38,8,-,54
+"292820 Santana",-,2,-,-,2
+"292830 Santanópolis",-,8,-,-,8
+"292870 Santo Antônio de Jesus",104,837,131,21,1093
+"292880 Santo Estêvão",1,22,3,1,27
+"292890 São Desidério",2,14,-,-,16
+"292895 São Domingos",7,24,4,-,35
+"292910 São Felipe",-,7,-,-,7
+"292905 São Félix do Coribe",2,10,4,-,16
+"292920 São Francisco do Conde",11,114,7,19,151
+"292925 São Gabriel",2,1,-,-,3
+"292930 São Gonçalo dos Campos",12,123,59,14,208
+"292950 São Sebastião do Passé",1,4,112,170,287
+"292960 Sapeaçu",4,18,2,2,26
+"292970 Sátiro Dias",-,1,-,-,1
+"292975 Saubara",-,2,-,-,2
+"292980 Saúde",1,9,1,-,11
+"292990 Seabra",7,47,10,-,64
+"293000 Sebastião Laranjeiras",1,5,1,-,7
+"293010 Senhor do Bonfim",22,133,181,10,346
+"293020 Sento Sé",4,4,5,140,153
+"293015 Serra do Ramalho",-,1,-,-,1
+"293030 Serra Dourada",2,35,2,1,40
+"293040 Serra Preta",-,13,1,2,16
+"293050 Serrinha",161,292,48,7,508
+"293060 Serrolândia",20,116,9,2,147
+"293070 Simões Filho",7,159,78,1,245
+"293075 Sítio do Mato",-,4,-,-,4
+"293076 Sítio do Quinto",-,2,-,-,2
+"293077 Sobradinho",1,1,-,-,2
+"293080 Souto Soares",-,-,1,-,1
+"293090 Tabocas do Brejo Velho",-,7,-,1,8
+"293100 Tanhaçu",-,6,2,-,8
+"293110 Tanquinho",-,24,1,2,27
+"293120 Taperoá",-,6,-,1,7
+"293130 Tapiramutá",5,15,23,2,45
+"293135 Teixeira de Freitas",57,371,41,38,507
+"293140 Teodoro Sampaio",1,4,1,-,6
+"293150 Teofilândia",1,77,4,2,84
+"293160 Teolândia",2,17,1,-,20
+"293170 Terra Nova",5,27,12,1,45
+"293180 Tremedal",3,6,-,2,11
+"293190 Tucano",7,27,1,-,35
+"293200 Uauá",-,1,2,1,4
+"293210 Ubaíra",-,7,-,-,7
+"293220 Ubaitaba",-,2,-,-,2
+"293230 Ubatã",-,2,-,-,2
+"293240 Uibaí",1,5,-,-,6
+"293245 Umburanas",1,1,-,-,2
+"293250 Una",3,33,3,2,41
+"293260 Urandi",-,3,-,-,3
+"293280 Utinga",-,3,-,-,3
+"293290 Valença",8,89,-,-,97
+"293300 Valente",4,11,-,-,15
+"293305 Várzea da Roça",1,14,1,-,16
+"293310 Várzea do Poço",-,1,-,-,1
+"293315 Várzea Nova",-,2,-,-,2
+"293317 Varzedo",-,18,1,-,19
+"293320 Vera Cruz",23,383,15,4,425
+"293325 Vereda",1,6,-,-,7
+"293330 Vitória da Conquista",302,1814,380,144,2640
+"293345 Wanderley",8,3,-,-,11
+"293350 Wenceslau Guimarães",5,34,2,4,45
+"293360 Xique-Xique",-,5,4,-,9
+"310010 Abadia dos Dourados",11,14,-,-,25
+"310020 Abaeté",226,234,1,-,461
+"310030 Abre Campo",62,350,36,10,458
+"310040 Acaiaca",12,38,-,1,51
+"310050 Açucena",17,114,5,1,137
+"310060 Água Boa",1,57,19,-,77
+"310070 Água Comprida",14,88,7,2,111
+"310080 Aguanil",7,41,1,-,49
+"310090 Águas Formosas",38,196,4,3,241
+"310100 Águas Vermelhas",8,158,3,-,169
+"310110 Aimorés",10,142,9,4,165
+"310120 Aiuruoca",25,77,-,-,102
+"310130 Alagoa",1,26,-,-,27
+"310140 Albertina",27,94,1,-,122
+"310150 Além Paraíba",45,236,40,1,322
+"310160 Alfenas",276,463,19,13,771
+"310163 Alfredo Vasconcelos",4,51,-,-,55
+"310170 Almenara",32,63,3,-,98
+"310180 Alpercata",1,25,-,1,27
+"310190 Alpinópolis",22,98,2,2,124
+"310200 Alterosa",14,210,5,2,231
+"310205 Alto Caparaó",17,72,-,1,90
+"315350 Alto Jequitibá",48,126,-,-,174
+"310210 Alto Rio Doce",5,61,-,4,70
+"310220 Alvarenga",28,48,-,-,76
+"310230 Alvinópolis",48,301,20,6,375
+"310240 Alvorada de Minas",12,89,3,-,104
+"310250 Amparo do Serra",7,57,1,1,66
+"310260 Andradas",275,599,14,7,895
+"310280 Andrelândia",9,14,-,-,23
+"310285 Angelândia",6,82,-,-,88
+"310290 Antônio Carlos",75,286,-,-,361
+"310300 Antônio Dias",19,120,3,-,142
+"310310 Antônio Prado de Minas",2,36,24,2,64
+"310320 Araçaí",16,119,2,2,139
+"310330 Aracitaba",-,6,-,-,6
+"310340 Araçuaí",35,363,105,-,503
+"310350 Araguari",67,501,27,-,595
+"310360 Arantina",7,7,-,1,15
+"310370 Araponga",44,147,-,-,191
+"310375 Araporã",6,28,1,1,36
+"310380 Arapuá",5,20,-,-,25
+"310390 Araújos",10,62,9,1,82
+"310400 Araxá",432,918,16,4,1370
+"310410 Arceburgo",17,94,-,-,111
+"310420 Arcos",432,206,6,1,645
+"310430 Areado",21,102,7,1,131
+"310440 Argirita",5,57,-,1,63
+"310445 Aricanduva",21,41,9,2,73
+"310450 Arinos",8,88,1,-,97
+"310460 Astolfo Dutra",15,94,1,2,112
+"310470 Ataléia",5,148,1,-,154
+"310480 Augusto de Lima",12,109,-,-,121
+"310490 Baependi",102,269,-,-,371
+"310500 Baldim",11,142,2,-,155
+"310510 Bambuí",35,106,3,1,145
+"310520 Bandeira",4,31,1,-,36
+"310530 Bandeira do Sul",64,66,2,-,132
+"310540 Barão de Cocais",83,391,16,17,507
+"310550 Barão de Monte Alto",-,44,-,-,44
+"310560 Barbacena",380,975,19,1,1375
+"310570 Barra Longa",13,49,2,-,64
+"310590 Barroso",134,154,8,14,310
+"310600 Bela Vista de Minas",21,73,13,3,110
+"310610 Belmiro Braga",-,6,4,-,10
+"310620 Belo Horizonte",6914,8356,1060,160,16490
+"310630 Belo Oriente",10,53,5,-,68
+"310640 Belo Vale",52,68,-,-,120
+"310650 Berilo",5,60,5,2,72
+"310665 Berizal",3,47,2,-,52
+"310660 Bertópolis",4,120,-,-,124
+"310670 Betim",1232,3474,420,14,5140
+"310680 Bias Fortes",3,8,3,-,14
+"310690 Bicas",41,71,1,-,113
+"310700 Biquinhas",11,38,7,-,56
+"310710 Boa Esperança",270,141,-,-,411
+"310720 Bocaina de Minas",-,1,-,-,1
+"310730 Bocaiúva",212,1015,69,1,1297
+"310740 Bom Despacho",154,252,25,2,433
+"310750 Bom Jardim de Minas",8,21,3,-,32
+"310760 Bom Jesus da Penha",39,46,-,-,85
+"310770 Bom Jesus do Amparo",1,15,-,2,18
+"310780 Bom Jesus do Galho",30,78,17,-,125
+"310790 Bom Repouso",56,137,-,1,194
+"310800 Bom Sucesso",69,16,2,-,87
+"310810 Bonfim",9,30,5,2,46
+"310820 Bonfinópolis de Minas",20,37,-,2,59
+"310825 Bonito de Minas",21,112,1,1,135
+"310830 Borda da Mata",29,90,-,1,120
+"310840 Botelhos",59,34,1,-,94
+"310850 Botumirim",8,131,10,7,156
+"310870 Brás Pires",17,34,-,-,51
+"310855 Brasilândia de Minas",26,265,-,-,291
+"310860 Brasília de Minas",27,242,6,15,290
+"310880 Braúnas",10,39,-,2,51
+"310890 Brazópolis",66,231,-,-,297
+"310900 Brumadinho",271,391,12,4,678
+"310910 Bueno Brandão",52,162,8,-,222
+"310920 Buenópolis",39,79,1,-,119
+"310925 Bugre",3,82,2,6,93
+"310930 Buritis",16,96,6,2,120
+"310940 Buritizeiro",72,193,1,10,276
+"310945 Cabeceira Grande",-,22,-,1,23
+"310950 Cabo Verde",23,66,-,-,89
+"310960 Cachoeira da Prata",5,64,1,-,70
+"310970 Cachoeira de Minas",75,39,-,-,114
+"310270 Cachoeira de Pajeú",22,119,-,-,141
+"310980 Cachoeira Dourada",2,22,2,2,28
+"310990 Caetanópolis",96,281,9,9,395
+"311000 Caeté",14,81,2,1,98
+"311010 Caiana",17,116,-,1,134
+"311020 Cajuri",7,38,3,-,48
+"311030 Caldas",28,86,3,2,119
+"311040 Camacho",15,16,1,-,32
+"311050 Camanducaia",8,68,3,1,80
+"311060 Cambuí",21,74,1,-,96
+"311070 Cambuquira",18,179,4,4,205
+"311080 Campanário",2,159,-,1,162
+"311090 Campanha",182,168,2,-,352
+"311100 Campestre",129,557,-,1,687
+"311110 Campina Verde",33,121,2,1,157
+"311115 Campo Azul",6,110,1,-,117
+"311120 Campo Belo",185,68,3,-,256
+"311130 Campo do Meio",29,165,2,1,197
+"311140 Campo Florido",26,139,1,-,166
+"311150 Campos Altos",101,261,8,1,371
+"311160 Campos Gerais",12,39,1,-,52
+"311170 Canaã",34,73,-,-,107
+"311180 Canápolis",31,166,1,-,198
+"311200 Candeias",56,270,48,4,378
+"311205 Cantagalo",-,12,-,-,12
+"311210 Caparaó",22,105,12,1,140
+"311220 Capela Nova",26,61,-,-,87
+"311230 Capelinha",10,142,34,1,187
+"311240 Capetinga",32,68,1,2,103
+"311250 Capim Branco",20,185,6,2,213
+"311260 Capinópolis",99,140,3,-,242
+"311265 Capitão Andrade",4,43,-,1,48
+"311270 Capitão Enéas",7,122,11,9,149
+"311280 Capitólio",73,183,-,-,256
+"311290 Caputira",7,54,1,1,63
+"311300 Caraí",67,252,2,-,321
+"311310 Caranaíba",3,16,2,-,21
+"311320 Carandaí",238,576,2,-,816
+"311330 Carangola",341,491,3,-,835
+"311340 Caratinga",196,489,12,1,698
+"311350 Carbonita",34,123,7,-,164
+"311360 Careaçu",42,37,5,-,84
+"311370 Carlos Chagas",20,205,3,4,232
+"311380 Carmésia",1,8,1,-,10
+"311390 Carmo da Cachoeira",4,63,3,1,71
+"311400 Carmo da Mata",97,62,3,-,162
+"311410 Carmo de Minas",24,86,-,-,110
+"311420 Carmo do Cajuru",145,278,10,4,437
+"311430 Carmo do Paranaíba",152,835,21,-,1008
+"311440 Carmo do Rio Claro",47,210,19,8,284
+"311450 Carmópolis de Minas",83,102,1,1,187
+"311455 Carneirinho",57,152,-,-,209
+"311460 Carrancas",11,41,10,1,63
+"311470 Carvalhópolis",24,51,-,-,75
+"311480 Carvalhos",4,62,-,1,67
+"311490 Casa Grande",4,27,1,-,32
+"311500 Cascalho Rico",8,44,-,-,52
+"311510 Cássia",18,197,-,-,215
+"311530 Cataguases",156,631,107,1,895
+"311535 Catas Altas",7,19,2,-,28
+"311540 Catas Altas da Noruega",11,16,1,-,28
+"311545 Catuji",6,143,3,1,153
+"311547 Catuti",13,42,2,8,65
+"311550 Caxambu",30,280,15,-,325
+"311560 Cedro do Abaeté",10,171,-,1,182
+"311570 Central de Minas",6,132,1,-,139
+"311580 Centralina",28,149,2,-,179
+"311590 Chácara",-,1,-,-,1
+"311600 Chalé",11,173,-,-,184
+"311610 Chapada do Norte",8,228,20,-,256
+"311615 Chapada Gaúcha",10,163,1,1,175
+"311620 Chiador",-,4,3,-,7
+"311630 Cipotânea",11,47,6,2,66
+"311640 Claraval",9,76,-,1,86
+"311650 Claro dos Poções",8,52,-,1,61
+"311660 Cláudio",95,96,6,3,200
+"311670 Coimbra",22,119,-,-,141
+"311680 Coluna",4,94,3,2,103
+"311690 Comendador Gomes",25,84,40,-,149
+"311700 Comercinho",-,5,-,-,5
+"311710 Conceição da Aparecida",73,132,-,-,205
+"311520 Conceição da Barra de Minas",16,22,-,-,38
+"311730 Conceição das Alagoas",97,78,-,-,175
+"311720 Conceição das Pedras",1,18,-,-,19
+"311740 Conceição de Ipanema",4,65,-,-,69
+"311750 Conceição do Mato Dentro",53,155,6,2,216
+"311760 Conceição do Pará",23,22,-,-,45
+"311770 Conceição do Rio Verde",31,44,3,-,78
+"311780 Conceição dos Ouros",50,81,1,1,133
+"311783 Cônego Marinho",14,33,2,-,49
+"311787 Confins",-,14,5,1,20
+"311790 Congonhal",30,67,1,-,98
+"311800 Congonhas",264,1867,24,2,2157
+"311810 Congonhas do Norte",16,133,7,5,161
+"311820 Conquista",76,79,1,1,157
+"311830 Conselheiro Lafaiete",862,2851,101,5,3819
+"311840 Conselheiro Pena",7,128,1,-,136
+"311850 Consolação",7,76,-,-,83
+"311860 Contagem",1192,1323,813,49,3377
+"311870 Coqueiral",16,69,1,-,86
+"311880 Coração de Jesus",10,250,3,2,265
+"311890 Cordisburgo",13,136,-,-,149
+"311900 Cordislândia",28,56,-,-,84
+"311910 Corinto",189,924,32,144,1289
+"311920 Coroaci",7,110,4,2,123
+"311930 Coromandel",156,276,4,-,436
+"311940 Coronel Fabriciano",167,474,45,7,693
+"311950 Coronel Murta",2,26,-,-,28
+"311960 Coronel Pacheco",-,7,-,-,7
+"311970 Coronel Xavier Chaves",6,37,-,-,43
+"311980 Córrego Danta",-,13,1,-,14
+"311990 Córrego do Bom Jesus",9,3,-,-,12
+"311995 Córrego Fundo",51,108,5,-,164
+"312000 Córrego Novo",2,35,1,-,38
+"312010 Couto de Magalhães de Minas",12,41,6,1,60
+"312015 Crisólita",5,63,-,1,69
+"312020 Cristais",38,46,-,-,84
+"312030 Cristália",3,59,3,3,68
+"312040 Cristiano Otoni",15,18,1,1,35
+"312050 Cristina",23,74,2,-,99
+"312060 Crucilândia",3,6,-,-,9
+"312070 Cruzeiro da Fortaleza",7,25,14,-,46
+"312080 Cruzília",63,289,8,-,360
+"312083 Cuparaque",1,34,2,-,37
+"312087 Curral de Dentro",7,71,1,-,79
+"312090 Curvelo",172,157,30,4,363
+"312100 Datas",27,34,3,-,64
+"312110 Delfim Moreira",33,65,-,-,98
+"312120 Delfinópolis",19,74,5,2,100
+"312125 Delta",2,71,2,1,76
+"312130 Descoberto",-,2,1,1,4
+"312140 Desterro de Entre Rios",44,46,1,-,91
+"312150 Desterro do Melo",9,29,-,-,38
+"312160 Diamantina",46,374,23,-,443
+"312170 Diogo de Vasconcelos",12,14,1,3,30
+"312180 Dionísio",1,60,4,1,66
+"312190 Divinésia",7,75,1,-,83
+"312200 Divino",5,138,1,1,145
+"312210 Divino das Laranjeiras",4,35,2,-,41
+"312220 Divinolândia de Minas",24,66,-,1,91
+"312230 Divinópolis",205,487,28,-,720
+"312235 Divisa Alegre",4,44,-,-,48
+"312240 Divisa Nova",26,119,10,-,155
+"312245 Divisópolis",-,25,1,-,26
+"312247 Dom Bosco",1,24,1,3,29
+"312250 Dom Cavati",1,11,1,-,13
+"312260 Dom Joaquim",13,41,3,-,57
+"312270 Dom Silvério",4,46,5,-,55
+"312280 Dom Viçoso",5,27,-,-,32
+"312290 Dona Eusébia",-,100,-,-,100
+"312300 Dores de Campos",23,76,7,1,107
+"312310 Dores de Guanhães",9,17,1,1,28
+"312320 Dores do Indaiá",41,81,25,-,147
+"312330 Dores do Turvo",15,29,2,-,46
+"312340 Doresópolis",9,165,-,1,175
+"312350 Douradoquara",4,13,-,-,17
+"312352 Durandé",40,114,1,-,155
+"312360 Elói Mendes",181,434,4,3,622
+"312370 Engenheiro Caldas",10,25,-,-,35
+"312380 Engenheiro Navarro",3,71,3,1,78
+"312385 Entre Folhas",-,47,2,-,49
+"312390 Entre Rios de Minas",36,86,6,1,129
+"312400 Ervália",59,70,23,5,157
+"312410 Esmeraldas",39,136,10,8,193
+"312420 Espera Feliz",204,430,19,4,657
+"312430 Espinosa",41,101,3,-,145
+"312440 Espírito Santo do Dourado",17,38,-,-,55
+"312450 Estiva",11,68,15,3,97
+"312460 Estrela Dalva",1,30,1,2,34
+"312470 Estrela do Indaiá",3,35,-,-,38
+"312480 Estrela do Sul",16,49,9,-,74
+"312490 Eugenópolis",5,64,21,3,93
+"312500 Ewbank da Câmara",1,12,1,-,14
+"312510 Extrema",69,226,-,-,295
+"312520 Fama",2,26,1,-,29
+"312530 Faria Lemos",-,1,-,-,1
+"312540 Felício dos Santos",20,70,4,1,95
+"312560 Felisburgo",1,72,3,1,77
+"312570 Felixlândia",50,317,4,1,372
+"312580 Fernandes Tourinho",2,16,1,-,19
+"312590 Ferros",19,89,75,2,185
+"312595 Fervedouro",87,313,3,-,403
+"312600 Florestal",12,21,2,-,35
+"312610 Formiga",753,1464,32,6,2255
+"312620 Formoso",-,20,-,-,20
+"312630 Fortaleza de Minas",20,95,-,-,115
+"312640 Fortuna de Minas",30,128,2,-,160
+"312650 Francisco Badaró",33,176,12,3,224
+"312660 Francisco Dumont",3,105,-,1,109
+"312670 Francisco Sá",13,202,1,4,220
+"312675 Franciscópolis",12,122,2,-,136
+"312680 Frei Gaspar",12,86,1,1,100
+"312690 Frei Inocêncio",1,16,-,-,17
+"312695 Frei Lagonegro",1,7,4,-,12
+"312700 Fronteira",38,88,12,7,145
+"312705 Fronteira dos Vales",5,104,2,-,111
+"312707 Fruta de Leite",1,34,-,-,35
+"312710 Frutal",456,715,22,2,1195
+"312720 Funilândia",4,23,-,-,27
+"312730 Galiléia",17,93,2,-,112
+"312733 Gameleiras",15,130,3,-,148
+"312735 Glaucilândia",1,43,-,1,45
+"312737 Goiabeira",4,23,3,1,31
+"312738 Goianá",-,14,-,3,17
+"312740 Gonçalves",4,99,1,1,105
+"312750 Gonzaga",38,89,2,-,129
+"312760 Gouveia",85,148,2,-,235
+"312770 Governador Valadares",919,2900,551,4,4374
+"312780 Grão Mogol",8,69,19,-,96
+"312790 Grupiara",7,39,-,1,47
+"312800 Guanhães",277,797,1,-,1075
+"312810 Guapé",7,161,-,-,168
+"312820 Guaraciaba",5,62,2,-,69
+"312825 Guaraciama",17,74,1,-,92
+"312830 Guaranésia",26,59,2,-,87
+"312840 Guarani",16,39,1,3,59
+"312850 Guarará",8,40,1,4,53
+"312860 Guarda-Mor",1,6,-,-,7
+"312870 Guaxupé",351,614,6,-,971
+"312880 Guidoval",9,67,5,2,83
+"312890 Guimarânia",12,131,4,2,149
+"312900 Guiricema",13,47,-,1,61
+"312910 Gurinhatã",35,93,7,-,135
+"312920 Heliodora",23,67,-,-,90
+"312930 Iapu",-,101,-,1,102
+"312940 Ibertioga",21,71,3,-,95
+"312950 Ibiá",210,147,-,-,357
+"312960 Ibiaí",3,68,-,-,71
+"312965 Ibiracatu",4,59,-,-,63
+"312970 Ibiraci",52,71,-,1,124
+"312980 Ibirité",503,524,13,4,1044
+"312990 Ibitiúra de Minas",1,100,-,-,101
+"313000 Ibituruna",2,62,-,-,64
+"313005 Icaraí de Minas",7,60,5,-,72
+"313010 Igarapé",92,98,46,2,238
+"313020 Igaratinga",32,52,2,2,88
+"313030 Iguatama",50,98,10,5,163
+"313040 Ijaci",25,91,1,-,117
+"313050 Ilicínea",96,42,1,1,140
+"313055 Imbé de Minas",10,45,4,-,59
+"313060 Inconfidentes",9,77,1,-,87
+"313065 Indaiabira",18,127,1,-,146
+"313070 Indianópolis",4,30,2,-,36
+"313080 Ingaí",37,38,-,1,76
+"313090 Inhapim",45,443,4,-,492
+"313100 Inhaúma",21,95,-,-,116
+"313110 Inimutaba",4,55,-,1,60
+"313115 Ipaba",2,137,8,1,148
+"313120 Ipanema",61,102,-,-,163
+"313130 Ipatinga",1868,2320,234,2,4424
+"313140 Ipiaçu",54,186,-,-,240
+"313150 Ipuiúna",32,46,1,-,79
+"313160 Iraí de Minas",25,51,-,1,77
+"313170 Itabira",201,1242,182,82,1707
+"313180 Itabirinha",57,142,4,-,203
+"313190 Itabirito",336,901,-,10,1247
+"313200 Itacambira",2,30,1,-,33
+"313210 Itacarambi",14,317,4,-,335
+"313220 Itaguara",59,168,1,4,232
+"313230 Itaipé",41,104,2,-,147
+"313240 Itajubá",212,659,2,1,874
+"313250 Itamarandiba",43,416,46,1,506
+"313260 Itamarati de Minas",33,144,-,4,181
+"313270 Itambacuri",24,227,6,5,262
+"313280 Itambé do Mato Dentro",6,10,-,1,17
+"313290 Itamogi",112,307,-,-,419
+"313300 Itamonte",33,131,8,5,177
+"313310 Itanhandu",18,121,-,-,139
+"313320 Itanhomi",4,175,11,-,190
+"313330 Itaobim",6,86,6,-,98
+"313340 Itapagipe",96,386,1,-,483
+"313350 Itapecerica",44,53,8,-,105
+"313360 Itapeva",19,65,-,-,84
+"313370 Itatiaiuçu",85,50,16,2,153
+"313375 Itaú de Minas",33,170,2,-,205
+"313380 Itaúna",157,383,34,6,580
+"313390 Itaverava",16,46,-,-,62
+"313400 Itinga",2,94,2,3,101
+"313410 Itueta",3,47,5,-,55
+"313420 Ituiutaba",543,872,7,2,1424
+"313430 Itumirim",9,14,-,-,23
+"313440 Iturama",397,555,2,-,954
+"313450 Itutinga",6,64,1,-,71
+"313460 Jaboticatubas",18,114,22,1,155
+"313470 Jacinto",4,131,2,-,137
+"313480 Jacuí",36,37,-,1,74
+"313490 Jacutinga",91,332,-,-,423
+"313500 Jaguaraçu",8,85,-,1,94
+"313505 Jaíba",23,264,5,3,295
+"313507 Jampruca",-,23,1,1,25
+"313510 Janaúba",124,548,9,2,683
+"313520 Januária",17,568,1,6,592
+"313530 Japaraíba",6,11,-,-,17
+"313535 Japonvar",11,115,6,-,132
+"313540 Jeceaba",25,199,1,-,225
+"313545 Jenipapo de Minas",21,91,5,1,118
+"313550 Jequeri",16,83,8,-,107
+"313560 Jequitaí",4,113,-,6,123
+"313570 Jequitibá",11,106,1,1,119
+"313580 Jequitinhonha",6,39,14,-,59
+"313590 Jesuânia",4,17,2,-,23
+"313600 Joaíma",5,111,-,-,116
+"313610 Joanésia",11,41,1,-,53
+"313620 João Monlevade",337,506,72,26,941
+"313630 João Pinheiro",99,242,-,3,344
+"313640 Joaquim Felício",11,73,2,-,86
+"313650 Jordânia",1,65,-,-,66
+"313652 José Gonçalves de Minas",9,30,1,-,40
+"313655 José Raydan",4,28,-,2,34
+"313657 Josenópolis",4,39,1,4,48
+"313665 Juatuba",21,93,5,3,122
+"313670 Juiz de Fora",663,1850,111,16,2640
+"313680 Juramento",1,62,3,-,66
+"313690 Juruaia",92,125,1,-,218
+"313695 Juvenília",6,36,6,1,49
+"313700 Ladainha",9,96,6,-,111
+"313710 Lagamar",17,43,-,-,60
+"313720 Lagoa da Prata",215,471,27,7,720
+"313730 Lagoa dos Patos",12,118,4,-,134
+"313740 Lagoa Dourada",62,82,-,-,144
+"313750 Lagoa Formosa",183,146,7,-,336
+"313753 Lagoa Grande",25,130,7,1,163
+"313760 Lagoa Santa",17,527,37,27,608
+"313770 Lajinha",46,82,-,-,128
+"313780 Lambari",19,44,-,-,63
+"313790 Lamim",21,9,-,-,30
+"313800 Laranjal",17,40,-,-,57
+"313810 Lassance",13,199,12,1,225
+"313820 Lavras",383,1325,25,5,1738
+"313830 Leandro Ferreira",26,106,28,1,161
+"313835 Leme do Prado",13,60,3,4,80
+"313840 Leopoldina",264,233,33,-,530
+"313850 Liberdade",5,7,1,1,14
+"313860 Lima Duarte",118,5,2,-,125
+"313862 Limeira do Oeste",128,223,5,1,357
+"313865 Lontra",29,80,8,1,118
+"313867 Luisburgo",29,31,1,-,61
+"313868 Luislândia",8,42,1,3,54
+"313870 Luminárias",8,17,2,1,28
+"313880 Luz",251,564,2,-,817
+"313890 Machacalis",11,129,4,1,145
+"313900 Machado",265,655,6,2,928
+"313910 Madre de Deus de Minas",1,1,2,-,4
+"313920 Malacacheta",85,228,11,3,327
+"313925 Mamonas",12,50,-,-,62
+"313930 Manga",5,143,3,-,151
+"313940 Manhuaçu",645,1476,4,1,2126
+"313950 Manhumirim",154,413,8,4,579
+"313960 Mantena",26,298,-,-,324
+"313980 Mar de Espanha",30,107,-,1,138
+"313970 Maravilhas",24,88,2,4,118
+"313990 Maria da Fé",60,251,-,1,312
+"314000 Mariana",388,699,18,5,1110
+"314010 Marilac",2,17,-,-,19
+"314015 Mário Campos",6,50,4,-,60
+"314020 Maripá de Minas",1,46,1,-,48
+"314030 Marliéria",3,8,-,-,11
+"314040 Marmelópolis",7,12,-,-,19
+"314050 Martinho Campos",47,72,9,9,137
+"314053 Martins Soares",5,33,1,-,39
+"314055 Mata Verde",-,16,-,-,16
+"314060 Materlândia",14,30,13,-,57
+"314070 Mateus Leme",44,301,4,2,351
+"317150 Mathias Lobato",7,42,1,-,50
+"314080 Matias Barbosa",25,146,153,3,327
+"314085 Matias Cardoso",14,177,-,1,192
+"314090 Matipó",4,88,1,-,93
+"314100 Mato Verde",13,87,4,-,104
+"314110 Matozinhos",233,682,2,-,917
+"314120 Matutina",56,32,-,-,88
+"314130 Medeiros",2,6,2,1,11
+"314140 Medina",18,99,6,5,128
+"314150 Mendes Pimentel",3,17,-,-,20
+"314160 Mercês",2,44,86,19,151
+"314170 Mesquita",4,64,-,-,68
+"314180 Minas Novas",18,88,7,1,114
+"314190 Minduri",1,21,-,1,23
+"314200 Mirabela",9,50,2,3,64
+"314210 Miradouro",12,33,5,1,51
+"314220 Miraí",1,159,-,-,160
+"314225 Miravânia",19,86,5,-,110
+"314230 Moeda",18,45,1,2,66
+"314240 Moema",63,138,3,-,204
+"314250 Monjolos",24,129,2,1,156
+"314260 Monsenhor Paulo",26,143,35,-,204
+"314270 Montalvânia",68,257,13,1,339
+"314280 Monte Alegre de Minas",35,50,-,2,87
+"314290 Monte Azul",17,129,4,4,154
+"314300 Monte Belo",85,65,-,1,151
+"314310 Monte Carmelo",372,548,5,-,925
+"314315 Monte Formoso",1,1,1,-,3
+"314320 Monte Santo de Minas",168,140,1,-,309
+"314340 Monte Sião",23,196,-,1,220
+"314330 Montes Claros",247,977,60,23,1307
+"314345 Montezuma",2,59,3,1,65
+"314350 Morada Nova de Minas",68,304,-,2,374
+"314360 Morro da Garça",-,46,-,-,46
+"314370 Morro do Pilar",-,8,-,6,14
+"314380 Munhoz",7,104,3,-,114
+"314390 Muriaé",77,896,40,22,1035
+"314400 Mutum",2,157,8,3,170
+"314410 Muzambinho",160,360,-,-,520
+"314420 Nacip Raydan",9,34,-,-,43
+"314430 Nanuque",26,143,3,-,172
+"314435 Naque",25,57,5,2,89
+"314437 Natalândia",26,135,4,1,166
+"314440 Natércia",41,23,-,1,65
+"314450 Nazareno",39,88,4,-,131
+"314460 Nepomuceno",201,176,1,-,378
+"314465 Ninheira",3,47,2,3,55
+"314467 Nova Belém",-,15,1,-,16
+"314470 Nova Era",82,173,18,-,273
+"314480 Nova Lima",65,75,29,6,175
+"314490 Nova Módica",6,70,1,-,77
+"314500 Nova Ponte",94,83,2,-,179
+"314505 Nova Porteirinha",8,76,-,1,85
+"314510 Nova Resende",36,78,-,2,116
+"314520 Nova Serrana",128,215,13,1,357
+"313660 Nova União",27,27,-,1,55
+"314530 Novo Cruzeiro",59,154,7,4,224
+"314535 Novo Oriente de Minas",3,110,1,-,114
+"314537 Novorizonte",16,45,1,-,62
+"314540 Olaria",1,1,-,-,2
+"314545 Olhos-d'Água",-,38,-,-,38
+"314550 Olímpio Noronha",7,48,17,2,74
+"314560 Oliveira",250,206,15,8,479
+"314570 Oliveira Fortes",3,12,-,-,15
+"314580 Onça de Pitangui",9,27,8,-,44
+"314585 Oratórios",10,191,16,-,217
+"314587 Orizânia",3,60,-,2,65
+"314590 Ouro Branco",57,256,190,1,504
+"314600 Ouro Fino",23,93,1,1,118
+"314610 Ouro Preto",42,215,2,-,259
+"314620 Ouro Verde de Minas",6,112,-,-,118
+"314625 Padre Carvalho",1,37,2,1,41
+"314630 Padre Paraíso",6,111,8,1,126
+"314655 Pai Pedro",4,63,-,-,67
+"314640 Paineiras",58,169,1,-,228
+"314650 Pains",73,185,15,7,280
+"314660 Paiva",8,16,-,-,24
+"314670 Palma",15,96,1,-,112
+"314675 Palmópolis",-,11,1,-,12
+"314690 Papagaios",13,177,12,2,204
+"314710 Pará de Minas",445,887,6,3,1341
+"314700 Paracatu",143,390,4,1,538
+"314720 Paraguaçu",120,359,27,-,506
+"314730 Paraisópolis",55,409,1,-,465
+"314740 Paraopeba",29,234,8,4,275
+"314760 Passa Quatro",35,53,-,1,89
+"314770 Passa Tempo",4,30,3,1,38
+"314780 Passa-Vinte",13,38,4,1,56
+"314750 Passabém",10,10,-,1,21
+"314790 Passos",143,697,46,5,891
+"314795 Patis",18,65,3,-,86
+"314800 Patos de Minas",576,693,11,9,1289
+"314810 Patrocínio",583,389,12,1,985
+"314820 Patrocínio do Muriaé",13,36,1,1,51
+"314830 Paula Cândido",8,38,1,-,47
+"314840 Paulistas",-,34,-,-,34
+"314850 Pavão",17,273,1,1,292
+"314860 Peçanha",1,57,-,-,58
+"314870 Pedra Azul",72,173,3,1,249
+"314875 Pedra Bonita",30,164,-,-,194
+"314880 Pedra do Anta",30,14,2,-,46
+"314890 Pedra do Indaiá",7,9,2,-,18
+"314900 Pedra Dourada",14,77,-,-,91
+"314910 Pedralva",35,164,5,7,211
+"314915 Pedras de Maria da Cruz",8,56,4,1,69
+"314920 Pedrinópolis",18,99,1,-,118
+"314930 Pedro Leopoldo",221,166,61,6,454
+"314940 Pedro Teixeira",-,6,-,-,6
+"314950 Pequeri",4,23,1,-,28
+"314960 Pequi",44,112,4,-,160
+"314970 Perdigão",41,108,1,1,151
+"314980 Perdizes",50,111,-,-,161
+"314990 Perdões",14,31,1,-,46
+"314995 Periquito",19,144,-,-,163
+"315000 Pescador",12,106,1,1,120
+"315010 Piau",5,11,-,-,16
+"315015 Piedade de Caratinga",37,62,-,-,99
+"315020 Piedade de Ponte Nova",4,32,1,-,37
+"315030 Piedade do Rio Grande",37,76,11,-,124
+"315040 Piedade dos Gerais",6,3,-,1,10
+"315050 Pimenta",109,61,4,2,176
+"315053 Pingo-d'Água",-,112,1,1,114
+"315057 Pintópolis",4,72,5,1,82
+"315060 Piracema",14,31,2,-,47
+"315070 Pirajuba",77,159,-,-,236
+"315080 Piranga",67,41,2,-,110
+"315090 Piranguçu",27,103,-,2,132
+"315100 Piranguinho",61,201,2,-,264
+"315110 Pirapetinga",-,57,1,-,58
+"315120 Pirapora",153,436,12,14,615
+"315130 Piraúba",4,54,11,-,69
+"315140 Pitangui",63,150,28,11,252
+"315150 Piumhi",124,450,-,-,574
+"315160 Planura",48,164,-,4,216
+"315170 Poço Fundo",93,287,3,-,383
+"315180 Poços de Caldas",182,1381,113,-,1676
+"315190 Pocrane",5,38,1,-,44
+"315200 Pompéu",135,359,28,3,525
+"315210 Ponte Nova",335,318,11,4,668
+"315213 Ponto Chique",4,30,-,-,34
+"315217 Ponto dos Volantes",18,104,1,-,123
+"315220 Porteirinha",79,333,6,-,418
+"315230 Porto Firme",13,43,7,-,63
+"315240 Poté",3,59,2,-,64
+"315250 Pouso Alegre",936,1042,10,6,1994
+"315260 Pouso Alto",7,84,-,-,91
+"315270 Prados",50,37,-,-,87
+"315280 Prata",83,309,-,-,392
+"315290 Pratápolis",21,44,1,1,67
+"315300 Pratinha",36,53,-,1,90
+"315310 Presidente Bernardes",38,110,-,-,148
+"315320 Presidente Juscelino",27,97,1,-,125
+"315330 Presidente Kubitschek",64,160,1,-,225
+"315340 Presidente Olegário",21,80,15,-,116
+"315360 Prudente de Morais",28,220,11,-,259
+"315370 Quartel Geral",11,116,-,1,128
+"315380 Queluzito",2,3,1,-,6
+"315390 Raposos",14,113,12,1,140
+"315400 Raul Soares",35,480,36,1,552
+"315410 Recreio",16,127,8,1,152
+"315415 Reduto",2,40,2,-,44
+"315420 Resende Costa",42,108,6,-,156
+"315430 Resplendor",9,57,-,-,66
+"315440 Ressaquinha",12,16,2,-,30
+"315445 Riachinho",19,61,-,2,82
+"315450 Riacho dos Machados",10,52,-,-,62
+"315460 Ribeirão das Neves",508,460,79,1,1048
+"315470 Ribeirão Vermelho",3,3,2,-,8
+"315480 Rio Acima",16,58,3,-,77
+"315490 Rio Casca",56,172,11,-,239
+"315510 Rio do Prado",1,18,-,-,19
+"315500 Rio Doce",13,35,8,-,56
+"315520 Rio Espera",36,50,-,-,86
+"315530 Rio Manso",21,8,1,-,30
+"315540 Rio Novo",33,46,-,4,83
+"315550 Rio Paranaíba",92,183,5,-,280
+"315560 Rio Pardo de Minas",6,153,6,3,168
+"315570 Rio Piracicaba",36,118,5,-,159
+"315580 Rio Pomba",24,90,3,-,117
+"315590 Rio Preto",8,41,4,-,53
+"315600 Rio Vermelho",17,101,9,-,127
+"315610 Ritápolis",18,31,5,1,55
+"315620 Rochedo de Minas",-,8,1,-,9
+"315630 Rodeiro",7,42,-,-,49
+"315640 Romaria",-,39,-,-,39
+"315645 Rosário da Limeira",-,3,-,-,3
+"315650 Rubelita",1,10,2,1,14
+"315660 Rubim",24,99,2,-,125
+"315670 Sabará",24,378,51,21,474
+"315680 Sabinópolis",195,87,94,3,379
+"315690 Sacramento",93,180,6,1,280
+"315700 Salinas",7,179,23,31,240
+"315710 Salto da Divisa",25,38,-,-,63
+"315720 Santa Bárbara",70,245,32,5,352
+"315725 Santa Bárbara do Leste",15,56,43,5,119
+"315727 Santa Bárbara do Monte Verde",2,19,1,-,22
+"315730 Santa Bárbara do Tugúrio",2,32,-,-,34
+"315733 Santa Cruz de Minas",21,57,2,1,81
+"315737 Santa Cruz de Salinas",-,44,2,1,47
+"315740 Santa Cruz do Escalvado",12,30,-,-,42
+"315750 Santa Efigênia de Minas",17,24,4,-,45
+"315760 Santa Fé de Minas",7,55,-,3,65
+"315765 Santa Helena de Minas",11,178,2,-,191
+"315770 Santa Juliana",52,61,1,-,114
+"315780 Santa Luzia",503,1227,163,9,1902
+"315790 Santa Margarida",27,239,4,-,270
+"315800 Santa Maria de Itabira",6,27,8,-,41
+"315810 Santa Maria do Salto",5,42,1,1,49
+"315820 Santa Maria do Suaçuí",10,46,8,-,64
+"315920 Santa Rita de Caldas",7,126,2,-,135
+"315940 Santa Rita de Ibitipoca",28,23,1,2,54
+"315930 Santa Rita de Jacutinga",3,8,-,-,11
+"315935 Santa Rita de Minas",8,13,-,-,21
+"315950 Santa Rita do Itueto",2,91,-,-,93
+"315960 Santa Rita do Sapucaí",161,776,17,7,961
+"315970 Santa Rosa da Serra",4,8,1,-,13
+"315980 Santa Vitória",152,125,5,1,283
+"315830 Santana da Vargem",33,62,-,-,95
+"315840 Santana de Cataguases",11,21,-,-,32
+"315850 Santana de Pirapama",11,91,3,-,105
+"315860 Santana do Deserto",8,8,-,-,16
+"315870 Santana do Garambéu",11,29,1,-,41
+"315880 Santana do Jacaré",-,29,7,-,36
+"315890 Santana do Manhuaçu",5,56,-,-,61
+"315895 Santana do Paraíso",4,128,6,-,138
+"315900 Santana do Riacho",5,60,2,2,69
+"315910 Santana dos Montes",4,8,-,2,14
+"315990 Santo Antônio do Amparo",20,60,3,-,83
+"316000 Santo Antônio do Aventureiro",4,44,-,-,48
+"316010 Santo Antônio do Grama",23,48,2,6,79
+"316020 Santo Antônio do Itambé",2,26,-,-,28
+"316030 Santo Antônio do Jacinto",1,61,1,2,65
+"316040 Santo Antônio do Monte",150,308,25,-,483
+"316045 Santo Antônio do Retiro",7,79,18,-,104
+"316050 Santo Antônio do Rio Abaixo",1,-,-,-,1
+"316060 Santo Hipólito",-,69,4,1,74
+"316070 Santos Dumont",36,335,-,-,371
+"316080 São Bento Abade",34,60,3,-,97
+"316090 São Brás do Suaçuí",16,133,3,-,152
+"316095 São Domingos das Dores",5,99,2,-,106
+"316100 São Domingos do Prata",122,310,8,2,442
+"316105 São Félix de Minas",10,10,-,1,21
+"316110 São Francisco",15,539,236,1,791
+"316120 São Francisco de Paula",11,63,1,-,75
+"316130 São Francisco de Sales",42,142,3,-,187
+"316140 São Francisco do Glória",5,36,2,1,44
+"316150 São Geraldo",11,107,3,-,121
+"316160 São Geraldo da Piedade",10,47,-,-,57
+"316165 São Geraldo do Baixio",2,55,-,-,57
+"316170 São Gonçalo do Abaeté",30,88,-,-,118
+"316180 São Gonçalo do Pará",15,111,5,5,136
+"316190 São Gonçalo do Rio Abaixo",7,111,11,1,130
+"312550 São Gonçalo do Rio Preto",8,55,4,1,68
+"316200 São Gonçalo do Sapucaí",70,230,13,-,313
+"316210 São Gotardo",49,756,13,-,818
+"316220 São João Batista do Glória",53,122,-,-,175
+"316225 São João da Lagoa",10,49,3,-,62
+"316230 São João da Mata",3,30,-,-,33
+"316240 São João da Ponte",15,136,3,2,156
+"316245 São João das Missões",107,222,10,-,339
+"316250 São João del Rei",368,818,73,3,1262
+"316255 São João do Manhuaçu",10,29,1,-,40
+"316257 São João do Manteninha",5,37,-,-,42
+"316260 São João do Oriente",8,45,7,3,63
+"316265 São João do Pacuí",3,40,14,-,57
+"316270 São João do Paraíso",6,174,7,3,190
+"316280 São João Evangelista",16,47,1,1,65
+"316290 São João Nepomuceno",66,338,17,2,423
+"316292 São Joaquim de Bicas",70,84,10,-,164
+"316294 São José da Barra",37,116,3,1,157
+"316295 São José da Lapa",5,88,7,-,100
+"316300 São José da Safira",1,43,-,-,44
+"316310 São José da Varginha",2,10,-,-,12
+"316320 São José do Alegre",8,46,10,5,69
+"316330 São José do Divino",3,98,-,-,101
+"316340 São José do Goiabal",18,93,11,-,122
+"316350 São José do Jacuri",17,29,-,-,46
+"316360 São José do Mantimento",2,14,-,-,16
+"316370 São Lourenço",261,296,1,-,558
+"316380 São Miguel do Anta",1,44,-,2,47
+"316390 São Pedro da União",20,66,1,-,87
+"316410 São Pedro do Suaçuí",5,45,-,-,50
+"316400 São Pedro dos Ferros",15,55,1,1,72
+"316420 São Romão",29,127,-,2,158
+"316430 São Roque de Minas",37,78,1,2,118
+"316440 São Sebastião da Bela Vista",2,62,-,-,64
+"316443 São Sebastião da Vargem Alegre",19,37,-,1,57
+"316447 São Sebastião do Anta",8,44,22,3,77
+"316450 São Sebastião do Maranhão",-,60,2,1,63
+"316460 São Sebastião do Oeste",42,107,1,-,150
+"316470 São Sebastião do Paraíso",401,236,2,10,649
+"316480 São Sebastião do Rio Preto",2,6,3,1,12
+"316490 São Sebastião do Rio Verde",5,14,1,-,20
+"316520 São Thomé das Letras",33,105,2,-,140
+"316500 São Tiago",62,37,3,-,102
+"316510 São Tomás de Aquino",69,101,3,-,173
+"316530 São Vicente de Minas",11,56,17,-,84
+"316540 Sapucaí-Mirim",20,16,7,-,43
+"316550 Sardoá",3,58,-,-,61
+"316553 Sarzedo",46,77,70,2,195
+"316556 Sem-Peixe",6,34,3,2,45
+"316557 Senador Amaral",11,67,1,-,79
+"316560 Senador Cortes",1,11,3,1,16
+"316570 Senador Firmino",37,59,20,5,121
+"316590 Senador Modestino Gonçalves",9,41,4,-,54
+"316600 Senhora de Oliveira",14,27,-,1,42
+"316610 Senhora do Porto",57,91,1,3,152
+"316620 Senhora dos Remédios",37,73,1,1,112
+"316630 Sericita",2,134,1,-,137
+"316640 Seritinga",12,12,6,-,30
+"316650 Serra Azul de Minas",14,157,35,3,209
+"316660 Serra da Saudade",1,3,-,-,4
+"316680 Serra do Salitre",124,324,1,5,454
+"316670 Serra dos Aimorés",4,87,5,1,97
+"316690 Serrania",20,115,10,2,147
+"316695 Serranópolis de Minas",3,9,-,4,16
+"316700 Serranos",2,30,-,-,32
+"316710 Serro",111,369,10,10,500
+"316720 Sete Lagoas",1088,837,6,2,1933
+"316555 Setubinha",8,140,-,-,148
+"316730 Silveirânia",14,115,2,2,133
+"316740 Silvianópolis",-,46,4,1,51
+"316750 Simão Pereira",1,9,-,-,10
+"316760 Simonésia",32,153,1,2,188
+"316770 Sobrália",11,32,5,2,50
+"316780 Soledade de Minas",-,23,1,-,24
+"316790 Tabuleiro",12,28,1,-,41
+"316800 Taiobeiras",13,440,48,6,507
+"316805 Taparuba",11,55,-,-,66
+"316810 Tapira",48,131,1,1,181
+"316820 Tapiraí",-,5,1,-,6
+"316830 Taquaraçu de Minas",7,38,32,1,78
+"316840 Tarumirim",6,36,-,-,42
+"316850 Teixeiras",4,20,3,3,30
+"316860 Teófilo Otoni",425,1027,54,12,1518
+"316870 Timóteo",72,177,3,-,252
+"316880 Tiradentes",7,38,17,1,63
+"316890 Tiros",66,113,1,-,180
+"316900 Tocantins",21,85,-,-,106
+"316905 Tocos do Moji",11,12,-,2,25
+"316910 Toledo",7,41,26,-,74
+"316920 Tombos",13,149,1,-,163
+"316930 Três Corações",284,372,54,2,712
+"316935 Três Marias",28,164,3,4,199
+"316940 Três Pontas",231,444,9,19,703
+"316950 Tumiritinga",31,59,1,2,93
+"316960 Tupaciguara",38,116,-,-,154
+"316970 Turmalina",122,558,5,1,686
+"316980 Turvolândia",23,21,1,-,45
+"316990 Ubá",81,77,1,3,162
+"317000 Ubaí",3,74,5,9,91
+"317005 Ubaporanga",1,31,2,-,34
+"317010 Uberaba",1756,2634,87,9,4486
+"317020 Uberlândia",1137,1845,243,12,3237
+"317030 Umburatiba",24,102,2,-,128
+"317040 Unaí",11,103,7,12,133
+"317043 União de Minas",22,42,1,-,65
+"317047 Uruana de Minas",19,53,3,1,76
+"317050 Urucânia",1,49,2,1,53
+"317052 Urucuia",26,153,29,-,208
+"317057 Vargem Alegre",-,39,5,15,59
+"317060 Vargem Bonita",25,22,12,-,59
+"317065 Vargem Grande do Rio Pardo",10,47,-,6,63
+"317070 Varginha",588,1338,14,11,1951
+"317075 Varjão de Minas",57,88,1,-,146
+"317080 Várzea da Palma",284,865,5,6,1160
+"317090 Varzelândia",60,596,1,-,657
+"317100 Vazante",73,240,1,2,316
+"317103 Verdelândia",40,65,9,-,114
+"317107 Veredinha",12,49,5,-,66
+"317110 Veríssimo",20,52,-,-,72
+"317115 Vermelho Novo",3,10,2,-,15
+"317120 Vespasiano",34,345,63,7,449
+"317130 Viçosa",333,2577,93,2,3005
+"317140 Vieiras",2,65,-,2,69
+"317160 Virgem da Lapa",25,106,5,-,136
+"317170 Virgínia",69,123,-,-,192
+"317180 Virginópolis",18,240,56,-,314
+"317190 Virgolândia",21,57,-,-,78
+"317200 Visconde do Rio Branco",144,207,6,7,364
+"317210 Volta Grande",-,29,1,-,30
+"317220 Wenceslau Braz",14,42,-,7,63
+"320010 Afonso Cláudio",39,373,9,-,421
+"320016 Água Doce do Norte",1,4,5,-,10
+"320013 Águia Branca",11,22,2,-,35
+"320020 Alegre",48,108,12,5,173
+"320030 Alfredo Chaves",46,47,1,-,94
+"320035 Alto Rio Novo",5,4,-,-,9
+"320040 Anchieta",61,83,3,-,147
+"320050 Apiacá",2,19,1,-,22
+"320060 Aracruz",340,1364,10,2,1716
+"320070 Atilio Vivacqua",16,56,37,-,109
+"320080 Baixo Guandu",-,8,-,-,8
+"320090 Barra de São Francisco",34,260,46,-,340
+"320100 Boa Esperança",4,11,1,1,17
+"320115 Brejetuba",32,11,-,2,45
+"320120 Cachoeiro de Itapemirim",532,501,12,2,1047
+"320130 Cariacica",1206,753,18,4,1981
+"320140 Castelo",36,320,7,1,364
+"320150 Colatina",571,1013,43,1,1628
+"320160 Conceição da Barra",10,13,1,1,25
+"320170 Conceição do Castelo",66,129,7,1,203
+"320190 Domingos Martins",63,132,13,-,208
+"320200 Dores do Rio Preto",19,22,1,-,42
+"320210 Ecoporanga",6,20,-,-,26
+"320220 Fundão",19,39,-,-,58
+"320225 Governador Lindenberg",7,43,3,5,58
+"320230 Guaçuí",24,59,4,-,87
+"320240 Guarapari",468,746,11,2,1227
+"320245 Ibatiba",124,154,4,-,282
+"320250 Ibiraçu",24,32,-,-,56
+"320255 Ibitirama",-,2,2,-,4
+"320260 Iconha",19,26,-,-,45
+"320265 Irupi",23,65,3,-,91
+"320270 Itaguaçu",96,162,15,-,273
+"320280 Itapemirim",19,196,66,2,283
+"320290 Itarana",38,115,12,-,165
+"320300 Iúna",21,65,1,1,88
+"320305 Jaguaré",108,209,31,2,350
+"320310 Jerônimo Monteiro",59,150,-,-,209
+"320313 João Neiva",2,61,33,1,97
+"320316 Laranja da Terra",2,7,2,-,11
+"320320 Linhares",474,440,19,2,935
+"320330 Mantenópolis",17,47,1,-,65
+"320332 Marataízes",23,664,17,2,706
+"320334 Marechal Floriano",92,496,6,-,594
+"320335 Marilândia",19,46,5,-,70
+"320340 Mimoso do Sul",25,72,-,1,98
+"320350 Montanha",5,27,2,-,34
+"320360 Mucurici",7,21,2,-,30
+"320370 Muniz Freire",78,243,2,2,325
+"320380 Muqui",5,133,40,1,179
+"320390 Nova Venécia",153,149,33,-,335
+"320400 Pancas",22,23,2,-,47
+"320405 Pedro Canário",15,249,21,1,286
+"320410 Pinheiros",24,17,-,-,41
+"320420 Piúma",20,55,9,2,86
+"320425 Ponto Belo",3,6,2,-,11
+"320430 Presidente Kennedy",86,96,5,-,187
+"320435 Rio Bananal",53,63,-,-,116
+"320440 Rio Novo do Sul",37,25,-,-,62
+"320450 Santa Leopoldina",8,9,-,-,17
+"320455 Santa Maria de Jetibá",225,103,2,-,330
+"320460 Santa Teresa",32,148,10,7,197
+"320465 São Domingos do Norte",6,11,1,-,18
+"320470 São Gabriel da Palha",54,139,2,1,196
+"320480 São José do Calçado",6,12,-,-,18
+"320490 São Mateus",246,364,35,1,646
+"320495 São Roque do Canaã",4,17,-,-,21
+"320500 Serra",2549,3908,96,3,6556
+"320501 Sooretama",18,22,12,1,53
+"320503 Vargem Alta",18,73,2,-,93
+"320506 Venda Nova do Imigrante",322,185,16,3,526
+"320510 Viana",201,101,31,4,337
+"320515 Vila Pavão",7,9,4,-,20
+"320517 Vila Valério",19,51,3,-,73
+"320520 Vila Velha",916,1176,66,15,2173
+"320530 Vitória",2597,7802,31,3,10433
+"330010 Angra dos Reis",452,2039,115,34,2640
+"330015 Aperibé",4,6,1,-,11
+"330020 Araruama",24,140,222,19,405
+"330022 Areal",11,31,1,-,43
+"330023 Armação dos Búzios",50,464,8,14,536
+"330025 Arraial do Cabo",8,145,29,1,183
+"330030 Barra do Piraí",139,957,49,4,1149
+"330040 Barra Mansa",12,464,43,1,520
+"330045 Belford Roxo",61,434,88,6,589
+"330050 Bom Jardim",3,4,7,-,14
+"330060 Bom Jesus do Itabapoana",18,47,11,2,78
+"330070 Cabo Frio",1,13,-,-,14
+"330080 Cachoeiras de Macacu",39,26,21,3,89
+"330100 Campos dos Goytacazes",626,2377,174,16,3193
+"330110 Cantagalo",2,33,-,-,35
+"330093 Carapebus",14,47,11,-,72
+"330120 Carmo",2,20,1,-,23
+"330130 Casimiro de Abreu",97,605,226,-,928
+"330095 Comendador Levy Gasparian",-,3,-,-,3
+"330140 Conceição de Macabu",3,4,9,-,16
+"330150 Cordeiro",2,46,62,3,113
+"330160 Duas Barras",1,14,5,-,20
+"330170 Duque de Caxias",739,5547,2972,28,9286
+"330180 Engenheiro Paulo de Frontin",2,15,7,-,24
+"330185 Guapimirim",90,364,170,36,660
+"330187 Iguaba Grande",25,152,11,-,188
+"330190 Itaboraí",117,420,131,5,673
+"330200 Itaguaí",16,132,11,1,160
+"330205 Italva",3,25,1,-,29
+"330210 Itaocara",20,108,25,-,153
+"330220 Itaperuna",134,595,28,1,758
+"330225 Itatiaia",3,124,186,3,316
+"330227 Japeri",37,635,165,1,838
+"330230 Laje do Muriaé",-,1,1,-,2
+"330240 Macaé",504,5330,508,6,6348
+"330245 Macuco",-,5,-,-,5
+"330250 Magé",179,1787,887,395,3248
+"330260 Mangaratiba",32,235,84,2,353
+"330270 Maricá",25,112,11,3,151
+"330280 Mendes",1,38,23,3,65
+"330285 Mesquita",92,843,289,3,1227
+"330290 Miguel Pereira",4,203,3,1,211
+"330300 Miracema",1,8,-,-,9
+"330310 Natividade",8,159,19,9,195
+"330320 Nilópolis",9,20,19,8,56
+"330330 Niterói",1012,2402,254,8,3676
+"330340 Nova Friburgo",755,1530,166,2,2453
+"330350 Nova Iguaçu",266,3369,16455,45,20135
+"330360 Paracambi",4,95,17,2,118
+"330370 Paraíba do Sul",22,14,2,1,39
+"330380 Paraty",47,549,278,2,876
+"330385 Paty do Alferes",-,3,-,-,3
+"330390 Petrópolis",370,1714,399,45,2528
+"330395 Pinheiral",71,303,93,6,473
+"330400 Piraí",63,272,31,3,369
+"330410 Porciúncula",32,55,8,2,97
+"330411 Porto Real",24,87,9,-,120
+"330412 Quatis",25,47,13,6,91
+"330414 Queimados",15,823,842,11,1691
+"330415 Quissamã",38,473,55,7,573
+"330420 Resende",92,1484,93,3,1672
+"330430 Rio Bonito",18,223,91,38,370
+"330440 Rio Claro",6,115,17,3,141
+"330450 Rio das Flores",6,75,3,1,85
+"330452 Rio das Ostras",194,941,91,3,1229
+"330455 Rio de Janeiro",10261,49515,1177,47,61000
+"330460 Santa Maria Madalena",-,11,1,-,12
+"330470 Santo Antônio de Pádua",11,140,22,1,174
+"330480 São Fidélis",15,109,34,18,176
+"330475 São Francisco de Itabapoana",10,53,18,14,95
+"330490 São Gonçalo",773,2303,544,1,3621
+"330500 São João da Barra",19,22,4,-,45
+"330510 São João de Meriti",12,204,126,-,342
+"330513 São José de Ubá",1,2,-,-,3
+"330515 São José do Vale do Rio Preto",8,11,1,2,22
+"330520 São Pedro da Aldeia",32,273,54,67,426
+"330530 São Sebastião do Alto",-,8,1,-,9
+"330540 Sapucaia",1,20,-,1,22
+"330550 Saquarema",60,847,265,5,1177
+"330555 Seropédica",-,25,3,3,31
+"330560 Silva Jardim",6,225,7,1,239
+"330570 Sumidouro",3,17,-,-,20
+"330575 Tanguá",11,52,7,-,70
+"330580 Teresópolis",1,8,3,-,12
+"330590 Trajano de Moraes",-,4,12,-,16
+"330600 Três Rios",11,127,47,6,191
+"330610 Valença",99,511,91,7,708
+"330615 Varre-Sai",4,9,-,-,13
+"330620 Vassouras",39,689,1,4,733
+"330630 Volta Redonda",77,1066,171,15,1329
+"350010 Adamantina",374,104,1,1,480
+"350020 Adolfo",5,12,2,-,19
+"350030 Aguaí",125,134,2,2,263
+"350040 Águas da Prata",8,11,-,-,19
+"350050 Águas de Lindóia",50,248,23,-,321
+"350055 Águas de Santa Bárbara",12,7,-,-,19
+"350060 Águas de São Pedro",10,23,1,-,34
+"350070 Agudos",1,2,-,-,3
+"350075 Alambari",1,2,-,-,3
+"350080 Alfredo Marcondes",9,4,-,-,13
+"350090 Altair",4,10,-,-,14
+"350100 Altinópolis",6,76,26,2,110
+"350110 Alto Alegre",-,1,-,-,1
+"350115 Alumínio",25,72,-,-,97
+"350120 Álvares Florence",7,12,-,1,20
+"350130 Álvares Machado",-,3,-,-,3
+"350140 Álvaro de Carvalho",1,8,-,-,9
+"350160 Americana",641,1267,126,19,2053
+"350170 Américo Brasiliense",37,229,28,5,299
+"350180 Américo de Campos",8,7,3,1,19
+"350190 Amparo",510,539,51,1,1101
+"350200 Analândia",1,3,1,1,6
+"350210 Andradina",337,316,1,-,654
+"350220 Angatuba",-,1,-,-,1
+"350230 Anhembi",53,122,-,-,175
+"350240 Anhumas",8,27,-,-,35
+"350250 Aparecida",26,281,13,4,324
+"350270 Apiaí",78,48,-,-,126
+"350275 Araçariguama",16,209,52,1,278
+"350280 Araçatuba",400,502,31,11,944
+"350290 Araçoiaba da Serra",1,20,1,-,22
+"350300 Aramina",-,1,-,-,1
+"350310 Arandu",3,13,-,1,17
+"350315 Arapeí",-,2,-,-,2
+"350320 Araraquara",676,2032,73,7,2788
+"350330 Araras",51,317,11,6,385
+"350335 Arco-Íris",-,1,-,-,1
+"350340 Arealva",1,-,-,-,1
+"350350 Areias",1,1,1,-,3
+"350360 Areiópolis",7,8,-,-,15
+"350370 Ariranha",71,100,-,-,171
+"350380 Artur Nogueira",79,103,15,-,197
+"350390 Arujá",37,1106,104,6,1253
+"350395 Aspásia",-,2,-,-,2
+"350400 Assis",405,202,16,4,627
+"350410 Atibaia",236,342,19,16,613
+"350420 Auriflama",13,12,-,-,25
+"350440 Avanhandava",1,25,7,6,39
+"350450 Avaré",489,302,1,-,792
+"350460 Bady Bassitt",91,349,5,1,446
+"350480 Bálsamo",29,71,-,-,100
+"350490 Bananal",9,105,3,-,117
+"350510 Barbosa",-,1,-,-,1
+"350520 Bariri",-,2,-,-,2
+"350530 Barra Bonita",6,62,9,-,77
+"350535 Barra do Chapéu",13,10,-,-,23
+"350540 Barra do Turvo",1,15,1,3,20
+"350550 Barretos",378,188,72,-,638
+"350560 Barrinha",18,41,11,1,71
+"350570 Barueri",349,1597,130,1,2077
+"350580 Bastos",57,309,102,6,474
+"350590 Batatais",250,1262,305,-,1817
+"350600 Bauru",517,861,27,6,1411
+"350610 Bebedouro",104,1377,75,3,1559
+"350620 Bento de Abreu",-,1,-,-,1
+"350630 Bernardino de Campos",17,9,-,-,26
+"350635 Bertioga",46,204,91,23,364
+"350640 Bilac",-,1,-,-,1
+"350650 Birigui",787,613,44,5,1449
+"350660 Biritiba-Mirim",120,666,65,20,871
+"350670 Boa Esperança do Sul",5,13,1,-,19
+"350680 Bocaina",1,-,-,-,1
+"350690 Bofete",32,128,-,-,160
+"350700 Boituva",34,374,20,-,428
+"350710 Bom Jesus dos Perdões",36,115,13,2,166
+"350715 Bom Sucesso de Itararé",-,2,-,-,2
+"350730 Boracéia",2,3,-,-,5
+"350740 Borborema",31,7,3,-,41
+"350745 Borebi",1,-,1,-,2
+"350750 Botucatu",1406,2423,13,7,3849
+"350760 Bragança Paulista",593,978,59,-,1630
+"350770 Braúna",1,1,-,-,2
+"350780 Brodowski",-,17,-,-,17
+"350790 Brotas",37,480,52,3,572
+"350800 Buri",27,200,4,2,233
+"350810 Buritama",-,80,2,-,82
+"350830 Cabrália Paulista",-,1,-,-,1
+"350840 Cabreúva",147,115,2,-,264
+"350850 Caçapava",46,292,74,22,434
+"350860 Cachoeira Paulista",33,57,5,1,96
+"350870 Caconde",144,194,4,1,343
+"350880 Cafelândia",29,11,1,-,41
+"350900 Caieiras",23,187,2,1,213
+"350910 Caiuá",5,2,-,-,7
+"350920 Cajamar",21,302,8,4,335
+"350925 Cajati",12,185,90,12,299
+"350930 Cajobi",41,3,-,-,44
+"350940 Cajuru",-,25,-,-,25
+"350950 Campinas",1689,8423,4,1,10117
+"350960 Campo Limpo Paulista",1,21,-,-,22
+"350970 Campos do Jordão",302,810,6,1,1119
+"350990 Cananéia",2,69,80,1,152
+"351000 Cândido Mota",27,24,3,-,54
+"351010 Cândido Rodrigues",1,1,-,-,2
+"351015 Canitar",-,1,-,-,1
+"351020 Capão Bonito",53,27,2,-,82
+"351030 Capela do Alto",1,129,23,-,153
+"351040 Capivari",110,580,24,-,714
+"351050 Caraguatatuba",655,1248,601,29,2533
+"351060 Carapicuíba",51,351,164,16,582
+"351070 Cardoso",61,76,5,-,142
+"351080 Casa Branca",24,185,6,1,216
+"351100 Castilho",153,127,4,-,284
+"351110 Catanduva",868,677,20,2,1567
+"351120 Catiguá",9,19,-,-,28
+"351130 Cedral",44,138,2,-,184
+"351140 Cerqueira César",2,1,-,-,3
+"351150 Cerquilho",38,177,1,-,216
+"351160 Cesário Lange",3,8,-,-,11
+"351170 Charqueada",5,36,4,1,46
+"355720 Chavantes",-,2,-,-,2
+"351190 Clementina",-,10,-,3,13
+"351200 Colina",4,107,29,5,145
+"351210 Colômbia",26,34,-,-,60
+"351220 Conchal",29,37,6,-,72
+"351230 Conchas",54,101,-,-,155
+"351240 Cordeirópolis",76,184,94,-,354
+"351250 Coroados",12,12,7,-,31
+"351260 Coronel Macedo",5,13,-,-,18
+"351270 Corumbataí",-,16,1,-,17
+"351280 Cosmópolis",43,34,1,-,78
+"351290 Cosmorama",2,6,2,-,10
+"351300 Cotia",458,1551,101,45,2155
+"351310 Cravinhos",5,10,2,-,17
+"351320 Cristais Paulista",1,3,-,-,4
+"351340 Cruzeiro",29,375,14,1,419
+"351350 Cubatão",287,508,13,4,812
+"351360 Cunha",12,50,4,1,67
+"351370 Descalvado",41,110,42,1,194
+"351380 Diadema",731,2764,67,19,3581
+"351390 Divinolândia",32,25,2,1,60
+"351400 Dobrada",-,1,-,-,1
+"351410 Dois Córregos",-,8,-,-,8
+"351430 Dourado",1,1,-,-,2
+"351440 Dracena",6,4,-,-,10
+"351450 Duartina",7,29,-,-,36
+"351460 Dumont",-,8,-,-,8
+"351480 Eldorado",17,36,-,-,53
+"351490 Elias Fausto",2,9,2,1,14
+"351492 Elisiário",5,7,-,-,12
+"351500 Embu das Artes",264,1241,48,6,1559
+"351510 Embu-Guaçu",219,609,138,5,971
+"351515 Engenheiro Coelho",8,17,2,-,27
+"351518 Espírito Santo do Pinhal",317,75,-,1,393
+"351519 Espírito Santo do Turvo",17,8,1,-,26
+"355730 Estiva Gerbi",16,143,4,-,163
+"351520 Estrela d'Oeste",31,74,9,1,115
+"351530 Estrela do Norte",-,9,-,-,9
+"351535 Euclides da Cunha Paulista",19,35,2,1,57
+"351540 Fartura",5,17,-,-,22
+"351560 Fernando Prestes",4,20,1,-,25
+"351550 Fernandópolis",606,589,1,-,1196
+"351565 Fernão",8,18,2,-,28
+"351570 Ferraz de Vasconcelos",548,842,140,43,1573
+"351590 Floreal",1,-,-,-,1
+"351600 Flórida Paulista",2,133,17,-,152
+"351610 Florínia",6,9,2,3,20
+"351620 Franca",135,519,72,24,750
+"351630 Francisco Morato",87,831,27,20,965
+"351640 Franco da Rocha",289,624,12,2,927
+"351660 Gália",2,18,3,3,26
+"351670 Garça",82,1666,20,8,1776
+"351680 Gastão Vidigal",-,3,-,-,3
+"351685 Gavião Peixoto",-,9,-,-,9
+"351690 General Salgado",21,13,-,1,35
+"351700 Getulina",-,1,-,-,1
+"351710 Glicério",1,-,-,-,1
+"351720 Guaiçara",-,1,-,-,1
+"351730 Guaimbê",-,4,-,-,4
+"351740 Guaíra",104,251,52,1,408
+"351750 Guapiaçu",35,198,2,1,236
+"351760 Guapiara",112,191,3,1,307
+"351770 Guará",-,3,-,-,3
+"351780 Guaraçaí",28,25,-,2,55
+"351790 Guaraci",10,14,1,-,25
+"351800 Guarani d'Oeste",1,7,-,-,8
+"351820 Guararapes",84,354,60,2,500
+"351830 Guararema",186,537,65,18,806
+"351840 Guaratinguetá",170,146,26,7,349
+"351850 Guareí",5,72,1,-,78
+"351860 Guariba",4,328,20,-,352
+"351870 Guarujá",130,196,61,7,394
+"351880 Guarulhos",1293,5189,660,96,7238
+"351885 Guatapará",4,28,2,-,34
+"351900 Herculândia",-,1,-,-,1
+"351905 Holambra",3,15,3,2,23
+"351907 Hortolândia",726,1976,242,34,2978
+"351910 Iacanga",1,1,-,-,2
+"351920 Iacri",1,-,-,-,1
+"351925 Iaras",7,2,-,-,9
+"351930 Ibaté",1,10,-,-,11
+"351940 Ibirá",49,80,2,1,132
+"351950 Ibirarema",2,3,-,-,5
+"351960 Ibitinga",21,28,1,-,50
+"351970 Ibiúna",1,10,3,-,14
+"351980 Icém",13,28,-,-,41
+"351990 Iepê",12,153,15,3,183
+"352000 Igaraçu do Tietê",37,165,5,6,213
+"352010 Igarapava",130,531,24,1,686
+"352020 Igaratá",12,143,17,-,172
+"352030 Iguape",6,233,18,1,258
+"352042 Ilha Comprida",52,151,21,1,225
+"352044 Ilha Solteira",21,76,9,1,107
+"352040 Ilhabela",222,353,8,-,583
+"352050 Indaiatuba",269,222,20,1,512
+"352060 Indiana",1,11,-,-,12
+"352070 Indiaporã",50,111,10,-,171
+"352090 Ipaussu",-,3,-,-,3
+"352100 Iperó",17,114,2,4,137
+"352110 Ipeúna",7,49,11,-,67
+"352115 Ipiguá",35,131,4,-,170
+"352120 Iporanga",-,7,-,-,7
+"352130 Ipuã",30,238,12,3,283
+"352140 Iracemápolis",3,36,-,-,39
+"352150 Irapuã",18,37,1,2,58
+"352160 Irapuru",-,2,-,-,2
+"352170 Itaberá",145,202,2,-,349
+"352180 Itaí",19,9,-,-,28
+"352190 Itajobi",126,256,-,-,382
+"352200 Itaju",-,2,1,-,3
+"352210 Itanhaém",133,436,62,9,640
+"352215 Itaóca",1,6,-,1,8
+"352220 Itapecerica da Serra",310,512,109,1,932
+"352230 Itapetininga",223,463,90,29,805
+"352240 Itapeva",197,555,1,2,755
+"352250 Itapevi",98,183,15,1,297
+"352260 Itapira",71,445,33,-,549
+"352265 Itapirapuã Paulista",11,23,-,-,34
+"352270 Itápolis",53,170,4,-,227
+"352280 Itaporanga",50,21,1,-,72
+"352290 Itapuí",13,39,3,-,55
+"352300 Itapura",2,4,-,-,6
+"352310 Itaquaquecetuba",258,1697,521,89,2565
+"352320 Itararé",156,115,4,3,278
+"352330 Itariri",1,56,-,-,57
+"352340 Itatiba",62,138,9,1,210
+"352350 Itatinga",36,178,-,-,214
+"352360 Itirapina",16,89,1,-,106
+"352370 Itirapuã",1,-,-,-,1
+"352380 Itobi",1,12,-,1,14
+"352390 Itu",18,230,19,1,268
+"352400 Itupeva",3,26,4,-,33
+"352410 Ituverava",3,5,2,-,10
+"352420 Jaborandi",-,3,1,-,4
+"352430 Jaboticabal",15,218,25,30,288
+"352440 Jacareí",725,2185,54,5,2969
+"352450 Jaci",51,92,-,-,143
+"352460 Jacupiranga",12,26,6,3,47
+"352470 Jaguariúna",360,399,17,-,776
+"352480 Jales",401,271,38,1,711
+"352490 Jambeiro",5,56,-,-,61
+"352500 Jandira",2,89,8,1,100
+"352510 Jardinópolis",38,448,154,12,652
+"352520 Jarinu",92,227,25,2,346
+"352530 Jaú",303,129,7,43,482
+"352550 Joanópolis",20,15,6,-,41
+"352560 João Ramalho",-,3,-,-,3
+"352570 José Bonifácio",121,309,4,-,434
+"352585 Jumirim",3,10,-,-,13
+"352590 Jundiaí",985,1836,111,1,2933
+"352600 Junqueirópolis",56,20,-,1,77
+"352610 Juquiá",8,15,2,1,26
+"352620 Juquitiba",27,280,91,16,414
+"352630 Lagoinha",11,79,1,2,93
+"352640 Laranjal Paulista",85,143,2,1,231
+"352650 Lavínia",3,9,-,-,12
+"352670 Leme",17,43,2,-,62
+"352680 Lençóis Paulista",42,469,4,-,515
+"352690 Limeira",421,753,193,9,1376
+"352710 Lins",56,583,219,2,860
+"352720 Lorena",60,286,52,9,407
+"352730 Louveira",155,395,22,1,573
+"352740 Lucélia",104,161,2,2,269
+"352750 Lucianópolis",3,2,-,-,5
+"352760 Luís Antônio",-,3,1,1,5
+"352800 Macatuba",2,5,1,-,8
+"352810 Macaubal",38,140,7,-,185
+"352820 Macedônia",1,-,-,-,1
+"352830 Magda",2,3,-,-,5
+"352840 Mairinque",11,119,5,1,136
+"352850 Mairiporã",114,862,52,4,1032
+"352860 Manduri",5,14,-,-,19
+"352870 Marabá Paulista",-,2,-,-,2
+"352880 Maracaí",11,10,1,1,23
+"352885 Marapoama",16,13,-,-,29
+"352890 Mariápolis",1,1,-,-,2
+"352900 Marília",901,1638,51,5,2595
+"352910 Marinópolis",1,1,1,-,3
+"352920 Martinópolis",28,188,1,2,219
+"352930 Matão",8,65,1,-,74
+"352940 Mauá",521,4578,243,25,5367
+"352950 Mendonça",31,98,1,1,131
+"352960 Meridiano",17,16,-,2,35
+"352980 Mineiros do Tietê",-,26,6,1,33
+"353000 Mira Estrela",8,22,-,4,34
+"352990 Miracatu",6,119,17,-,142
+"353010 Mirandópolis",36,44,156,7,243
+"353020 Mirante do Paranapanema",23,80,-,-,103
+"353030 Mirassol",106,241,-,-,347
+"353040 Mirassolândia",24,89,-,-,113
+"353050 Mococa",268,199,4,-,471
+"353060 Mogi das Cruzes",887,8720,220,11,9838
+"353070 Mogi Guaçu",134,134,1,-,269
+"353080 Mogi Mirim",119,148,4,-,271
+"353090 Mombuca",3,1,-,-,4
+"353110 Mongaguá",66,66,3,3,138
+"353120 Monte Alegre do Sul",15,11,2,-,28
+"353130 Monte Alto",1,29,4,5,39
+"353140 Monte Aprazível",26,26,1,-,53
+"353150 Monte Azul Paulista",8,115,5,4,132
+"353160 Monte Castelo",-,1,-,-,1
+"353180 Monte Mor",100,144,15,1,260
+"353170 Monteiro Lobato",1,11,3,-,15
+"353190 Morro Agudo",24,573,38,15,650
+"353200 Morungaba",13,89,3,-,105
+"353205 Motuca",3,5,-,-,8
+"353210 Murutinga do Sul",5,20,1,-,26
+"353215 Nantes",-,1,-,-,1
+"353220 Narandiba",33,94,-,-,127
+"353230 Natividade da Serra",-,4,1,-,5
+"353240 Nazaré Paulista",37,276,8,-,321
+"353250 Neves Paulista",33,26,-,-,59
+"353260 Nhandeara",213,202,2,1,418
+"353280 Nova Aliança",5,21,4,-,30
+"353282 Nova Campina",1,3,-,-,4
+"353290 Nova Europa",2,18,15,-,35
+"353300 Nova Granada",31,155,13,1,200
+"353310 Nova Guataporanga",-,1,-,-,1
+"353320 Nova Independência",-,7,-,-,7
+"353340 Nova Odessa",14,98,5,1,118
+"353325 Novais",1,1,1,1,4
+"353350 Novo Horizonte",74,381,1,1,457
+"353390 Olímpia",150,437,1,1,589
+"353400 Onda Verde",7,28,1,-,36
+"353410 Oriente",-,1,-,-,1
+"353420 Orindiúva",13,21,-,-,34
+"353430 Orlândia",-,4,-,-,4
+"353440 Osasco",264,1664,135,8,2071
+"353460 Osvaldo Cruz",30,11,-,-,41
+"353470 Ourinhos",217,994,60,3,1274
+"353480 Ouro Verde",-,1,-,-,1
+"353475 Ouroeste",165,238,1,1,405
+"353490 Pacaembu",-,-,-,1,1
+"353500 Palestina",7,133,-,-,140
+"353510 Palmares Paulista",106,170,-,1,277
+"353520 Palmeira d'Oeste",28,96,2,-,126
+"353530 Palmital",3,48,2,-,53
+"353540 Panorama",6,5,1,-,12
+"353550 Paraguaçu Paulista",255,71,11,-,337
+"353560 Paraibuna",2,139,18,4,163
+"353570 Paraíso",70,126,-,-,196
+"353580 Paranapanema",2,10,-,-,12
+"353590 Paranapuã",7,15,-,-,22
+"353600 Parapuã",3,28,-,-,31
+"353610 Pardinho",61,122,-,-,183
+"353620 Pariquera-Açu",59,709,14,2,784
+"353625 Parisi",9,16,-,-,25
+"353630 Patrocínio Paulista",-,-,1,-,1
+"353640 Paulicéia",17,40,3,-,60
+"353650 Paulínia",492,723,128,4,1347
+"353660 Paulo de Faria",5,11,-,-,16
+"353670 Pederneiras",51,63,2,-,116
+"353680 Pedra Bela",1,2,-,-,3
+"353690 Pedranópolis",5,-,-,-,5
+"353710 Pedreira",93,48,3,1,145
+"353720 Pedro de Toledo",6,28,1,-,35
+"353730 Penápolis",66,885,33,4,988
+"353740 Pereira Barreto",38,66,4,4,112
+"353750 Pereiras",21,17,2,-,40
+"353760 Peruíbe",2,26,3,1,32
+"353770 Piacatu",3,31,-,1,35
+"353780 Piedade",47,74,8,9,138
+"353790 Pilar do Sul",5,110,5,-,120
+"353800 Pindamonhangaba",877,1076,102,4,2059
+"353810 Pindorama",20,8,-,-,28
+"353820 Pinhalzinho",24,11,-,-,35
+"353850 Piquete",6,55,3,1,65
+"353860 Piracaia",9,16,1,-,26
+"353870 Piracicaba",1099,952,69,-,2120
+"353880 Piraju",122,16,2,-,140
+"353890 Pirajuí",10,-,1,-,11
+"353900 Pirangi",45,46,1,4,96
+"353910 Pirapora do Bom Jesus",26,162,22,10,220
+"353920 Pirapozinho",81,39,-,-,120
+"353930 Pirassununga",258,137,7,1,403
+"353950 Pitangueiras",27,239,4,2,272
+"353960 Planalto",6,18,-,-,24
+"353980 Poá",115,470,19,24,628
+"353990 Poloni",1,1,-,-,2
+"354000 Pompéia",-,1,-,-,1
+"354010 Pongaí",1,-,-,-,1
+"354020 Pontal",23,77,34,-,134
+"354025 Pontalinda",11,29,1,-,41
+"354030 Pontes Gestal",12,48,-,-,60
+"354040 Populina",3,1,-,-,4
+"354050 Porangaba",4,13,-,-,17
+"354060 Porto Feliz",54,147,1,4,206
+"354070 Porto Ferreira",86,511,184,39,820
+"354075 Potim",11,97,4,-,112
+"354080 Potirendaba",72,285,-,-,357
+"354085 Pracinha",-,1,-,-,1
+"354090 Pradópolis",3,13,-,-,16
+"354100 Praia Grande",34,232,5,-,271
+"354105 Pratânia",16,41,-,-,57
+"354120 Presidente Bernardes",7,7,-,-,14
+"354130 Presidente Epitácio",37,46,2,-,85
+"354140 Presidente Prudente",1003,742,7,7,1759
+"354150 Presidente Venceslau",62,132,3,-,197
+"354160 Promissão",29,83,4,-,116
+"354170 Quatá",6,15,3,1,25
+"354190 Queluz",7,101,1,-,109
+"354200 Quintana",2,-,-,-,2
+"354210 Rafard",2,19,-,-,21
+"354220 Rancharia",125,407,14,5,551
+"354230 Redenção da Serra",1,1,-,-,2
+"354240 Regente Feijó",1,1,-,-,2
+"354250 Reginópolis",4,-,-,-,4
+"354260 Registro",67,941,108,7,1123
+"354270 Restinga",1,-,-,1,2
+"354280 Ribeira",1,-,-,-,1
+"354290 Ribeirão Bonito",3,3,-,-,6
+"354300 Ribeirão Branco",27,157,3,1,188
+"354320 Ribeirão do Sul",-,8,2,1,11
+"354325 Ribeirão Grande",-,4,-,-,4
+"354330 Ribeirão Pires",311,495,73,4,883
+"354340 Ribeirão Preto",1150,4131,121,15,5417
+"354360 Rifaina",1,1,-,-,2
+"354370 Rincão",10,98,11,2,121
+"354380 Rinópolis",-,4,-,-,4
+"354390 Rio Claro",318,2016,115,44,2493
+"354400 Rio das Pedras",-,5,-,-,5
+"354410 Rio Grande da Serra",35,182,34,1,252
+"354420 Riolândia",55,125,-,-,180
+"354350 Riversul",32,115,1,-,148
+"354425 Rosana",153,172,4,3,332
+"354430 Roseira",27,124,21,6,178
+"354450 Rubinéia",-,2,-,-,2
+"354460 Sabino",-,1,-,-,1
+"354480 Sales",35,66,-,-,101
+"354490 Sales Oliveira",39,5,1,-,45
+"354500 Salesópolis",34,178,-,-,212
+"354510 Salmourão",1,1,-,-,2
+"354515 Saltinho",-,3,-,-,3
+"354520 Salto",137,53,2,2,194
+"354530 Salto de Pirapora",49,138,11,1,199
+"354550 Sandovalina",-,14,-,-,14
+"354560 Santa Adélia",102,64,4,1,171
+"354570 Santa Albertina",-,12,-,-,12
+"354580 Santa Bárbara d'Oeste",362,655,38,9,1064
+"354600 Santa Branca",24,80,8,2,114
+"354620 Santa Cruz da Conceição",1,1,-,-,2
+"354630 Santa Cruz das Palmeiras",64,56,-,-,120
+"354640 Santa Cruz do Rio Pardo",93,289,10,-,392
+"354650 Santa Ernestina",-,3,-,-,3
+"354660 Santa Fé do Sul",546,871,46,2,1465
+"354670 Santa Gertrudes",31,273,28,5,337
+"354680 Santa Isabel",45,287,13,4,349
+"354690 Santa Lúcia",31,195,26,1,253
+"354700 Santa Maria da Serra",3,90,2,4,99
+"354710 Santa Mercedes",-,1,-,-,1
+"354750 Santa Rita do Passa Quatro",1,1,-,-,2
+"354760 Santa Rosa de Viterbo",1,-,-,-,1
+"354765 Santa Salete",-,6,1,1,8
+"354720 Santana da Ponte Pensa",-,3,-,-,3
+"354730 Santana de Parnaíba",107,818,82,9,1016
+"354770 Santo Anastácio",2,1,-,-,3
+"354780 Santo André",1934,3462,186,8,5590
+"354790 Santo Antônio da Alegria",8,16,34,-,58
+"354800 Santo Antônio de Posse",5,16,6,-,27
+"354810 Santo Antônio do Jardim",1,4,1,-,6
+"354820 Santo Antônio do Pinhal",19,39,5,-,63
+"354850 Santos",971,2556,1525,13,5065
+"354860 São Bento do Sapucaí",18,105,8,1,132
+"354870 São Bernardo do Campo",3782,10909,220,4,14915
+"354880 São Caetano do Sul",133,617,5,-,755
+"354890 São Carlos",354,566,61,3,984
+"354900 São Francisco",-,4,-,-,4
+"354910 São João da Boa Vista",640,1548,21,3,2212
+"354920 São João das Duas Pontes",-,2,-,-,2
+"354925 São João de Iracema",-,6,-,-,6
+"354930 São João do Pau d'Alho",-,1,-,-,1
+"354940 São Joaquim da Barra",1,-,-,-,1
+"354960 São José do Barreiro",-,6,1,-,7
+"354970 São José do Rio Pardo",110,222,2,-,334
+"354980 São José do Rio Preto",3403,6831,156,11,10401
+"354990 São José dos Campos",1701,5170,2514,143,9528
+"354995 São Lourenço da Serra",7,73,77,6,163
+"355010 São Manuel",96,34,-,-,130
+"355020 São Miguel Arcanjo",35,224,18,1,278
+"355030 São Paulo",21513,76940,8165,403,107021
+"355040 São Pedro",71,191,7,2,271
+"355050 São Pedro do Turvo",5,19,5,-,29
+"355060 São Roque",-,3,1,-,4
+"355070 São Sebastião",332,807,16,5,1160
+"355080 São Sebastião da Grama",33,52,5,-,90
+"355090 São Simão",-,5,1,1,7
+"355100 São Vicente",441,597,59,10,1107
+"355110 Sarapuí",-,7,1,1,9
+"355120 Sarutaiá",3,1,-,-,4
+"355130 Sebastianópolis do Sul",1,-,-,-,1
+"355140 Serra Azul",1,12,1,-,14
+"355160 Serra Negra",59,20,2,-,81
+"355150 Serrana",-,3,-,-,3
+"355170 Sertãozinho",30,727,264,76,1097
+"355180 Sete Barras",12,32,14,1,59
+"355190 Severínia",59,57,1,-,117
+"355200 Silveiras",-,6,1,-,7
+"355210 Socorro",81,24,1,1,107
+"355220 Sorocaba",857,2205,187,15,3264
+"355230 Sud Mennucci",36,2,-,-,38
+"355240 Sumaré",556,950,66,5,1577
+"355255 Suzanápolis",-,2,-,-,2
+"355250 Suzano",88,806,59,4,957
+"355260 Tabapuã",96,69,-,-,165
+"355270 Tabatinga",3,3,1,-,7
+"355280 Taboão da Serra",1586,1242,141,6,2975
+"355300 Taguaí",17,29,-,1,47
+"355310 Taiaçu",19,37,-,-,56
+"355320 Taiúva",5,37,24,5,71
+"355330 Tambaú",49,22,-,-,71
+"355340 Tanabi",93,66,-,-,159
+"355360 Tapiratiba",6,8,-,-,14
+"355365 Taquaral",9,45,-,-,54
+"355370 Taquaritinga",120,299,16,-,435
+"355380 Taquarituba",191,38,-,-,229
+"355385 Taquarivaí",6,11,2,-,19
+"355390 Tarabai",1,17,-,-,18
+"355395 Tarumã",13,192,11,2,218
+"355400 Tatuí",9,83,12,2,106
+"355410 Taubaté",934,2337,15,4,3290
+"355430 Teodoro Sampaio",46,36,-,-,82
+"355450 Tietê",23,83,8,3,117
+"355465 Torre de Pedra",-,1,-,-,1
+"355470 Torrinha",1,6,-,-,7
+"355480 Tremembé",11,282,89,4,386
+"355490 Três Fronteiras",1,-,-,-,1
+"355495 Tuiuti",-,2,-,-,2
+"355500 Tupã",18,75,-,-,93
+"355510 Tupi Paulista",49,174,7,1,231
+"355520 Turiúba",2,1,1,-,4
+"355530 Turmalina",1,-,-,-,1
+"355535 Ubarana",8,25,-,-,33
+"355540 Ubatuba",134,496,40,72,742
+"355550 Ubirajara",1,-,-,-,1
+"355560 Uchoa",51,259,3,1,314
+"355570 União Paulista",10,58,-,-,68
+"355580 Urânia",61,113,1,-,175
+"355600 Urupês",14,35,1,-,50
+"355610 Valentim Gentil",50,88,2,-,140
+"355620 Valinhos",409,201,41,7,658
+"355630 Valparaíso",136,235,20,2,393
+"355640 Vargem Grande do Sul",31,95,33,2,161
+"355645 Vargem Grande Paulista",94,85,2,-,181
+"355650 Várzea Paulista",127,344,52,-,523
+"355660 Vera Cruz",-,3,1,-,4
+"355670 Vinhedo",226,628,121,1,976
+"355680 Viradouro",13,628,-,-,641
+"355690 Vista Alegre do Alto",6,25,-,-,31
+"355695 Vitória Brasil",1,10,-,-,11
+"355700 Votorantim",8,21,6,-,35
+"355710 Votuporanga",877,831,3,-,1711
+"355715 Zacarias",-,1,1,-,2
+"410010 Abatiá",19,7,-,-,26
+"410020 Adrianópolis",-,1,-,-,1
+"410030 Agudos do Sul",1,29,1,1,32
+"410040 Almirante Tamandaré",493,1202,145,1,1841
+"410045 Altamira do Paraná",9,11,-,-,20
+"412862 Alto Paraíso",-,5,-,-,5
+"410060 Alto Paraná",3,8,-,-,11
+"410070 Alto Piquiri",-,1,1,-,2
+"410050 Altônia",9,6,1,-,16
+"410080 Alvorada do Sul",8,40,1,-,49
+"410090 Amaporã",6,-,1,-,7
+"410100 Ampére",14,133,4,1,152
+"410105 Anahy",20,49,-,-,69
+"410110 Andirá",4,9,-,-,13
+"410115 Ângulo",14,35,-,-,49
+"410120 Antonina",35,127,13,1,176
+"410130 Antônio Olinto",16,52,-,1,69
+"410140 Apucarana",306,1474,16,3,1799
+"410150 Arapongas",357,327,39,1,724
+"410160 Arapoti",59,232,1,-,292
+"410165 Arapuã",-,1,-,-,1
+"410170 Araruna",6,28,-,-,34
+"410180 Araucária",838,1944,108,16,2906
+"410185 Ariranha do Ivaí",3,5,1,-,9
+"410190 Assaí",21,44,4,1,70
+"410200 Assis Chateaubriand",188,249,1,3,441
+"410210 Astorga",78,28,-,1,107
+"410220 Atalaia",18,13,-,-,31
+"410230 Balsa Nova",29,67,4,2,102
+"410240 Bandeirantes",6,5,-,-,11
+"410250 Barbosa Ferraz",15,20,-,-,35
+"410270 Barra do Jacaré",-,3,-,-,3
+"410260 Barracão",18,41,-,-,59
+"410275 Bela Vista da Caroba",8,28,-,-,36
+"410280 Bela Vista do Paraíso",24,155,36,-,215
+"410290 Bituruna",74,205,7,2,288
+"410300 Boa Esperança",15,13,2,-,30
+"410302 Boa Esperança do Iguaçu",4,11,-,-,15
+"410304 Boa Ventura de São Roque",2,13,-,-,15
+"410305 Boa Vista da Aparecida",49,103,2,-,154
+"410310 Bocaiúva do Sul",10,11,1,1,23
+"410315 Bom Jesus do Sul",-,20,1,-,21
+"410320 Bom Sucesso",27,39,-,-,66
+"410322 Bom Sucesso do Sul",10,12,-,-,22
+"410330 Borrazópolis",5,13,-,-,18
+"410335 Braganey",6,7,-,-,13
+"410337 Brasilândia do Sul",-,5,-,-,5
+"410340 Cafeara",1,11,4,1,17
+"410345 Cafelândia",40,49,-,-,89
+"410347 Cafezal do Sul",3,24,1,1,29
+"410350 Califórnia",5,16,-,1,22
+"410360 Cambará",14,78,2,1,95
+"410370 Cambé",480,943,191,2,1616
+"410380 Cambira",18,19,-,-,37
+"410390 Campina da Lagoa",17,40,4,-,61
+"410395 Campina do Simão",3,7,1,-,11
+"410400 Campina Grande do Sul",383,338,8,4,733
+"410405 Campo Bonito",6,11,-,-,17
+"410410 Campo do Tenente",7,31,-,1,39
+"410420 Campo Largo",311,231,28,1,571
+"410425 Campo Magro",123,472,37,-,632
+"410430 Campo Mourão",377,272,3,2,654
+"410440 Cândido de Abreu",5,18,3,1,27
+"410442 Candói",11,98,-,1,110
+"410445 Cantagalo",2,35,-,6,43
+"410450 Capanema",12,100,-,1,113
+"410460 Capitão Leônidas Marques",9,12,2,-,23
+"410465 Carambeí",20,62,1,-,83
+"410470 Carlópolis",1,19,-,-,20
+"410480 Cascavel",2171,4832,45,7,7055
+"410490 Castro",318,1549,4,9,1880
+"410500 Catanduvas",19,73,-,-,92
+"410510 Centenário do Sul",14,136,8,14,172
+"410520 Cerro Azul",10,63,5,-,78
+"410530 Céu Azul",36,57,1,-,94
+"410540 Chopinzinho",220,147,-,-,367
+"410550 Cianorte",479,124,2,-,605
+"410560 Cidade Gaúcha",23,12,-,-,35
+"410570 Clevelândia",13,138,3,-,154
+"410580 Colombo",719,596,15,4,1334
+"410590 Colorado",181,198,3,-,382
+"410600 Congonhinhas",1,-,-,-,1
+"410610 Conselheiro Mairinck",1,-,-,-,1
+"410620 Contenda",1,48,5,1,55
+"410630 Corbélia",106,157,-,-,263
+"410640 Cornélio Procópio",107,92,2,-,201
+"410645 Coronel Domingos Soares",6,44,-,-,50
+"410650 Coronel Vivida",175,753,1,-,929
+"410655 Corumbataí do Sul",-,37,-,-,37
+"410680 Cruz Machado",7,22,-,-,29
+"410657 Cruzeiro do Iguaçu",13,50,1,-,64
+"410660 Cruzeiro do Oeste",31,126,19,-,176
+"410670 Cruzeiro do Sul",1,10,-,-,11
+"410685 Cruzmaltina",8,17,-,-,25
+"410690 Curitiba",9671,38790,393,19,48873
+"410700 Curiúva",3,7,-,-,10
+"410715 Diamante D'Oeste",7,27,3,2,39
+"410710 Diamante do Norte",8,34,1,-,43
+"410712 Diamante do Sul",5,13,-,-,18
+"410720 Dois Vizinhos",90,548,3,3,644
+"410725 Douradina",30,87,-,-,117
+"410730 Doutor Camargo",6,42,-,-,48
+"412863 Doutor Ulysses",3,1,-,-,4
+"410740 Enéas Marques",5,9,-,-,14
+"410750 Engenheiro Beltrão",-,7,-,1,8
+"410753 Entre Rios do Oeste",12,49,10,-,71
+"410754 Espigão Alto do Iguaçu",-,4,-,-,4
+"410755 Farol",2,2,-,-,4
+"410760 Faxinal",5,10,1,5,21
+"410765 Fazenda Rio Grande",509,917,49,1,1476
+"410770 Fênix",1,23,-,-,24
+"410773 Fernandes Pinheiro",2,19,2,-,23
+"410775 Figueira",4,11,-,-,15
+"410785 Flor da Serra do Sul",18,26,1,-,45
+"410780 Floraí",3,11,-,-,14
+"410790 Floresta",11,44,3,1,59
+"410800 Florestópolis",3,16,-,-,19
+"410810 Flórida",16,79,-,-,95
+"410820 Formosa do Oeste",2,2,-,-,4
+"410830 Foz do Iguaçu",1386,2838,78,10,4312
+"410845 Foz do Jordão",4,30,-,-,34
+"410832 Francisco Alves",2,7,2,-,11
+"410840 Francisco Beltrão",433,375,23,2,833
+"410850 General Carneiro",19,75,1,-,95
+"410855 Godoy Moreira",2,12,-,1,15
+"410860 Goioerê",16,139,2,1,158
+"410865 Goioxim",11,12,-,-,23
+"410870 Grandes Rios",6,12,-,-,18
+"410880 Guaíra",53,231,12,9,305
+"410890 Guairaçá",15,11,-,-,26
+"410895 Guamiranga",67,67,-,-,134
+"410910 Guaporema",3,-,-,-,3
+"410920 Guaraci",8,36,-,-,44
+"410930 Guaraniaçu",29,65,5,-,99
+"410940 Guarapuava",460,1047,-,-,1507
+"410950 Guaraqueçaba",-,7,-,1,8
+"410960 Guaratuba",72,349,38,1,460
+"410965 Honório Serpa",24,73,1,-,98
+"410970 Ibaiti",41,75,-,-,116
+"410975 Ibema",26,12,1,-,39
+"410980 Ibiporã",316,573,28,12,929
+"410990 Icaraíma",19,17,-,-,36
+"411000 Iguaraçu",2,14,-,2,18
+"411005 Iguatu",3,23,1,-,27
+"411007 Imbaú",1,14,5,2,22
+"411010 Imbituva",58,79,3,-,140
+"411020 Inácio Martins",26,91,-,1,118
+"411030 Inajá",11,56,-,-,67
+"411040 Indianópolis",28,15,-,-,43
+"411050 Ipiranga",18,85,-,-,103
+"411060 Iporã",-,2,-,-,2
+"411065 Iracema do Oeste",7,13,-,-,20
+"411070 Irati",89,889,3,-,981
+"411080 Iretama",31,67,4,-,102
+"411090 Itaguajé",2,7,-,-,9
+"411095 Itaipulândia",58,132,1,1,192
+"411100 Itambaracá",4,4,-,-,8
+"411110 Itambé",20,11,2,2,35
+"411120 Itapejara d'Oeste",132,161,1,-,294
+"411125 Itaperuçu",10,20,4,1,35
+"411130 Itaúna do Sul",1,49,-,-,50
+"411140 Ivaí",50,33,1,1,85
+"411150 Ivaiporã",102,169,13,2,286
+"411155 Ivaté",4,22,6,1,33
+"411160 Ivatuba",11,43,-,-,54
+"411180 Jacarezinho",99,118,-,-,217
+"411190 Jaguapitã",37,133,2,-,172
+"411200 Jaguariaíva",170,675,3,-,848
+"411210 Jandaia do Sul",253,200,3,1,457
+"411220 Janiópolis",6,18,-,-,24
+"411230 Japira",8,15,-,-,23
+"411240 Japurá",5,1,-,-,6
+"411250 Jardim Alegre",-,6,-,-,6
+"411270 Jataizinho",1,9,2,1,13
+"411275 Jesuítas",11,6,-,-,17
+"411280 Joaquim Távora",4,14,-,-,18
+"411290 Jundiaí do Sul",1,1,-,-,2
+"411295 Juranda",12,22,-,-,34
+"411300 Jussara",19,10,-,-,29
+"411310 Kaloré",7,21,-,-,28
+"411320 Lapa",31,599,132,9,771
+"411325 Laranjal",4,19,-,-,23
+"411330 Laranjeiras do Sul",185,619,-,1,805
+"411342 Lidianópolis",9,4,-,1,14
+"411345 Lindoeste",-,2,-,-,2
+"411350 Loanda",34,18,1,1,54
+"411360 Lobato",11,44,1,-,56
+"411370 Londrina",1386,5697,95,-,7178
+"411373 Luiziana",6,18,-,-,24
+"411375 Lunardelli",1,5,-,-,6
+"411380 Lupionópolis",6,51,6,-,63
+"411390 Mallet",33,181,1,-,215
+"411400 Mamborê",3,39,2,-,44
+"411410 Mandaguaçu",57,46,2,1,106
+"411420 Mandaguari",91,205,7,2,305
+"411430 Mandirituba",17,85,4,-,106
+"411435 Manfrinópolis",5,31,1,1,38
+"411440 Mangueirinha",40,218,1,-,259
+"411450 Manoel Ribas",10,36,-,1,47
+"411460 Marechal Cândido Rondon",216,327,8,-,551
+"411470 Maria Helena",3,2,-,-,5
+"411480 Marialva",197,203,-,-,400
+"411490 Marilândia do Sul",9,18,-,-,27
+"411500 Marilena",47,67,1,4,119
+"411510 Mariluz",13,26,1,-,40
+"411520 Maringá",2755,4090,10,1,6856
+"411530 Mariópolis",31,120,-,-,151
+"411535 Maripá",29,121,4,-,154
+"411540 Marmeleiro",54,113,2,3,172
+"411545 Marquinho",1,6,-,3,10
+"411560 Matelândia",123,247,2,-,372
+"411570 Matinhos",215,826,1,1,1043
+"411573 Mato Rico",4,8,-,-,12
+"411575 Mauá da Serra",3,11,-,-,14
+"411580 Medianeira",179,515,38,8,740
+"411585 Mercedes",39,39,-,-,78
+"411590 Mirador",25,12,-,-,37
+"411600 Miraselva",-,8,-,-,8
+"411605 Missal",54,86,-,-,140
+"411610 Moreira Sales",8,34,1,-,43
+"411620 Morretes",5,146,6,2,159
+"411630 Munhoz de Melo",6,6,-,-,12
+"411640 Nossa Senhora das Graças",10,13,1,-,24
+"411650 Nova Aliança do Ivaí",6,5,1,-,12
+"411660 Nova América da Colina",8,8,-,-,16
+"411670 Nova Aurora",40,67,-,1,108
+"411680 Nova Cantu",4,13,-,-,17
+"411690 Nova Esperança",40,67,1,2,110
+"411695 Nova Esperança do Sudoeste",2,5,1,-,8
+"411700 Nova Fátima",6,20,-,1,27
+"411705 Nova Laranjeiras",41,130,-,1,172
+"411710 Nova Londrina",14,86,2,-,102
+"411720 Nova Olímpia",2,16,-,-,18
+"411725 Nova Prata do Iguaçu",24,35,1,-,60
+"411721 Nova Santa Bárbara",8,5,-,-,13
+"411722 Nova Santa Rosa",33,55,1,1,90
+"411727 Nova Tebas",42,118,2,2,164
+"411729 Novo Itacolomi",2,5,1,-,8
+"411730 Ortigueira",38,256,15,1,310
+"411740 Ourizona",3,19,-,-,22
+"411745 Ouro Verde do Oeste",21,30,13,-,64
+"411750 Paiçandu",15,74,2,-,91
+"411760 Palmas",59,266,-,1,326
+"411770 Palmeira",100,252,2,-,354
+"411780 Palmital",11,37,-,-,48
+"411790 Palotina",86,248,18,-,352
+"411800 Paraíso do Norte",10,115,1,-,126
+"411810 Paranacity",22,49,-,-,71
+"411820 Paranaguá",222,836,17,2,1077
+"411830 Paranapoema",4,1,-,-,5
+"411840 Paranavaí",172,175,8,-,355
+"411845 Pato Bragado",16,110,3,-,129
+"411850 Pato Branco",561,1246,2,-,1809
+"411860 Paula Freitas",33,64,-,-,97
+"411870 Paulo Frontin",15,94,1,-,110
+"411880 Peabiru",67,176,7,1,251
+"411885 Perobal",4,9,1,-,14
+"411890 Pérola",3,9,-,2,14
+"411900 Pérola d'Oeste",6,16,1,-,23
+"411910 Piên",31,162,11,1,205
+"411915 Pinhais",669,870,111,2,1652
+"411925 Pinhal de São Bento",24,28,2,-,54
+"411920 Pinhalão",8,8,-,-,16
+"411930 Pinhão",25,98,1,-,124
+"411940 Piraí do Sul",9,48,-,-,57
+"411950 Piraquara",239,923,470,13,1645
+"411960 Pitanga",19,53,-,1,73
+"411965 Pitangueiras",-,1,-,-,1
+"411970 Planaltina do Paraná",10,24,2,-,36
+"411980 Planalto",10,18,-,-,28
+"411990 Ponta Grossa",1147,787,16,-,1950
+"411995 Pontal do Paraná",30,170,1,2,203
+"412000 Porecatu",13,23,1,-,37
+"412010 Porto Amazonas",5,23,-,-,28
+"412015 Porto Barreiro",18,34,-,-,52
+"412020 Porto Rico",3,1,-,-,4
+"412030 Porto Vitória",3,5,-,-,8
+"412033 Prado Ferreira",20,43,3,3,69
+"412035 Pranchita",10,74,5,-,89
+"412040 Presidente Castelo Branco",14,15,-,-,29
+"412050 Primeiro de Maio",-,5,-,1,6
+"412060 Prudentópolis",74,627,24,1,726
+"412065 Quarto Centenário",21,12,1,1,35
+"412070 Quatiguá",10,11,-,-,21
+"412080 Quatro Barras",47,145,26,-,218
+"412085 Quatro Pontes",4,5,-,-,9
+"412090 Quedas do Iguaçu",73,44,2,-,119
+"412100 Querência do Norte",13,128,-,-,141
+"412110 Quinta do Sol",8,16,-,-,24
+"412120 Quitandinha",83,81,-,2,166
+"412125 Ramilândia",2,4,-,-,6
+"412135 Rancho Alegre D'Oeste",-,1,-,1,2
+"412140 Realeza",37,71,-,-,108
+"412150 Rebouças",56,135,3,2,196
+"412160 Renascença",34,30,-,-,64
+"412170 Reserva",33,78,24,2,137
+"412175 Reserva do Iguaçu",1,14,1,-,16
+"412180 Ribeirão Claro",5,9,-,-,14
+"412190 Ribeirão do Pinhal",20,181,2,-,203
+"412200 Rio Azul",61,133,4,1,199
+"412210 Rio Bom",9,21,1,-,31
+"412215 Rio Bonito do Iguaçu",1,13,-,-,14
+"412217 Rio Branco do Ivaí",-,2,-,-,2
+"412220 Rio Branco do Sul",7,75,2,-,84
+"412230 Rio Negro",43,515,47,10,615
+"412240 Rolândia",141,951,5,3,1100
+"412250 Roncador",13,18,-,1,32
+"412260 Rondon",11,56,1,-,68
+"412265 Rosário do Ivaí",1,1,-,-,2
+"412270 Sabáudia",4,8,-,-,12
+"412280 Salgado Filho",30,15,2,-,47
+"412300 Salto do Lontra",23,52,-,-,75
+"412310 Santa Amélia",-,5,-,-,5
+"412320 Santa Cecília do Pavão",26,25,-,-,51
+"412330 Santa Cruz de Monte Castelo",1,4,-,-,5
+"412340 Santa Fé",9,62,6,-,77
+"412350 Santa Helena",29,143,1,2,175
+"412360 Santa Inês",3,4,-,-,7
+"412370 Santa Isabel do Ivaí",7,20,1,-,28
+"412380 Santa Izabel do Oeste",43,77,-,-,120
+"412382 Santa Lúcia",12,27,-,-,39
+"412385 Santa Maria do Oeste",1,8,-,-,9
+"412390 Santa Mariana",8,7,1,-,16
+"412395 Santa Mônica",1,1,-,-,2
+"412402 Santa Tereza do Oeste",40,64,-,2,106
+"412405 Santa Terezinha de Itaipu",63,102,2,1,168
+"412400 Santana do Itararé",1,3,-,-,4
+"412410 Santo Antônio da Platina",9,21,1,2,33
+"412420 Santo Antônio do Caiuá",7,24,-,-,31
+"412430 Santo Antônio do Paraíso",2,2,-,-,4
+"412440 Santo Antônio do Sudoeste",10,51,4,-,65
+"412450 Santo Inácio",4,15,-,-,19
+"412460 São Carlos do Ivaí",5,13,-,-,18
+"412470 São Jerônimo da Serra",1,13,-,-,14
+"412480 São João",68,95,-,-,163
+"412490 São João do Caiuá",12,16,-,-,28
+"412500 São João do Ivaí",45,119,-,-,164
+"412510 São João do Triunfo",18,75,3,1,97
+"412520 São Jorge d'Oeste",1,15,-,-,16
+"412530 São Jorge do Ivaí",24,12,-,-,36
+"412535 São Jorge do Patrocínio",-,9,2,1,12
+"412540 São José da Boa Vista",2,8,-,-,10
+"412545 São José das Palmeiras",2,3,-,-,5
+"412550 São José dos Pinhais",1048,2385,128,9,3570
+"412560 São Mateus do Sul",104,174,1,-,279
+"412570 São Miguel do Iguaçu",103,146,2,-,251
+"412575 São Pedro do Iguaçu",1,5,-,1,7
+"412580 São Pedro do Ivaí",21,19,-,-,40
+"412590 São Pedro do Paraná",2,3,-,-,5
+"412600 São Sebastião da Amoreira",37,138,1,-,176
+"412610 São Tomé",4,10,-,-,14
+"412620 Sapopema",12,14,-,-,26
+"412625 Sarandi",478,510,2,-,990
+"412627 Saudade do Iguaçu",16,31,-,-,47
+"412630 Sengés",26,40,-,1,67
+"412635 Serranópolis do Iguaçu",-,4,-,-,4
+"412640 Sertaneja",10,7,-,-,17
+"412650 Sertanópolis",31,148,2,-,181
+"412660 Siqueira Campos",25,110,17,1,153
+"412665 Sulina",6,14,-,-,20
+"412667 Tamarana",102,141,10,2,255
+"412670 Tamboara",1,1,-,-,2
+"412680 Tapejara",22,40,-,-,62
+"412690 Tapira",5,18,1,-,24
+"412700 Teixeira Soares",13,405,7,-,425
+"412710 Telêmaco Borba",310,1863,55,1,2229
+"412720 Terra Boa",68,132,1,-,201
+"412730 Terra Rica",3,8,-,-,11
+"412740 Terra Roxa",47,283,2,1,333
+"412750 Tibagi",12,35,-,-,47
+"412760 Tijucas do Sul",46,125,9,11,191
+"412770 Toledo",707,676,4,1,1388
+"412780 Tomazina",12,19,-,-,31
+"412785 Três Barras do Paraná",105,48,-,-,153
+"412788 Tunas do Paraná",-,4,-,-,4
+"412790 Tuneiras do Oeste",11,16,-,-,27
+"412795 Tupãssi",38,41,4,-,83
+"412796 Turvo",30,77,-,1,108
+"412800 Ubiratã",46,304,3,1,354
+"412810 Umuarama",78,119,10,20,227
+"412820 União da Vitória",209,176,11,-,396
+"412830 Uniflor",1,3,-,-,4
+"412840 Uraí",2,5,-,-,7
+"412853 Ventania",10,31,-,-,41
+"412855 Vera Cruz do Oeste",17,32,1,-,50
+"412860 Verê",21,59,-,-,80
+"412865 Virmond",1,3,-,-,4
+"412870 Vitorino",5,28,-,-,33
+"412850 Wenceslau Braz",6,12,-,-,18
+"420005 Abdon Batista",1,8,-,-,9
+"420010 Abelardo Luz",67,124,-,-,191
+"420020 Agrolândia",18,14,3,-,35
+"420030 Agronômica",11,-,-,-,11
+"420040 Água Doce",9,12,-,2,23
+"420055 Águas Frias",-,2,-,-,2
+"420070 Alfredo Wagner",6,5,4,-,15
+"420080 Anchieta",7,21,-,-,28
+"420090 Angelina",5,6,2,-,13
+"420110 Anitápolis",-,1,-,-,1
+"420120 Antônio Carlos",9,2,-,-,11
+"420125 Apiúna",1,92,1,-,94
+"420127 Arabutã",8,6,-,-,14
+"420130 Araquari",34,47,-,-,81
+"420140 Araranguá",656,516,1,2,1175
+"420150 Armazém",15,6,1,-,22
+"420160 Arroio Trinta",7,6,-,2,15
+"420165 Arvoredo",-,2,1,-,3
+"420170 Ascurra",6,163,7,-,176
+"420180 Atalanta",6,14,-,-,20
+"420190 Aurora",-,1,-,-,1
+"420195 Balneário Arroio do Silva",1,14,-,-,15
+"420205 Balneário Barra do Sul",3,30,-,-,33
+"420200 Balneário Camboriú",748,947,11,1,1707
+"420207 Balneário Gaivota",3,5,-,-,8
+"421280 Balneário Piçarras",38,85,2,-,125
+"422000 Balneário Rincão",2,5,-,-,7
+"420208 Bandeirante",1,1,1,-,3
+"420209 Barra Bonita",1,3,-,-,4
+"420210 Barra Velha",63,235,18,-,316
+"420213 Bela Vista do Toldo",-,2,-,-,2
+"420215 Belmonte",1,1,-,-,2
+"420220 Benedito Novo",31,64,1,-,96
+"420230 Biguaçu",22,95,1,-,118
+"420240 Blumenau",1603,1317,12,6,2938
+"420243 Bocaina do Sul",2,3,-,-,5
+"420257 Bom Jesus do Oeste",-,1,-,-,1
+"420260 Bom Retiro",3,6,-,-,9
+"420245 Bombinhas",32,48,-,-,80
+"420270 Botuverá",4,15,-,-,19
+"420280 Braço do Norte",127,125,4,2,258
+"420287 Brunópolis",-,1,-,-,1
+"420290 Brusque",326,1068,4,15,1413
+"420300 Caçador",310,284,3,3,600
+"420310 Caibi",11,61,1,-,73
+"420315 Calmon",2,5,-,-,7
+"420320 Camboriú",30,113,7,4,154
+"420330 Campo Alegre",66,43,1,1,111
+"420340 Campo Belo do Sul",9,5,-,-,14
+"420350 Campo Erê",4,13,1,-,18
+"420360 Campos Novos",17,9,-,1,27
+"420370 Canelinha",18,9,-,-,27
+"420380 Canoinhas",135,199,12,1,347
+"420325 Capão Alto",2,2,-,-,4
+"420390 Capinzal",44,48,5,4,101
+"420395 Capivari de Baixo",14,49,-,-,63
+"420400 Catanduvas",19,22,1,-,42
+"420410 Caxambu do Sul",3,6,-,-,9
+"420415 Celso Ramos",-,1,-,-,1
+"420417 Cerro Negro",3,1,-,-,4
+"420419 Chapadão do Lageado",6,12,-,-,18
+"420420 Chapecó",976,1162,29,3,2170
+"420425 Cocal do Sul",13,11,-,1,25
+"420430 Concórdia",130,99,1,-,230
+"420435 Cordilheira Alta",3,3,-,1,7
+"420440 Coronel Freitas",31,29,1,-,61
+"420445 Coronel Martins",-,4,-,-,4
+"420455 Correia Pinto",2,3,-,-,5
+"420450 Corupá",11,25,1,-,37
+"420460 Criciúma",1726,2904,120,4,4754
+"420470 Cunha Porã",20,48,1,-,69
+"420480 Curitibanos",218,73,5,-,296
+"420490 Descanso",4,5,-,-,9
+"420500 Dionísio Cerqueira",10,73,14,1,98
+"420510 Dona Emma",1,11,2,-,14
+"420515 Doutor Pedrinho",-,1,-,-,1
+"420517 Entre Rios",5,26,-,-,31
+"420519 Ermo",1,-,-,-,1
+"420530 Faxinal dos Guedes",-,3,-,-,3
+"420535 Flor do Sertão",3,16,3,-,22
+"420540 Florianópolis",1634,3039,143,31,4847
+"420545 Forquilhinha",29,45,3,-,77
+"420550 Fraiburgo",307,255,2,2,566
+"420555 Frei Rogério",-,4,-,-,4
+"420560 Galvão",11,55,10,-,76
+"420570 Garopaba",35,39,-,1,75
+"420580 Garuva",11,52,6,-,69
+"420590 Gaspar",239,359,14,-,612
+"420600 Governador Celso Ramos",-,1,-,-,1
+"420610 Grão Pará",-,4,-,1,5
+"420620 Gravatal",2,2,-,-,4
+"420630 Guabiruba",13,31,4,-,48
+"420640 Guaraciaba",2,2,-,-,4
+"420650 Guaramirim",243,182,4,-,429
+"420660 Guarujá do Sul",46,49,3,-,98
+"420670 Herval d'Oeste",111,207,6,1,325
+"420680 Ibicaré",-,2,-,-,2
+"420690 Ibirama",323,140,1,12,476
+"420700 Içara",319,112,10,2,443
+"420710 Ilhota",4,5,1,-,10
+"420720 Imaruí",1,7,-,-,8
+"420730 Imbituba",88,131,15,-,234
+"420740 Imbuia",23,10,-,-,33
+"420750 Indaial",92,153,1,-,246
+"420757 Iomerê",-,2,-,-,2
+"420760 Ipira",3,3,-,-,6
+"420765 Iporã do Oeste",2,45,1,-,48
+"420768 Ipuaçu",12,19,-,-,31
+"420770 Ipumirim",36,61,-,1,98
+"420775 Iraceminha",1,-,-,-,1
+"420780 Irani",33,36,21,-,90
+"420790 Irineópolis",31,23,-,-,54
+"420800 Itá",3,24,-,-,27
+"420810 Itaiópolis",69,101,1,-,171
+"420820 Itajaí",1077,3476,64,4,4621
+"420830 Itapema",68,131,10,3,212
+"420840 Itapiranga",32,30,-,-,62
+"420845 Itapoá",19,77,16,5,117
+"420850 Ituporanga",68,35,1,-,104
+"420860 Jaborá",2,-,-,-,2
+"420870 Jacinto Machado",1,-,-,-,1
+"420880 Jaguaruna",12,44,-,-,56
+"420890 Jaraguá do Sul",679,1043,23,2,1747
+"420895 Jardinópolis",-,3,-,-,3
+"420900 Joaçaba",126,336,33,16,511
+"420910 Joinville",3091,4460,52,10,7613
+"420915 José Boiteux",7,16,-,-,23
+"420920 Lacerdópolis",1,24,-,1,26
+"420930 Lages",585,961,28,21,1595
+"420940 Laguna",19,15,-,-,34
+"420945 Lajeado Grande",1,4,-,-,5
+"420960 Lauro Muller",3,17,-,1,21
+"420970 Lebon Régis",-,3,1,-,4
+"420980 Leoberto Leal",1,3,-,-,4
+"420985 Lindóia do Sul",8,24,32,-,64
+"420990 Lontras",9,6,-,-,15
+"421000 Luiz Alves",73,68,-,-,141
+"421003 Luzerna",10,3,-,-,13
+"421005 Macieira",1,5,-,-,6
+"421010 Mafra",281,206,-,-,487
+"421020 Major Gercino",1,2,-,-,3
+"421030 Major Vieira",2,12,-,-,14
+"421040 Maracajá",11,1,-,-,12
+"421050 Maravilha",16,16,-,-,32
+"421055 Marema",-,2,-,1,3
+"421060 Massaranduba",42,32,-,-,74
+"421070 Matos Costa",-,2,-,-,2
+"421080 Meleiro",10,7,-,1,18
+"421085 Mirim Doce",2,4,-,-,6
+"421090 Modelo",3,15,4,3,25
+"421100 Mondaí",-,12,2,-,14
+"421105 Monte Carlo",32,58,-,-,90
+"421110 Monte Castelo",-,9,-,-,9
+"421120 Morro da Fumaça",72,50,11,8,141
+"421130 Navegantes",30,110,4,1,145
+"421140 Nova Erechim",-,2,-,-,2
+"421145 Nova Itaberaba",3,4,-,-,7
+"421150 Nova Trento",3,13,-,-,16
+"421160 Nova Veneza",7,23,1,-,31
+"421165 Novo Horizonte",2,12,-,-,14
+"421170 Orleans",201,94,2,1,298
+"421175 Otacílio Costa",9,21,-,-,30
+"421180 Ouro",2,2,-,-,4
+"421185 Ouro Verde",-,4,-,-,4
+"421187 Paial",-,2,-,-,2
+"421189 Painel",2,1,-,-,3
+"421190 Palhoça",43,250,9,-,302
+"421200 Palma Sola",58,79,-,-,137
+"421210 Palmitos",8,16,-,-,24
+"421220 Papanduva",38,50,1,-,89
+"421223 Paraíso",-,3,-,-,3
+"421225 Passo de Torres",10,19,-,-,29
+"421227 Passos Maia",2,2,-,-,4
+"421230 Paulo Lopes",2,7,-,-,9
+"421250 Penha",16,39,1,-,56
+"421260 Peritiba",3,3,-,-,6
+"421265 Pescaria Brava",1,-,-,-,1
+"421270 Petrolândia",19,25,-,-,44
+"421290 Pinhalzinho",8,106,4,-,118
+"421300 Pinheiro Preto",2,5,-,-,7
+"421310 Piratuba",1,-,-,-,1
+"421315 Planalto Alegre",-,3,1,-,4
+"421320 Pomerode",144,469,21,-,634
+"421335 Ponte Alta do Norte",1,2,-,-,3
+"421340 Ponte Serrada",7,24,-,-,31
+"421350 Porto Belo",12,17,3,1,33
+"421360 Porto União",119,40,1,-,160
+"421370 Pouso Redondo",34,129,6,-,169
+"421380 Praia Grande",15,5,-,-,20
+"421390 Presidente Castello Branco",6,3,1,-,10
+"421400 Presidente Getúlio",41,88,2,-,131
+"421410 Presidente Nereu",-,-,2,-,2
+"421415 Princesa",21,49,1,1,72
+"421420 Quilombo",-,22,-,1,23
+"421440 Rio das Antas",-,20,-,-,20
+"421450 Rio do Campo",27,8,-,-,35
+"421460 Rio do Oeste",15,70,1,-,86
+"421480 Rio do Sul",302,154,2,1,459
+"421470 Rio dos Cedros",6,24,1,-,31
+"421490 Rio Fortuna",22,10,-,-,32
+"421500 Rio Negrinho",25,103,5,-,133
+"421507 Riqueza",3,46,1,-,50
+"421510 Rodeio",3,26,-,-,29
+"421520 Romelândia",1,2,-,-,3
+"421530 Salete",47,17,-,-,64
+"421535 Saltinho",-,7,-,-,7
+"421540 Salto Veloso",11,38,-,-,49
+"421545 Sangão",19,21,-,-,40
+"421550 Santa Cecília",29,30,-,-,59
+"421560 Santa Rosa de Lima",2,3,-,-,5
+"421565 Santa Rosa do Sul",2,1,-,-,3
+"421567 Santa Terezinha",3,8,-,-,11
+"421568 Santa Terezinha do Progresso",6,21,-,-,27
+"421569 Santiago do Sul",-,2,-,-,2
+"421570 Santo Amaro da Imperatriz",4,20,-,-,24
+"421580 São Bento do Sul",141,117,1,-,259
+"421575 São Bernardino",2,4,-,-,6
+"421590 São Bonifácio",1,4,1,-,6
+"421600 São Carlos",2,3,-,-,5
+"421605 São Cristovão do Sul",-,3,-,-,3
+"421610 São Domingos",1,4,-,-,5
+"421620 São Francisco do Sul",40,84,3,-,127
+"421630 São João Batista",2,4,-,1,7
+"421635 São João do Itaperiú",1,1,-,-,2
+"421625 São João do Oeste",8,-,-,-,8
+"421640 São João do Sul",-,1,-,-,1
+"421650 São Joaquim",41,19,-,-,60
+"421660 São José",1948,2225,24,-,4197
+"421670 São José do Cedro",37,118,6,1,162
+"421680 São José do Cerrito",-,1,-,-,1
+"421690 São Lourenço do Oeste",14,12,-,-,26
+"421700 São Ludgero",92,41,5,4,142
+"421710 São Martinho",5,1,-,-,6
+"421715 São Miguel da Boa Vista",4,27,2,1,34
+"421720 São Miguel do Oeste",439,1365,56,1,1861
+"421725 São Pedro de Alcântara",-,1,-,-,1
+"421730 Saudades",1,6,-,-,7
+"421740 Schroeder",21,78,7,-,106
+"421750 Seara",74,45,2,-,121
+"421760 Siderópolis",33,21,-,-,54
+"421770 Sombrio",144,39,6,1,190
+"421775 Sul Brasil",-,5,-,-,5
+"421780 Taió",49,36,-,-,85
+"421790 Tangará",2,8,-,-,10
+"421795 Tigrinhos",5,16,-,-,21
+"421800 Tijucas",68,48,1,-,117
+"421810 Timbé do Sul",1,5,-,-,6
+"421820 Timbó",58,97,2,-,157
+"421830 Três Barras",66,99,-,-,165
+"421835 Treviso",7,16,-,-,23
+"421840 Treze de Maio",1,5,-,-,6
+"421850 Treze Tílias",5,4,-,-,9
+"421860 Trombudo Central",48,86,-,-,134
+"421870 Tubarão",988,748,7,1,1744
+"421875 Tunápolis",7,31,2,1,41
+"421880 Turvo",19,4,-,-,23
+"421885 União do Oeste",-,4,-,-,4
+"421890 Urubici",-,13,1,-,14
+"421900 Urussanga",13,25,2,-,40
+"421910 Vargeão",4,13,-,-,17
+"421915 Vargem",1,4,1,-,6
+"421917 Vargem Bonita",2,22,-,-,24
+"421920 Vidal Ramos",4,6,-,-,10
+"421930 Videira",220,129,2,4,355
+"421935 Vitor Meireles",14,13,-,-,27
+"421940 Witmarsum",24,6,-,-,30
+"421950 Xanxerê",615,1224,-,1,1840
+"421960 Xavantina",1,2,-,-,3
+"421970 Xaxim",62,185,4,1,252
+"421985 Zortéa",4,1,1,-,6
+"430003 Aceguá",4,11,2,-,17
+"430005 Água Santa",21,21,-,-,42
+"430010 Agudo",34,30,2,-,66
+"430020 Ajuricaba",16,45,3,-,64
+"430030 Alecrim",4,3,-,-,7
+"430040 Alegrete",409,535,22,1,967
+"430045 Alegria",6,14,-,-,20
+"430047 Almirante Tamandaré do Sul",5,4,-,1,10
+"430050 Alpestre",8,39,-,-,47
+"430055 Alto Alegre",5,5,-,-,10
+"430057 Alto Feliz",2,17,2,-,21
+"430060 Alvorada",160,103,11,1,275
+"430063 Amaral Ferrador",7,1,-,-,8
+"430064 Ametista do Sul",9,30,1,-,40
+"430066 André da Rocha",7,3,-,-,10
+"430070 Anta Gorda",24,21,1,-,46
+"430080 Antônio Prado",47,132,6,2,187
+"430085 Arambaré",3,1,-,-,4
+"430087 Araricá",12,39,16,1,68
+"430090 Aratiba",18,62,10,-,90
+"430100 Arroio do Meio",68,63,5,-,136
+"430105 Arroio do Sal",18,21,-,-,39
+"430120 Arroio do Tigre",120,223,2,1,346
+"430110 Arroio dos Ratos",28,13,-,-,41
+"430130 Arroio Grande",34,41,-,-,75
+"430140 Arvorezinha",30,32,-,1,63
+"430150 Augusto Pestana",4,15,-,-,19
+"430155 Áurea",2,4,-,-,6
+"430160 Bagé",214,480,1,4,699
+"430163 Balneário Pinhal",7,22,2,-,31
+"430165 Barão",11,3,6,-,20
+"430170 Barão de Cotegipe",13,28,-,-,41
+"430175 Barão do Triunfo",11,8,-,1,20
+"430185 Barra do Guarita",-,1,-,-,1
+"430187 Barra do Quaraí",5,8,-,-,13
+"430190 Barra do Ribeiro",24,41,1,-,66
+"430192 Barra do Rio Azul",-,-,-,1,1
+"430195 Barra Funda",3,21,-,-,24
+"430180 Barracão",10,23,-,-,33
+"430200 Barros Cassal",20,41,-,-,61
+"430205 Benjamin Constant do Sul",3,4,-,-,7
+"430210 Bento Gonçalves",530,2604,-,-,3134
+"430215 Boa Vista das Missões",2,3,-,-,5
+"430220 Boa Vista do Buricá",8,33,-,-,41
+"430222 Boa Vista do Cadeado",9,4,-,-,13
+"430223 Boa Vista do Incra",2,1,-,-,3
+"430225 Boa Vista do Sul",2,11,-,-,13
+"430230 Bom Jesus",42,55,-,-,97
+"430235 Bom Princípio",34,22,6,1,63
+"430237 Bom Progresso",1,7,-,-,8
+"430240 Bom Retiro do Sul",54,87,-,-,141
+"430245 Boqueirão do Leão",8,4,2,-,14
+"430250 Bossoroca",10,15,1,-,26
+"430258 Bozano",4,7,-,-,11
+"430260 Braga",6,33,3,2,44
+"430265 Brochier",12,9,1,-,22
+"430280 Caçapava do Sul",140,846,177,-,1163
+"430290 Cacequi",26,29,1,-,56
+"430300 Cachoeira do Sul",554,654,30,34,1272
+"430310 Cachoeirinha",231,1141,11,2,1385
+"430320 Cacique Doble",6,45,-,-,51
+"430330 Caibaté",11,16,-,-,27
+"430340 Caiçara",3,33,1,-,37
+"430350 Camaquã",261,234,52,2,549
+"430355 Camargo",16,12,-,-,28
+"430360 Cambará do Sul",19,16,2,-,37
+"430367 Campestre da Serra",-,7,-,-,7
+"430370 Campina das Missões",13,19,-,-,32
+"430380 Campinas do Sul",2,3,-,-,5
+"430390 Campo Bom",205,430,38,2,675
+"430400 Campo Novo",16,27,-,2,45
+"430410 Campos Borges",39,36,-,-,75
+"430420 Candelária",156,90,-,-,246
+"430430 Cândido Godói",37,24,1,-,62
+"430435 Candiota",2,6,-,-,8
+"430440 Canela",114,192,3,-,309
+"430450 Canguçu",104,61,5,-,170
+"430460 Canoas",1041,2941,164,24,4170
+"430461 Canudos do Vale",-,15,1,-,16
+"430462 Capão Bonito do Sul",8,8,-,-,16
+"430463 Capão da Canoa",117,100,106,-,323
+"430465 Capão do Cipó",2,15,-,-,17
+"430466 Capão do Leão",19,65,9,4,97
+"430469 Capitão",3,10,-,-,13
+"430467 Capivari do Sul",-,2,-,-,2
+"430471 Caraá",1,5,1,-,7
+"430470 Carazinho",163,192,5,1,361
+"430480 Carlos Barbosa",202,997,1,-,1200
+"430485 Carlos Gomes",2,11,-,-,13
+"430490 Casca",23,65,5,-,93
+"430495 Caseiros",7,8,-,-,15
+"430500 Catuípe",14,18,1,-,33
+"430510 Caxias do Sul",1486,4484,583,10,6563
+"430511 Centenário",1,-,-,-,1
+"430513 Cerro Branco",17,92,1,-,110
+"430515 Cerro Grande",5,3,1,-,9
+"430517 Cerro Grande do Sul",3,1,-,-,4
+"430520 Cerro Largo",4,3,-,-,7
+"430530 Chapada",6,17,9,2,34
+"430535 Charqueadas",81,95,7,-,183
+"430537 Charrua",-,33,-,-,33
+"430543 Chuí",1,8,1,-,10
+"430544 Chuvisca",6,1,-,-,7
+"430545 Cidreira",5,22,-,-,27
+"430550 Ciríaco",13,3,-,-,16
+"430558 Colinas",30,36,3,-,69
+"430560 Colorado",11,15,1,-,27
+"430570 Condor",22,62,4,-,88
+"430580 Constantina",13,32,4,-,49
+"430583 Coqueiro Baixo",1,-,1,-,2
+"430585 Coqueiros do Sul",5,1,-,-,6
+"430587 Coronel Barros",4,32,-,-,36
+"430590 Coronel Bicaco",4,7,1,-,12
+"430593 Coronel Pilar",-,2,1,-,3
+"430595 Cotiporã",26,54,-,-,80
+"430597 Coxilha",51,59,2,-,112
+"430600 Crissiumal",6,49,16,-,71
+"430605 Cristal",12,8,-,-,20
+"430607 Cristal do Sul",-,4,-,-,4
+"430610 Cruz Alta",238,111,8,-,357
+"430613 Cruzaltense",10,22,1,-,33
+"430620 Cruzeiro do Sul",28,4,-,-,32
+"430630 David Canabarro",4,4,-,-,8
+"430632 Derrubadas",7,3,6,-,16
+"430635 Dezesseis de Novembro",2,4,1,1,8
+"430637 Dilermando de Aguiar",3,10,-,-,13
+"430640 Dois Irmãos",53,64,7,-,124
+"430642 Dois Irmãos das Missões",-,1,-,-,1
+"430645 Dois Lajeados",1,22,-,-,23
+"430650 Dom Feliciano",16,18,2,1,37
+"430660 Dom Pedrito",99,363,1,-,463
+"430670 Dona Francisca",1,4,1,-,6
+"430673 Doutor Maurício Cardoso",8,16,1,-,25
+"430675 Doutor Ricardo",7,4,-,-,11
+"430676 Eldorado do Sul",148,311,17,2,478
+"430680 Encantado",81,183,14,4,282
+"430690 Encruzilhada do Sul",118,175,22,-,315
+"430692 Engenho Velho",6,3,-,-,9
+"430695 Entre Rios do Sul",9,19,-,-,28
+"430693 Entre-Ijuís",11,4,-,-,15
+"430697 Erebango",2,8,-,-,10
+"430700 Erechim",87,389,41,18,535
+"430705 Ernestina",10,5,-,-,15
+"430720 Erval Grande",13,40,3,1,57
+"430730 Erval Seco",1,15,-,-,16
+"430740 Esmeralda",25,2,4,-,31
+"430745 Esperança do Sul",-,9,-,1,10
+"430750 Espumoso",45,17,-,1,63
+"430755 Estação",13,14,-,-,27
+"430760 Estância Velha",156,426,4,-,586
+"430770 Esteio",93,103,3,5,204
+"430780 Estrela",200,146,3,-,349
+"430781 Estrela Velha",47,23,2,-,72
+"430783 Eugênio de Castro",15,17,-,1,33
+"430786 Fagundes Varela",3,14,-,-,17
+"430790 Farroupilha",158,272,44,-,474
+"430800 Faxinal do Soturno",12,17,-,-,29
+"430807 Fazenda Vilanova",13,23,-,-,36
+"430810 Feliz",11,19,1,-,31
+"430820 Flores da Cunha",113,107,12,2,234
+"430825 Floriano Peixoto",6,14,1,-,21
+"430830 Fontoura Xavier",33,19,-,1,53
+"430840 Formigueiro",4,7,-,-,11
+"430843 Forquetinha",2,2,-,-,4
+"430845 Fortaleza dos Valos",3,-,-,-,3
+"430850 Frederico Westphalen",13,32,2,1,48
+"430860 Garibaldi",315,1533,11,2,1861
+"430865 Garruchos",1,1,-,1,3
+"430870 Gaurama",6,6,-,-,12
+"430880 General Câmara",4,6,1,2,13
+"430885 Gentil",7,5,-,-,12
+"430890 Getúlio Vargas",62,93,3,1,159
+"430900 Giruá",20,16,-,-,36
+"430905 Glorinha",29,50,3,-,82
+"430910 Gramado",280,225,19,1,525
+"430912 Gramado dos Loureiros",2,-,-,-,2
+"430915 Gramado Xavier",11,26,-,1,38
+"430920 Gravataí",380,969,89,1,1439
+"430925 Guabiju",-,3,-,-,3
+"430930 Guaíba",357,175,26,-,558
+"430940 Guaporé",84,337,21,1,443
+"430950 Guarani das Missões",9,18,-,-,27
+"430955 Harmonia",2,2,-,-,4
+"430710 Herval",15,20,1,-,36
+"430957 Herveiras",14,4,-,-,18
+"430960 Horizontina",43,105,1,-,149
+"430965 Hulha Negra",-,1,-,-,1
+"430970 Humaitá",-,1,-,-,1
+"430975 Ibarama",42,96,-,-,138
+"430980 Ibiaçá",1,5,-,-,6
+"430990 Ibiraiaras",47,76,1,-,124
+"430995 Ibirapuitã",7,5,-,-,12
+"431000 Ibirubá",99,173,105,4,381
+"431010 Igrejinha",111,183,7,-,301
+"431020 Ijuí",521,1610,79,2,2212
+"431030 Ilópolis",16,13,-,-,29
+"431033 Imbé",116,167,9,8,300
+"431036 Imigrante",7,14,-,-,21
+"431040 Independência",20,24,-,-,44
+"431043 Ipê",8,11,-,-,19
+"431046 Ipiranga do Sul",-,5,1,-,6
+"431050 Iraí",2,53,5,-,60
+"431053 Itaara",16,38,-,-,54
+"431055 Itacurubi",2,4,-,-,6
+"431057 Itapuca",-,8,-,-,8
+"431060 Itaqui",27,6,2,-,35
+"431070 Itatiba do Sul",13,16,1,-,30
+"431075 Ivorá",3,21,-,-,24
+"431080 Ivoti",49,75,5,-,129
+"431085 Jaboticaba",9,19,-,1,29
+"431087 Jacuizinho",1,11,-,1,13
+"431090 Jacutinga",5,6,1,-,12
+"431100 Jaguarão",16,254,1,-,271
+"431110 Jaguari",17,36,2,-,55
+"431112 Jaquirana",15,18,-,-,33
+"431113 Jari",1,11,-,1,13
+"431115 Jóia",18,23,-,-,41
+"431120 Júlio de Castilhos",48,73,4,-,125
+"431123 Lagoa Bonita do Sul",10,69,15,3,97
+"431127 Lagoa dos Três Cantos",13,16,-,-,29
+"431130 Lagoa Vermelha",141,147,12,-,300
+"431125 Lagoão",10,10,-,-,20
+"431140 Lajeado",1084,1766,25,1,2876
+"431142 Lajeado do Bugre",-,2,-,-,2
+"431150 Lavras do Sul",6,59,1,1,67
+"431160 Liberato Salzano",2,2,-,-,4
+"431162 Lindolfo Collor",9,35,20,-,64
+"431164 Linha Nova",1,1,-,-,2
+"431171 Maçambará",-,1,-,-,1
+"431170 Machadinho",57,22,1,1,81
+"431173 Mampituba",2,4,-,-,6
+"431175 Manoel Viana",4,8,-,-,12
+"431177 Maquiné",-,9,-,-,9
+"431179 Maratá",4,10,1,-,15
+"431180 Marau",361,2028,33,19,2441
+"431190 Marcelino Ramos",13,14,-,-,27
+"431198 Mariana Pimentel",-,5,1,-,6
+"431200 Mariano Moro",1,1,-,-,2
+"431205 Marques de Souza",4,3,-,-,7
+"431210 Mata",9,5,-,-,14
+"431213 Mato Castelhano",12,6,3,-,21
+"431215 Mato Leitão",31,74,7,1,113
+"431217 Mato Queimado",3,8,-,1,12
+"431220 Maximiliano de Almeida",7,17,2,-,26
+"431225 Minas do Leão",16,16,-,1,33
+"431230 Miraguaí",-,11,-,-,11
+"431235 Montauri",3,7,2,-,12
+"431237 Monte Alegre dos Campos",2,10,-,-,12
+"431238 Monte Belo do Sul",4,6,1,-,11
+"431240 Montenegro",177,443,16,4,640
+"431242 Mormaço",3,4,1,-,8
+"431245 Morro Redondo",7,2,-,-,9
+"431247 Morro Reuter",2,7,1,-,10
+"431250 Mostardas",11,49,2,-,62
+"431260 Muçum",12,22,-,-,34
+"431261 Muitos Capões",1,5,-,-,6
+"431262 Muliterno",5,2,-,-,7
+"431265 Não-Me-Toque",46,19,-,-,65
+"431267 Nicolau Vergueiro",5,2,-,-,7
+"431270 Nonoai",94,167,3,2,266
+"431275 Nova Alvorada",16,39,-,-,55
+"431280 Nova Araçá",9,4,-,-,13
+"431290 Nova Bassano",48,172,17,-,237
+"431295 Nova Boa Vista",12,14,-,-,26
+"431300 Nova Bréscia",5,51,-,-,56
+"431301 Nova Candelária",3,19,-,-,22
+"431303 Nova Esperança do Sul",3,3,-,-,6
+"431306 Nova Hartz",23,194,4,2,223
+"431308 Nova Pádua",4,3,-,-,7
+"431310 Nova Palma",41,69,-,-,110
+"431320 Nova Petrópolis",29,81,12,-,122
+"431330 Nova Prata",123,423,10,-,556
+"431333 Nova Ramada",1,4,-,-,5
+"431335 Nova Roma do Sul",11,3,1,-,15
+"431337 Nova Santa Rita",39,99,6,-,144
+"431349 Novo Barreiro",3,20,1,-,24
+"431339 Novo Cabrais",37,80,4,-,121
+"431340 Novo Hamburgo",271,123,20,3,417
+"431342 Novo Machado",8,27,-,-,35
+"431344 Novo Tiradentes",4,3,-,-,7
+"431346 Novo Xingu",-,-,-,1,1
+"431350 Osório",175,79,7,1,262
+"431360 Paim Filho",5,3,-,-,8
+"431365 Palmares do Sul",2,21,1,1,25
+"431370 Palmeira das Missões",91,174,8,-,273
+"431380 Palmitinho",2,13,-,-,15
+"431390 Panambi",101,185,1,-,287
+"431395 Pantano Grande",39,61,-,-,100
+"431400 Paraí",25,83,2,-,110
+"431402 Paraíso do Sul",5,13,-,-,18
+"431403 Pareci Novo",11,3,-,-,14
+"431405 Parobé",173,218,13,-,404
+"431406 Passa Sete",39,115,-,-,154
+"431407 Passo do Sobrado",9,8,-,-,17
+"431410 Passo Fundo",1344,3676,34,7,5061
+"431413 Paulo Bento",-,1,-,-,1
+"431415 Paverama",4,18,-,-,22
+"431417 Pedras Altas",5,6,-,-,11
+"431420 Pedro Osório",6,2,-,-,8
+"431430 Pejuçara",6,13,1,-,20
+"431440 Pelotas",695,653,53,3,1404
+"431442 Picada Café",15,20,1,-,36
+"431445 Pinhal",6,6,-,-,12
+"431446 Pinhal da Serra",15,10,1,-,26
+"431447 Pinhal Grande",3,27,2,-,32
+"431449 Pinheirinho do Vale",1,7,-,-,8
+"431450 Pinheiro Machado",27,20,-,-,47
+"431454 Pinto Bandeira",6,15,-,-,21
+"431455 Pirapó",6,11,1,-,18
+"431460 Piratini",53,82,4,-,139
+"431470 Planalto",25,24,1,1,51
+"431475 Poço das Antas",1,14,-,-,15
+"431477 Pontão",3,3,-,-,6
+"431478 Ponte Preta",1,2,1,-,4
+"431480 Portão",29,28,6,1,64
+"431490 Porto Alegre",5332,13704,123,5,19164
+"431500 Porto Lucena",9,11,1,-,21
+"431505 Porto Mauá",10,9,-,-,19
+"431507 Porto Vera Cruz",4,8,-,-,12
+"431510 Porto Xavier",5,6,-,-,11
+"431513 Pouso Novo",6,2,-,-,8
+"431514 Presidente Lucena",3,2,-,-,5
+"431515 Progresso",14,8,-,-,22
+"431517 Protásio Alves",1,2,-,1,4
+"431520 Putinga",9,1,-,-,10
+"431530 Quaraí",13,15,1,-,29
+"431531 Quatro Irmãos",11,22,-,1,34
+"431532 Quevedos",14,10,-,-,24
+"431535 Quinze de Novembro",10,1,-,-,11
+"431540 Redentora",8,22,1,-,31
+"431545 Relvado",6,5,1,-,12
+"431550 Restinga Seca",18,28,-,-,46
+"431555 Rio dos Índios",-,3,-,-,3
+"431560 Rio Grande",577,3484,26,2,4089
+"431570 Rio Pardo",85,79,5,1,170
+"431575 Riozinho",2,6,3,-,11
+"431580 Roca Sales",24,16,1,-,41
+"431590 Rodeio Bonito",-,4,-,-,4
+"431595 Rolador",1,3,-,-,4
+"431600 Rolante",61,111,18,-,190
+"431610 Ronda Alta",11,21,1,1,34
+"431620 Rondinha",14,11,-,-,25
+"431630 Roque Gonzales",-,1,-,-,1
+"431640 Rosário do Sul",29,38,6,1,74
+"431642 Sagrada Família",6,6,1,1,14
+"431643 Saldanha Marinho",12,4,-,-,16
+"431645 Salto do Jacuí",57,195,12,2,266
+"431647 Salvador das Missões",2,2,-,-,4
+"431650 Salvador do Sul",22,26,-,-,48
+"431660 Sananduva",75,19,-,-,94
+"431710 Sant'Ana do Livramento",80,691,27,-,798
+"431670 Santa Bárbara do Sul",12,23,8,1,44
+"431673 Santa Cecília do Sul",13,29,-,1,43
+"431675 Santa Clara do Sul",26,43,5,3,77
+"431680 Santa Cruz do Sul",653,949,-,5,1607
+"431690 Santa Maria",1123,1528,59,14,2724
+"431695 Santa Maria do Herval",6,2,-,-,8
+"431720 Santa Rosa",571,798,12,-,1381
+"431725 Santa Tereza",5,10,-,-,15
+"431730 Santa Vitória do Palmar",42,88,-,1,131
+"431740 Santiago",246,1460,14,7,1727
+"431750 Santo Ângelo",126,108,59,-,293
+"431760 Santo Antônio da Patrulha",54,69,2,-,125
+"431770 Santo Antônio das Missões",9,2,-,-,11
+"431755 Santo Antônio do Palma",6,8,1,-,15
+"431775 Santo Antônio do Planalto",4,10,-,-,14
+"431780 Santo Augusto",5,14,1,1,21
+"431790 Santo Cristo",38,94,-,-,132
+"431795 Santo Expedito do Sul",1,3,-,-,4
+"431800 São Borja",93,77,-,1,171
+"431805 São Domingos do Sul",8,3,-,-,11
+"431810 São Francisco de Assis",63,116,10,1,190
+"431820 São Francisco de Paula",172,116,6,-,294
+"431830 São Gabriel",190,164,11,8,373
+"431840 São Jerônimo",7,-,-,-,7
+"431842 São João da Urtiga",12,31,-,-,43
+"431843 São João do Polêsine",8,28,1,-,37
+"431844 São Jorge",2,-,-,-,2
+"431845 São José das Missões",9,18,-,-,27
+"431846 São José do Herval",38,72,2,2,114
+"431848 São José do Hortêncio",4,-,-,-,4
+"431849 São José do Inhacorá",3,8,5,-,16
+"431850 São José do Norte",101,214,9,1,325
+"431860 São José do Ouro",10,20,-,-,30
+"431861 São José do Sul",1,8,-,-,9
+"431862 São José dos Ausentes",5,2,-,-,7
+"431870 São Leopoldo",459,765,28,3,1255
+"431880 São Lourenço do Sul",214,27,11,3,255
+"431890 São Luiz Gonzaga",74,27,-,-,101
+"431900 São Marcos",80,123,15,-,218
+"431910 São Martinho",23,58,-,-,81
+"431912 São Martinho da Serra",2,5,-,-,7
+"431915 São Miguel das Missões",4,3,-,-,7
+"431920 São Nicolau",5,13,-,-,18
+"431930 São Paulo das Missões",3,42,-,-,45
+"431935 São Pedro da Serra",13,8,-,-,21
+"431936 São Pedro das Missões",1,-,-,-,1
+"431937 São Pedro do Butiá",9,7,-,-,16
+"431940 São Pedro do Sul",48,95,14,2,159
+"431950 São Sebastião do Caí",25,5,2,-,32
+"431960 São Sepé",34,30,-,-,64
+"431970 São Valentim",15,29,1,-,45
+"431971 São Valentim do Sul",5,3,-,-,8
+"431973 São Valério do Sul",2,5,-,-,7
+"431975 São Vendelino",3,-,-,-,3
+"431980 São Vicente do Sul",16,53,4,-,73
+"431990 Sapiranga",17,606,-,14,637
+"432000 Sapucaia do Sul",461,268,18,1,748
+"432010 Sarandi",69,47,5,1,122
+"432020 Seberi",9,161,5,3,178
+"432023 Sede Nova",4,6,3,-,13
+"432026 Segredo",44,113,-,-,157
+"432030 Selbach",20,62,2,1,85
+"432032 Senador Salgado Filho",19,125,3,-,147
+"432040 Serafina Corrêa",140,186,3,-,329
+"432045 Sério",7,12,1,-,20
+"432050 Sertão",30,37,2,-,69
+"432055 Sertão Santana",-,4,-,-,4
+"432057 Sete de Setembro",1,20,2,-,23
+"432060 Severiano de Almeida",-,2,-,-,2
+"432065 Silveira Martins",14,27,1,-,42
+"432067 Sinimbu",48,25,-,-,73
+"432070 Sobradinho",86,119,1,-,206
+"432080 Soledade",308,381,12,2,703
+"432085 Tabaí",-,4,-,-,4
+"432090 Tapejara",159,132,3,1,295
+"432100 Tapera",33,128,5,-,166
+"432110 Tapes",49,48,2,-,99
+"432120 Taquara",30,31,3,-,64
+"432130 Taquari",29,28,3,-,60
+"432132 Taquaruçu do Sul",2,11,-,-,13
+"432135 Tavares",5,2,-,-,7
+"432140 Tenente Portela",96,449,9,1,555
+"432143 Terra de Areia",35,91,-,-,126
+"432145 Teutônia",432,835,14,1,1282
+"432146 Tio Hugo",1,4,-,-,5
+"432147 Tiradentes do Sul",-,5,-,-,5
+"432149 Toropi",12,28,-,-,40
+"432150 Torres",304,416,6,1,727
+"432160 Tramandaí",55,30,4,-,89
+"432162 Travesseiro",9,6,-,-,15
+"432163 Três Arroios",-,6,1,-,7
+"432166 Três Cachoeiras",14,27,-,-,41
+"432170 Três Coroas",64,236,1,1,302
+"432180 Três de Maio",115,181,4,-,300
+"432183 Três Forquilhas",2,-,-,-,2
+"432185 Três Palmeiras",5,6,1,-,12
+"432190 Três Passos",112,174,16,1,303
+"432195 Trindade do Sul",12,5,6,2,25
+"432200 Triunfo",48,41,1,-,90
+"432210 Tucunduva",33,51,5,-,89
+"432215 Tunas",8,6,-,-,14
+"432218 Tupanci do Sul",-,7,-,-,7
+"432220 Tupanciretã",16,14,-,-,30
+"432225 Tupandi",6,6,-,-,12
+"432230 Tuparendi",35,60,7,2,104
+"432235 União da Serra",-,2,-,-,2
+"432237 Unistalda",6,3,-,-,9
+"432240 Uruguaiana",648,2629,114,28,3419
+"432250 Vacaria",153,104,4,-,261
+"432253 Vale do Sol",2,34,-,-,36
+"432254 Vale Real",11,17,-,1,29
+"432252 Vale Verde",3,8,-,-,11
+"432255 Vanini",2,11,-,-,13
+"432260 Venâncio Aires",457,682,18,-,1157
+"432270 Vera Cruz",133,56,1,-,190
+"432280 Veranópolis",121,300,10,-,431
+"432285 Vespasiano Correa",9,34,-,-,43
+"432290 Viadutos",10,56,7,2,75
+"432300 Viamão",119,143,21,2,285
+"432310 Vicente Dutra",5,31,-,1,37
+"432320 Victor Graeff",1,4,-,-,5
+"432330 Vila Flores",6,20,-,-,26
+"432335 Vila Lângaro",3,11,-,-,14
+"432340 Vila Maria",24,7,1,-,32
+"432345 Vila Nova do Sul",3,18,-,-,21
+"432350 Vista Alegre",7,13,-,-,20
+"432360 Vista Alegre do Prata",2,1,-,-,3
+"432370 Vista Gaúcha",-,14,-,-,14
+"432375 Vitória das Missões",2,-,-,-,2
+"432380 Xangri-lá",39,120,38,-,197
+"500020 Água Clara",8,212,3,-,223
+"500025 Alcinópolis",18,65,-,1,84
+"500060 Amambai",23,761,13,1,798
+"500070 Anastácio",120,10,1,-,131
+"500080 Anaurilândia",1,1,-,-,2
+"500085 Angélica",-,3,-,-,3
+"500090 Antônio João",51,306,7,4,368
+"500100 Aparecida do Taboado",2,5,-,-,7
+"500110 Aquidauana",196,245,91,-,532
+"500124 Aral Moreira",1,27,1,-,29
+"500150 Bandeirantes",10,23,-,-,33
+"500190 Bataguassu",7,8,21,4,40
+"500200 Batayporã",1,2,-,-,3
+"500210 Bela Vista",1,22,-,-,23
+"500215 Bodoquena",22,51,2,2,77
+"500220 Bonito",3,13,1,-,17
+"500230 Brasilândia",7,87,3,-,97
+"500240 Caarapó",32,398,30,-,460
+"500270 Campo Grande",5636,14083,654,33,20406
+"500280 Caracol",-,2,-,-,2
+"500290 Cassilândia",31,222,6,4,263
+"500295 Chapadão do Sul",114,142,13,1,270
+"500315 Coronel Sapucaia",5,76,1,-,82
+"500320 Corumbá",628,5751,669,8,7056
+"500325 Costa Rica",121,184,-,-,305
+"500330 Coxim",118,404,11,2,535
+"500345 Deodápolis",5,45,1,-,51
+"500348 Dois Irmãos do Buriti",2,18,2,3,25
+"500350 Douradina",-,1,-,-,1
+"500370 Dourados",239,1189,529,2,1959
+"500375 Eldorado",9,16,-,-,25
+"500380 Fátima do Sul",52,392,30,-,474
+"500390 Figueirão",-,3,1,-,4
+"500410 Guia Lopes da Laguna",4,46,-,1,51
+"500430 Iguatemi",-,11,1,1,13
+"500450 Itaporã",11,157,29,-,197
+"500460 Itaquiraí",4,30,2,-,36
+"500470 Ivinhema",82,155,2,2,241
+"500480 Japorã",19,212,4,1,236
+"500490 Jaraguari",1,-,-,-,1
+"500500 Jardim",50,242,4,1,297
+"500515 Juti",4,30,1,-,35
+"500520 Ladário",45,327,85,1,458
+"500525 Laguna Carapã",9,37,3,2,51
+"500540 Maracaju",24,280,15,5,324
+"500560 Miranda",9,18,2,-,29
+"500568 Mundo Novo",2,8,-,1,11
+"500570 Naviraí",81,352,88,-,521
+"500580 Nioaque",28,265,27,8,328
+"500600 Nova Alvorada do Sul",1,11,1,-,13
+"500620 Nova Andradina",293,976,36,16,1321
+"500625 Novo Horizonte do Sul",1,2,1,-,4
+"500627 Paraíso das Águas",9,20,-,-,29
+"500630 Paranaíba",65,148,35,3,251
+"500635 Paranhos",25,128,4,-,157
+"500640 Pedro Gomes",4,163,6,1,174
+"500660 Ponta Porã",140,482,56,39,717
+"500690 Porto Murtinho",14,43,3,-,60
+"500710 Ribas do Rio Pardo",4,22,2,-,28
+"500720 Rio Brilhante",3,75,-,1,79
+"500730 Rio Negro",1,3,-,-,4
+"500740 Rio Verde de Mato Grosso",17,118,-,-,135
+"500750 Rochedo",1,7,-,-,8
+"500769 São Gabriel do Oeste",112,626,11,2,751
+"500780 Selvíria",7,11,2,-,20
+"500770 Sete Quedas",4,12,1,1,18
+"500790 Sidrolândia",57,236,33,-,326
+"500793 Sonora",18,40,2,-,60
+"500795 Tacuru",31,200,-,-,231
+"500797 Taquarussu",4,1,-,2,7
+"500800 Terenos",23,57,8,2,90
+"500830 Três Lagoas",634,445,1,-,1080
+"500840 Vicentina",3,15,-,1,19
+"510020 Água Boa",4,10,3,-,17
+"510025 Alta Floresta",57,692,20,3,772
+"510030 Alto Araguaia",-,1,-,-,1
+"510035 Alto Boa Vista",-,-,-,1,1
+"510040 Alto Garças",3,2,-,2,7
+"510060 Alto Taquari",6,7,-,-,13
+"510080 Apiacás",7,40,3,-,50
+"510100 Araguaiana",4,19,1,-,24
+"510125 Araputanga",4,2,-,1,7
+"510130 Arenápolis",1,8,-,-,9
+"510140 Aripuanã",26,91,2,-,119
+"510170 Barra do Bugres",5,29,1,1,36
+"510180 Barra do Garças",248,325,36,12,621
+"510185 Bom Jesus do Araguaia",-,3,-,-,3
+"510190 Brasnorte",6,31,-,-,37
+"510250 Cáceres",72,358,5,2,437
+"510260 Campinápolis",4,15,1,-,20
+"510263 Campo Novo do Parecis",27,112,9,-,148
+"510267 Campo Verde",45,118,5,-,168
+"510268 Campos de Júlio",19,19,-,-,38
+"510269 Canabrava do Norte",4,2,1,-,7
+"510270 Canarana",29,137,2,-,168
+"510279 Carlinda",1,12,1,1,15
+"510285 Castanheira",-,6,-,-,6
+"510300 Chapada dos Guimarães",22,103,3,1,129
+"510305 Cláudia",13,19,3,-,35
+"510310 Cocalinho",-,1,-,-,1
+"510320 Colíder",37,79,14,2,132
+"510325 Colniza",4,19,1,-,24
+"510330 Comodoro",5,13,5,-,23
+"510335 Confresa",54,116,9,2,181
+"510337 Cotriguaçu",8,9,1,-,18
+"510340 Cuiabá",538,1407,245,56,2246
+"510350 Diamantino",2,59,-,1,62
+"510360 Dom Aquino",-,2,-,-,2
+"510370 Feliz Natal",10,54,1,-,65
+"510380 Figueirópolis D'Oeste",-,2,2,-,4
+"510385 Gaúcha do Norte",8,16,-,-,24
+"510390 General Carneiro",1,28,3,4,36
+"510410 Guarantã do Norte",20,288,1,1,310
+"510452 Ipiranga do Norte",4,4,-,-,8
+"510454 Itanhangá",1,1,-,-,2
+"510455 Itaúba",6,18,1,-,25
+"510460 Itiquira",6,28,-,-,34
+"510480 Jaciara",14,41,2,-,57
+"510510 Juara",62,788,23,8,881
+"510515 Juína",236,266,16,4,522
+"510517 Juruena",20,74,8,1,103
+"510520 Juscimeira",-,-,1,-,1
+"510523 Lambari D'Oeste",-,1,-,-,1
+"510525 Lucas do Rio Verde",174,388,10,2,574
+"510530 Luciara",1,1,-,1,3
+"510558 Marcelândia",18,148,1,1,168
+"510560 Matupá",40,97,-,-,137
+"510562 Mirassol d'Oeste",4,7,-,1,12
+"510610 Nossa Senhora do Livramento",2,11,1,-,14
+"510615 Nova Bandeirantes",3,27,1,-,31
+"510621 Nova Canaã do Norte",3,-,-,-,3
+"510880 Nova Guarita",-,1,-,-,1
+"510885 Nova Marilândia",1,6,-,-,7
+"510890 Nova Maringá",-,4,-,-,4
+"510895 Nova Monte Verde",1,12,11,-,24
+"510622 Nova Mutum",143,308,27,2,480
+"510617 Nova Nazaré",-,2,-,-,2
+"510619 Nova Santa Helena",1,5,1,-,7
+"510624 Nova Ubiratã",2,14,2,1,19
+"510625 Nova Xavantina",4,13,1,1,19
+"510627 Novo Horizonte do Norte",3,8,-,-,11
+"510626 Novo Mundo",-,2,-,-,2
+"510631 Novo Santo Antônio",1,11,-,-,12
+"510628 Novo São Joaquim",-,5,-,-,5
+"510629 Paranaíta",11,13,-,-,24
+"510630 Paranatinga",1,38,1,-,40
+"510637 Pedra Preta",-,2,-,-,2
+"510642 Peixoto de Azevedo",15,134,12,1,162
+"510645 Planalto da Serra",-,3,1,-,4
+"510650 Poconé",6,31,2,1,40
+"510675 Pontes e Lacerda",23,22,-,-,45
+"510677 Porto Alegre do Norte",2,10,1,-,13
+"510680 Porto dos Gaúchos",9,2,-,-,11
+"510700 Poxoréo",-,1,1,-,2
+"510704 Primavera do Leste",32,83,14,2,131
+"510706 Querência",6,6,1,-,13
+"510715 Reserva do Cabaçal",-,3,-,-,3
+"510719 Ribeirãozinho",-,-,1,-,1
+"510720 Rio Branco",-,-,1,-,1
+"510757 Rondolândia",1,2,-,-,3
+"510760 Rondonópolis",60,688,32,1,781
+"510770 Rosário Oeste",-,5,-,-,5
+"510724 Santa Carmem",3,18,1,-,22
+"510776 Santa Rita do Trivelato",-,2,-,-,2
+"510777 Santa Terezinha",13,5,-,-,18
+"510779 Santo Antônio do Leste",-,6,2,-,8
+"510785 São Félix do Araguaia",1,10,-,-,11
+"510729 São José do Povo",-,-,-,1,1
+"510730 São José do Rio Claro",1,2,2,-,5
+"510735 São José do Xingu",5,36,6,-,47
+"510710 São José dos Quatro Marcos",6,1,-,-,7
+"510740 São Pedro da Cipa",1,5,-,-,6
+"510787 Sapezal",-,2,-,-,2
+"510790 Sinop",260,944,53,3,1260
+"510792 Sorriso",175,355,6,-,536
+"510794 Tabaporã",11,11,-,-,22
+"510795 Tangará da Serra",88,112,4,-,204
+"510800 Tapurah",23,46,-,-,69
+"510805 Terra Nova do Norte",-,4,-,-,4
+"510810 Tesouro",-,1,-,-,1
+"510820 Torixoréu",1,3,-,-,4
+"510830 União do Sul",-,8,-,-,8
+"510840 Várzea Grande",141,167,8,5,321
+"510850 Vera",-,10,-,1,11
+"510550 Vila Bela da Santíssima Trindade",1,-,-,-,1
+"510860 Vila Rica",9,12,-,1,22
+"520005 Abadia de Goiás",4,12,1,-,17
+"520010 Abadiânia",23,15,1,-,39
+"520013 Acreúna",24,161,7,3,195
+"520015 Adelândia",-,1,-,-,1
+"520017 Água Fria de Goiás",1,7,-,-,8
+"520020 Água Limpa",4,4,-,-,8
+"520025 Águas Lindas de Goiás",227,384,5,2,618
+"520030 Alexânia",30,90,12,4,136
+"520050 Aloândia",3,4,-,-,7
+"520055 Alto Horizonte",-,5,1,1,7
+"520060 Alto Paraíso de Goiás",3,71,2,2,78
+"520080 Alvorada do Norte",3,24,2,-,29
+"520090 Amorinópolis",1,-,-,-,1
+"520110 Anápolis",1029,2288,157,9,3483
+"520130 Anicuns",36,2,-,-,38
+"520140 Aparecida de Goiânia",1096,1895,174,7,3172
+"520145 Aparecida do Rio Doce",-,6,-,-,6
+"520150 Aporé",16,101,1,-,118
+"520160 Araçu",8,10,1,2,21
+"520170 Aragarças",18,28,11,-,57
+"520180 Aragoiânia",2,22,3,-,27
+"520215 Araguapaz",15,32,1,-,48
+"520235 Arenópolis",3,39,4,-,46
+"520260 Aurilândia",-,4,-,-,4
+"520320 Barro Alto",3,117,-,1,121
+"520330 Bela Vista de Goiás",7,59,4,-,70
+"520340 Bom Jardim de Goiás",-,7,1,-,8
+"520350 Bom Jesus de Goiás",59,44,1,-,104
+"520355 Bonfinópolis",-,6,-,-,6
+"520357 Bonópolis",-,1,-,-,1
+"520360 Brazabrantes",8,16,2,-,26
+"520380 Britânia",2,10,1,-,13
+"520390 Buriti Alegre",31,17,1,-,49
+"520396 Buritinópolis",-,1,-,-,1
+"520400 Cabeceiras",3,35,2,1,41
+"520410 Cachoeira Alta",3,35,-,1,39
+"520420 Cachoeira de Goiás",-,4,-,-,4
+"520425 Cachoeira Dourada",3,7,2,-,12
+"520430 Caçu",34,54,1,3,92
+"520440 Caiapônia",9,4,-,-,13
+"520450 Caldas Novas",37,117,11,3,168
+"520460 Campestre de Goiás",-,3,-,-,3
+"520470 Campinorte",1,3,-,-,4
+"520480 Campo Alegre de Goiás",-,4,-,-,4
+"520485 Campo Limpo de Goiás",1,1,-,-,2
+"520490 Campos Belos",7,34,-,-,41
+"520495 Campos Verdes",-,2,-,-,2
+"520500 Carmo do Rio Verde",5,31,3,1,40
+"520505 Castelândia",7,11,-,-,18
+"520510 Catalão",212,124,11,4,351
+"520520 Caturaí",-,11,-,-,11
+"520530 Cavalcante",2,6,2,-,10
+"520540 Ceres",44,209,15,-,268
+"520545 Cezarina",-,7,-,-,7
+"520547 Chapadão do Céu",29,67,1,-,97
+"520549 Cidade Ocidental",108,148,2,1,259
+"520551 Cocalzinho de Goiás",45,128,9,1,183
+"520552 Colinas do Sul",1,4,1,-,6
+"520570 Córrego do Ouro",-,10,-,1,11
+"520580 Corumbá de Goiás",17,71,-,-,88
+"520590 Corumbaíba",37,50,-,1,88
+"520620 Cristalina",203,612,128,201,1144
+"520630 Cristianópolis",-,1,-,-,1
+"520640 Crixás",-,3,-,-,3
+"520650 Cromínia",1,-,-,-,1
+"520690 Davinópolis",1,6,-,-,7
+"520710 Diorama",-,1,-,-,1
+"520830 Divinópolis de Goiás",-,2,-,-,2
+"520725 Doverlândia",-,1,-,-,1
+"520735 Edealina",2,17,3,-,22
+"520740 Edéia",16,97,3,1,117
+"520750 Estrela do Norte",4,1,1,-,6
+"520760 Fazenda Nova",-,1,-,-,1
+"520780 Firminópolis",-,5,-,1,6
+"520790 Flores de Goiás",3,21,4,1,29
+"520800 Formosa",58,367,126,5,556
+"520815 Gameleira de Goiás",-,1,-,-,1
+"520840 Goianápolis",10,25,2,-,37
+"520850 Goiandira",6,9,-,-,15
+"520860 Goianésia",3,93,10,1,107
+"520870 Goiânia",2378,8580,381,14,11353
+"520880 Goianira",64,168,28,5,265
+"520890 Goiás",17,50,5,-,72
+"520910 Goiatuba",100,55,8,2,165
+"520915 Gouvelândia",8,23,-,-,31
+"520920 Guapó",6,3,-,1,10
+"520945 Guarinos",1,2,-,-,3
+"520960 Heitoraí",1,2,-,-,3
+"520970 Hidrolândia",17,34,2,-,53
+"520980 Hidrolina",-,-,-,1,1
+"520990 Iaciara",1,9,8,-,18
+"520993 Inaciolândia",12,38,1,-,51
+"520995 Indiara",5,6,-,-,11
+"521000 Inhumas",112,29,1,1,143
+"521010 Ipameri",1,7,-,1,9
+"521015 Ipiranga de Goiás",2,1,-,-,3
+"521020 Iporá",12,104,1,-,117
+"521040 Itaberaí",98,207,11,-,316
+"521056 Itaguari",5,8,-,-,13
+"521060 Itaguaru",10,14,10,-,34
+"521080 Itajá",5,12,1,1,19
+"521090 Itapaci",5,42,-,-,47
+"521100 Itapirapuã",-,2,-,2,4
+"521120 Itapuranga",7,9,2,1,19
+"521130 Itarumã",2,10,-,-,12
+"521140 Itauçu",1,-,-,-,1
+"521150 Itumbiara",58,68,47,4,177
+"521160 Ivolândia",6,7,-,-,13
+"521170 Jandaia",-,8,-,-,8
+"521180 Jaraguá",7,23,1,-,31
+"521190 Jataí",391,731,8,5,1135
+"521205 Jesúpolis",3,15,2,-,20
+"521210 Joviânia",10,25,1,1,37
+"521220 Jussara",5,27,1,-,33
+"521250 Luziânia",361,630,25,2,1018
+"521260 Mairipotaba",1,1,-,-,2
+"521270 Mambaí",2,13,-,-,15
+"521280 Mara Rosa",1,-,-,1,2
+"521290 Marzagão",-,1,-,-,1
+"521300 Maurilândia",-,2,1,-,3
+"521308 Minaçu",16,34,2,2,54
+"521310 Mineiros",53,130,16,1,200
+"521350 Monte Alegre de Goiás",-,2,-,-,2
+"521370 Montes Claros de Goiás",33,7,2,-,42
+"521375 Montividiu",-,6,2,-,8
+"521377 Montividiu do Norte",-,2,-,-,2
+"521380 Morrinhos",174,219,12,6,411
+"521385 Morro Agudo de Goiás",2,-,1,-,3
+"521400 Mozarlândia",2,6,1,-,9
+"521405 Mundo Novo",2,4,-,-,6
+"521450 Nerópolis",15,222,22,5,264
+"521460 Niquelândia",6,20,1,-,27
+"521470 Nova América",2,7,-,-,9
+"521480 Nova Aurora",-,2,-,-,2
+"521483 Nova Crixás",5,16,2,3,26
+"521487 Nova Iguaçu de Goiás",-,2,1,-,3
+"521500 Nova Veneza",1,1,-,-,2
+"521523 Novo Gama",8,38,2,-,48
+"521530 Orizona",3,3,-,-,6
+"521540 Ouro Verde de Goiás",8,25,1,1,35
+"521550 Ouvidor",1,1,1,-,3
+"521560 Padre Bernardo",15,67,41,1,124
+"521565 Palestina de Goiás",-,2,-,-,2
+"521570 Palmeiras de Goiás",-,10,1,1,12
+"521580 Palmelo",-,1,-,-,1
+"521590 Palminópolis",1,-,-,-,1
+"521600 Panamá",15,14,2,-,31
+"521630 Paranaiguara",29,183,2,1,215
+"521640 Paraúna",37,52,1,-,90
+"521645 Perolândia",-,3,-,-,3
+"521680 Petrolina de Goiás",-,13,-,-,13
+"521710 Piracanjuba",5,109,22,-,136
+"521720 Piranhas",3,2,-,-,5
+"521730 Pirenópolis",89,377,28,-,494
+"521740 Pires do Rio",42,21,3,1,67
+"521760 Planaltina",120,96,11,3,230
+"521770 Pontalina",-,4,-,-,4
+"521800 Porangatu",76,78,2,-,156
+"521810 Portelândia",1,9,-,-,10
+"521830 Posse",9,54,7,11,81
+"521839 Professor Jamil",1,1,-,-,2
+"521850 Quirinópolis",2,5,1,-,8
+"521878 Rio Quente",1,2,-,-,3
+"521880 Rio Verde",539,796,93,6,1434
+"521890 Rubiataba",16,10,2,-,28
+"521900 Sanclerlândia",3,3,-,-,6
+"521910 Santa Bárbara de Goiás",7,3,-,-,10
+"521920 Santa Cruz de Goiás",-,5,-,-,5
+"521925 Santa Fé de Goiás",2,7,-,-,9
+"521930 Santa Helena de Goiás",69,209,11,1,290
+"521940 Santa Rita do Araguaia",-,3,-,1,4
+"521950 Santa Rosa de Goiás",1,-,-,-,1
+"521960 Santa Tereza de Goiás",4,2,-,-,6
+"521971 Santo Antônio da Barra",27,25,-,2,54
+"521973 Santo Antônio de Goiás",-,2,-,-,2
+"521975 Santo Antônio do Descoberto",5,35,10,-,50
+"521990 São Francisco de Goiás",-,-,1,-,1
+"522000 São João d'Aliança",15,64,9,-,88
+"522005 São João da Paraúna",1,4,1,-,6
+"522010 São Luís de Montes Belos",5,56,5,-,66
+"522020 São Miguel do Araguaia",57,77,2,-,136
+"522026 São Miguel do Passa Quatro",2,3,2,-,7
+"522028 São Patrício",-,1,-,-,1
+"522040 São Simão",7,87,2,1,97
+"522045 Senador Canedo",132,81,6,4,223
+"522050 Serranópolis",5,11,3,-,19
+"522060 Silvânia",15,31,4,1,51
+"522068 Simolândia",-,3,-,-,3
+"522070 Sítio d'Abadia",-,1,-,-,1
+"522108 Teresina de Goiás",-,2,1,-,3
+"522119 Terezópolis de Goiás",1,10,-,-,11
+"522130 Três Ranchos",-,2,-,-,2
+"522140 Trindade",114,258,53,16,441
+"522145 Trombas",-,1,-,-,1
+"522150 Turvânia",21,12,-,-,33
+"522155 Turvelândia",1,46,-,-,47
+"522160 Uruaçu",78,76,2,5,161
+"522170 Uruana",5,30,1,-,36
+"522180 Urutaí",5,13,-,-,18
+"522185 Valparaíso de Goiás",359,328,183,32,902
+"522190 Varjão",-,6,3,-,9
+"522200 Vianópolis",35,11,-,-,46
+"522205 Vicentinópolis",1,5,-,1,7
+"522220 Vila Boa",6,42,3,-,51
+"522230 Vila Propício",-,1,1,-,2
+"530010 Brasília",7039,9686,2170,106,19001
